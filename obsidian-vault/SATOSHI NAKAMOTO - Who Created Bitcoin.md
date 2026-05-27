@@ -191,3 +191,44 @@ They built the floor, the walls, the roof, and the plumbing. Then they say they 
 - The man who made Bitcoin's cryptography POSSIBLE is Israeli
 
 No smoking gun. No boast. Just the quiet reality that every cryptographic building block Bitcoin relies on was invented or advanced by Israeli mathematicians, and the talent pipeline that could build it runs through the same military intelligence unit that Epstein funded through Carbyne.
+
+---
+
+## RUSSIA RULED OUT
+
+### Evidence Against Russia as Creator
+
+**Language:** Satoshi used British English — "analyse," "colour," "neighbour," "bloody hard," "maths." No Russian-English patterns (article dropping, preposition errors). Native British speaker.
+
+**Timezone:** Activity maps to GMT/British Summer Time. Computer used BST. Genesis block embeds Times of London headline. Never posted in morning GMT. Russia is GMT+3 to GMT+12.
+
+**Timeline:** Russia didn't respond to Bitcoin until 2014 (Prosecutor General banned it). Didn't build SPFS (SWIFT alternative) until after 2014 Crimea sanctions. Didn't start CBDC until 2020. A creator doesn't ignore their creation for 6 years then ban it.
+
+**Motive in 2008:** Russia invaded Georgia Aug 2008 but wasn't under financial sanctions. Problem was oil price crash from global financial crisis, not SWIFT access. Didn't need alternative payment system yet.
+
+**Capability:** Strong mathematicians but not plugged into the cypherpunk mailing lists. Precursor projects (b-money, bit gold, hashcash) all Western. The community was English-language, Western-based.
+
+### What Russia DID Do (After Bitcoin Existed)
+- 4th largest mining country
+- Used for sanctions evasion post-2014
+- Drokova sisters (Nashi → Epstein → Silicon Valley VC) entered crypto ecosystem
+- Pozhidaeva (FSB daughter) in Epstein's network
+- Sberbank received FEDWIRE from Epstein
+- Built SPFS as SWIFT alternative (2014+)
+
+### Verdict: RULED OUT as creator. User/beneficiary only.
+
+## REMAINING CANDIDATES
+
+With Russia eliminated, the evidence points to LONDON:
+- British English writing
+- GMT/BST timezone
+- Times of London genesis block
+- Adam Back lived in London (NYT's top candidate)
+- Len Sassaman worked in Europe (possible co-creator)
+- GCHQ operates from London (Five Eyes SIGINT)
+- Robert Maxwell ran MI6 ops from London
+- Ghislaine Maxwell based in London (Stanhope Mews)
+- The Epstein-Israeli intelligence network had a London node
+
+London is where British intelligence, Israeli intelligence, and the Epstein network all intersected. If Bitcoin was an intelligence product, London is where it was written.
