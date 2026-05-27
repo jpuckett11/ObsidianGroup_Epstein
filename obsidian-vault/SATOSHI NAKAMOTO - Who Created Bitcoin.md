@@ -1,0 +1,101 @@
+# SATOSHI NAKAMOTO — Who Created Bitcoin and Does It Connect to the Machine?
+
+## The Candidates
+
+| Candidate | Case For | Case Against | Status |
+|-----------|----------|--------------|--------|
+| Hal Finney | First Bitcoin transaction recipient. PGP Corp cryptographer. Writing style match. PST timezone match. | Died ALS 2014. Denied it. | Dead |
+| Len Sassaman | Cypherpunk, PGP contributor, Mixmaster. Close to Finney. Died Jul 3, 2011 — 2 months after Satoshi's last post. Memorial embedded in blockchain. | Didn't use Windows/C++. Wife denies. Satoshi posted 2014 after death. | Dead (suicide) |
+| Adam Back | Created Hashcash (cited in whitepaper). NYT Carreyrou matched phrasing/spelling/grammar. | Denies it. Alive, runs Blockstream. | Alive, denying |
+| Nick Szabo | Created "bit gold" — direct Bitcoin precursor. Stylometric analysis links writing to whitepaper. | Denies it. | Alive, denying |
+| Finney + Sassaman | 2026 "Finding Satoshi" documentary. Mining/posting timezone analysis matches ONLY these two. | Satoshi posted 2014 — 3 years after Sassaman's death. | Partnership theory |
+| NSA | Published 1996 paper "How to Make a Mint: Cryptography of Anonymous Electronic Cash" — similar concepts. | No direct evidence linking NSA to Bitcoin protocol. | Unproven |
+| Craig Wright | Claimed to be Satoshi. | UK court ruled he is NOT Satoshi. Fabricated evidence. | Debunked |
+
+## The Epstein Convergence — Why This Matters
+
+### Timeline Alignment
+- **1996**: NSA publishes crypto cash paper
+- **Oct 31, 2008**: Bitcoin whitepaper published — Epstein is in county jail
+- **Jan 3, 2009**: Bitcoin network launches — Epstein on work release
+- **Jul 2009**: Epstein released from custody
+- **Jun 2011**: Epstein URGENTLY hunting Bitcoin developers — "jason,,? bitcoin guys?"
+- **Jul 3, 2011**: Len Sassaman dies (suicide) — same month Satoshi goes permanently silent
+- **Apr 26, 2011**: Satoshi's last known email: "I've moved on to other things"
+- **2011**: Brock Pierce relationship with Epstein begins
+- **2012**: Pierce scouting women in Moscow/Kiev/Odessa for Epstein
+- **2012-2017**: Epstein donates $525K to MIT Media Lab Digital Currency Initiative
+- **Aug 2014**: Epstein advises Treasury on crypto sanctions evasion, then meets Burns (now CIA Director)
+- **2015**: Pierce brings Epstein $3M investment into Coinbase
+- **2015**: Pierce co-founds Tether (now $8.23B reserves)
+
+### The Intelligence Capability Question
+Who had the technical capability to create Bitcoin in 2008?
+
+1. **NSA** — Published the blueprint in 1996. World-class cryptographers.
+2. **GCHQ** — British signals intelligence. Same capability.
+3. **Unit 8200** — Israeli signals intelligence. Epstein's documented connection through Barak/Carbyne.
+4. **Individual cypherpunks** — Finney, Sassaman, Back, Szabo all had the skills.
+
+### The Motive Question
+Who needed untraceable digital currency in 2008-2009?
+
+1. **Intelligence agencies** — monitoring and controlling a new financial layer
+2. **Sanctions evaders** — Iran, North Korea, Russia (Epstein was advising on this)
+3. **Criminal networks** — money laundering without banking system oversight
+4. **The Epstein network** — moving money through 56 entities across multiple jurisdictions, wiring to Sberbank, funding operations in 6 countries
+
+### What Epstein Actually Did (Documented)
+He didn't need to create Bitcoin. He **captured its infrastructure**:
+
+1. **Funded the developers** — MIT DCI salaries paid from Epstein donations
+2. **Tried to recruit the project leader** — Andresen said no, but the MIT money followed anyway
+3. **Embedded his man at the top** — Pierce became Bitcoin Foundation chairman
+4. **Co-founded the stablecoin layer** — Pierce co-founded Tether (underpins entire crypto market)
+5. **Invested in the on-ramp** — $3M in Coinbase (now ~$60B company)
+6. **Advised the government on its use** — Treasury meeting on sanctions evasion
+7. **Briefed intelligence** — private meeting with Burns (now CIA Director)
+8. **Used it operationally** — Sberbank wires + crypto = full spectrum financial opacity
+
+### Sassaman's Death — The Uncomfortable Timing
+- Len Sassaman died July 3, 2011
+- Satoshi's last substantive communication: April 2011
+- Epstein started hunting "the bitcoin guys": June 2011
+- One month before Sassaman died, Epstein was trying to reach Gavin Andresen
+- Sassaman was close to Finney. Finney was the first person Satoshi sent Bitcoin to.
+- The memorial embedded in Bitcoin's blockchain was placed by Dan Kaminsky — a security researcher who himself died unexpectedly in April 2021 at age 42
+
+### The Dead List
+| Person | Connection | Death |
+|--------|-----------|-------|
+| Len Sassaman | Possible Satoshi. Cypherpunk. | Suicide, Jul 3, 2011 |
+| Hal Finney | Possible Satoshi. First Bitcoin recipient. | ALS, Aug 28, 2014 |
+| Dan Kaminsky | Embedded Sassaman memorial in blockchain. | Died Apr 23, 2021, age 42 |
+| Al Seckel | Epstein's SEO manipulator. Island conference organizer. | "Fell" off cliff, France, Jul 2015. Death unconfirmed. |
+| Jean-Luc Brunel | Epstein's model agency operator. | Hanging in Paris jail, Feb 2022 |
+| Jeffrey Epstein | The machine operator. | Hanging in MCC, Aug 2019. Cameras not recording. |
+
+## Open Questions
+
+1. Did Sassaman know Epstein or anyone in Epstein's network?
+2. Did Finney have any contact with Epstein's circle before the June 2011 outreach?
+3. Who accessed Satoshi's P2P Foundation account in March 2014 to post "I am not Dorian Nakamoto" — 3 years after Sassaman's death?
+4. Why did Epstein become urgently interested in Bitcoin in June 2011 — one month before Sassaman died?
+5. The NSA published the blueprint. 8200 had the capability. Epstein had the connections to both. Was Bitcoin an intelligence tool that escaped into the wild?
+6. Satoshi's wallet holds ~1.1 million BTC (~$70 billion). It has never moved. Why?
+7. If Satoshi is dead, who controls the keys? If Satoshi is alive, why the silence?
+
+## Verdict
+
+**Tier 3 — Open Investigation Thread**
+
+No evidence in the corpus that Epstein created or was involved in creating Bitcoin. The whitepaper was published during his incarceration.
+
+BUT: The convergence of timing, capability, motive, and subsequent infrastructure capture is too dense to ignore. Whether Epstein knew the creator, whether an intelligence network built it, whether the cypherpunks created it independently and the machine simply moved to control it after the fact — the answer matters, because whoever controls Bitcoin's foundation layer controls a $1.5 trillion financial system that operates outside every regulatory framework that failed to stop Epstein.
+
+The question is not whether Bitcoin is connected to the machine. The question is whether the machine found it or built it.
+
+## Links
+- [[CRYPTO PIPELINE - Epstein to Bitcoin to Treasury to CIA]]
+- [[MASTER_CONNECTIONS]]
+- [[OSINT_SWEEP_MAY27]]
