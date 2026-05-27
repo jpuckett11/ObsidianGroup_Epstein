@@ -513,3 +513,44 @@ The question is worth asking. The answer isn't in the documents. Yet.
 - Burns was leading Iran nuclear deal negotiations
 - Burns is now CIA DIRECTOR (appointed 2021 by Biden)
 - The current head of the CIA had a private meeting with Epstein about crypto and Iran
+
+---
+
+## HANDALA — THE FOX ANALYZING THE HENHOUSE
+
+### The Hack
+- Handala (Iranian MOIS front) breached Israeli intelligence starting 2024
+- 110,000 Barak emails, 60,000 Eisenkot emails, 50,000 Prosor emails
+- 80 Unit 8200 officers exposed (names, photos, personal details)
+- 40 TB claimed from 8200 servers
+- 2.1 TB from Israeli Police (350,000 files)
+- 197 GB from Nahal Sorek nuclear facility
+- Vidisco security scanners backdoor discovered
+- 400,000+ files from INSS think tank
+
+### The DropSite Connection
+- Leaked data posted to DDoSecrets (whistleblower platform)
+- DropSite News published 6 major stories from the leaks
+- 4 of 6 stories are about EPSTEIN's work for Israeli military/intelligence
+- Stories confirmed: Mongolia security deal, Carbyne pipeline, Barak connections
+- Two independent source chains (EFTA corpus + Handala leaks) = same story
+
+### The Conflict of Interest
+- **Check Point** (founded by 8200 alumnus Nir Zuk) published official Handala analysis
+- **KELA Cyber** (Israeli firm) downplayed breach: "limited to Telegram only"
+- **Rafael Franco** (former deputy head of National Cyber Directorate) framed it as "psychological warfare"
+- All three are from the same community that was hacked
+- 8200 alumni companies are analyzing the hack of 8200
+- Their assessment: low threat, propaganda, limited breach
+- Reality: DropSite published 4 major Epstein investigations from the "limited" data
+
+### The Question
+If the breach was "only Telegram" and "psychological warfare," how did DropSite get enough material for four investigative articles confirming the Epstein-Israeli intelligence pipeline?
+
+Either KELA is wrong about the scope, or KELA is deliberately downplaying a breach that exposed the same intelligence operation they're connected to.
+
+### Tier Assessment
+- The hack happened: Tier 1 (confirmed by multiple sources)
+- The data is real: Tier 1 (DropSite verified, published, no retractions)
+- The conflict of interest: Tier 1 (8200 companies analyzing 8200 breach is documented)
+- The downplaying is deliberate: Tier 2 (pattern documented, intent inferred)
