@@ -1,0 +1,60 @@
+# === RAW DATA — NEVER COMMIT ===
+*.pdf
+!The_Chronological_Case_Study_of_J_Epstein.pdf
+!The_Chronological_Case_Study_of_J_Epstein_Evidence.pdf
+!The_Chronological_Case_Study_of_J_Epstein_Documentary.pdf
+*.zip
+*.tar
+*.tar.zst
+*.tar.xz
+*.torrent
+*.iso
+*.img
+*.raw
+*.dd
+*.pcap
+
+# === MEDIA — NEVER COMMIT ===
+*.mp4
+*.mov
+*.m4v
+*.m4a
+*.avi
+*.wav
+*.mp3
+*.opus
+*.3gp
+*.amr
+
+# === DATABASE / PROCESSING ===
+*.sqlite
+*.db
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# === TEMP / WORKING FILES ===
+*.part
+*.log
+/tmp/
+/scratch/
+/quarantine/
+
+# === OS FILES ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === SENSITIVE — NEVER COMMIT ===
+*REFERRAL*
+*referral*
+/private/
+/confidential/
+*.pem
+*.key
+id_*
+*.ssh
+credentials*
+*.token
+!When_Lady_Justice_Was_Truly_Blind.pdf
