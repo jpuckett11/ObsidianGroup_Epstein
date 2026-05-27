@@ -87,6 +87,16 @@ Obsidian Watch Group — Lead Investigator: Jay Puckett
 
 **If you have information about this case, contact us. Secure channels available. You will be protected.**
 
+## To the people filling my inbox
+
+This investigation is built on 3.5 million documents released by the United States Department of Justice. Every finding is cited to a bates number. Every claim is verifiable. If you have a factual correction, submit it with evidence.
+
+If your email is just anger that someone is looking — I'm not your therapist and this isn't a complaint line. Delete my address and move on. This investigation will continue regardless.
+
+If your email is a threat — it's already been forwarded and archived.
+
+— JP
+
 ## License
 
 Public domain. Use it. Share it. Cite it. The evidence belongs to everyone.
