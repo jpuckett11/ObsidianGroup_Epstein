@@ -373,3 +373,89 @@ THE MACHINE IS FIGHTING BACK IN REAL TIME.
 - Masha Drokova/Bucher: publicly exposed as Epstein publicist (Day One Ventures)
 
 TOTAL OSINT FINDINGS: 41
+
+---
+
+## FOLLOW THE MONEY — Business Profiles of New Names
+
+### FREDERIC FEKKAI — $30M net worth
+- Fekkai Brands: mass market haircare ($35M wholesale volume)
+- Salons: 6 locations in North America ($1,000/haircut at The Mark Hotel)
+- Blue Mistral holding company (with Cornell Capital LLC — $2.5B private investment firm)
+- Bastide: luxury lifestyle brand from Aix-en-Provence (acquired 2015 with wife)
+- Mistral Capital Partners (his fund, minority stake in Blue Mistral)
+- EPSTEIN CONNECTION: "Can we find some girls for him?" — 2,508 emails, named as abuser
+
+### PHILIP LEVINE — $100M+ real estate portfolio
+- Royal Media Partners (CEO) — current venture
+- Onboard Media (founded 1990, sold 2000) — cruise industry marketing
+- Sunset Harbor Miami Beach revitalization with Scott Robins ($69M in holdings sold 2018)
+- Four Seasons Yachts co-founder (Marc-Henry Cruise Holdings) — sold interest 2024
+- FIFA World Cup 2026 Miami Host Committee member
+- V2 Global advisor
+- Real estate: $100M+ across Miami, Miami Beach, Okeechobee, New York
+- Former Miami Beach Mayor
+- EPSTEIN CONNECTION: 196 emails, named as abuser by Kellen, claims "few times"
+
+### NICHOLAS RIBIS — Casino/Trump pipeline
+- Secretary & VP: Resorts International Hotel & Casino (since 2000)
+- Manager: Colony Resorts LVH Acquisitions LLC
+- Former: President & CEO, Trump Hotels & Casino Resorts
+- Colony Capital LLC casino affiliations (Atlantic City Hilton, Resorts Tunica, Las Vegas Hilton)
+- EPSTEIN CONNECTION: 1,382 emails, "huge 2018 payment," referred to JPMorgan, conduit Black↔Epstein
+
+### JOSHUA COOPER RAMO — Kissinger/China/boards pipeline
+- Sornay LLC: Chairman & CEO (since Jan 2021)
+- Former: Vice Chairman & Co-CEO, Kissinger Associates (2011-2020)
+- Board: FedEx (since 2011, Audit & Finance + Cyber committees)
+- Former board: Starbucks
+- Fluent in Mandarin, splits time Beijing/New York
+- Focus: large-scale cross-border transactions
+- EPSTEIN CONNECTION: 819 emails, 12+ meetings at townhouse after 5pm, introduced by Joi Ito
+
+### BROCK PIERCE — Crypto empire
+- Chairman: Bitcoin Foundation
+- Co-founder: Tether (left operations 2015 — Tether now $1.04B quarterly profit, $8.23B reserves)
+- Co-founder: Block.one, Blockchain Capital, EOS Alliance
+- Board: Bit Digital (Bitcoin mining, $1M share purchase 2025)
+- Integro Foundation (Puerto Rico nonprofit)
+- United Council of Rising Nations
+- Federalist Society member
+- Net worth estimates vary wildly ($700M-$2B)
+- EPSTEIN CONNECTION: scouted Moscow/Kiev/Odessa for "presents," "great time with girls," $3M Coinbase
+
+### BELLA KLEIN (née Tsukerman) — Bookkeeper
+- Used Bank of America account to pay rent/expenses for Epstein's women
+- Created appearance of legitimate income for trafficking victims
+- Subpoenaed in USVI civil investigation
+- Pled Fifth Amendment — refused all testimony
+- Current business: UNKNOWN — has disappeared from public view
+- EPSTEIN CONNECTION: 5,644 emails, Western Union MTCN transfers, financial infrastructure operator
+
+### ALIREZA ITTIHADIEH — Private jet broker / Iran backchannel
+- Founder & CEO: Freestream Aircraft (Hong Kong-based)
+- Specialist: buying/selling ultra-high-net-worth corporate jets (Gulfstreams, BBJs)
+- Background: finance and foreign exchange trading
+- Iranian businessman
+- Clients: billionaires, large corporations, politically connected individuals
+- EPSTEIN CONNECTION: 1,806 emails, Iran political intel, demanded payment for info
+
+### NATALIA MOLOTKOVA — AmEx travel logistics
+- American Express Centurion concierge manager
+- Dedicated to Epstein account 2015-2019
+- Booked flights for women from Kiev, Stockholm, Eastern European cities
+- AmEx: "regrets having Epstein as a client"
+- Current status: UNKNOWN after 2019
+- EPSTEIN CONNECTION: 9,397 emails — highest-frequency non-Epstein contact after Groff and Kahn
+
+### FINANCIAL FLOWS SUMMARY
+| Person | Est. Net Worth | Business | Epstein Email Volume |
+|--------|---------------|----------|---------------------|
+| Fekkai | $30M | Salons/beauty | 2,508 |
+| Levine | $100M+ | Real estate/media | 196 |
+| Ribis | Unknown | Casinos/Colony Capital | 1,382 |
+| Ramo | Unknown | Kissinger/Sornay/boards | 819 |
+| Pierce | $700M-2B | Crypto/Tether/Bitcoin | 938 |
+| Klein | Unknown | Bookkeeper (pled 5th) | 5,644 |
+| Ittihadieh | Unknown | Private jets/Freestream | 1,806 |
+| Molotkova | Unknown | AmEx concierge | 9,397 |
