@@ -459,3 +459,57 @@ TOTAL OSINT FINDINGS: 41
 | Klein | Unknown | Bookkeeper (pled 5th) | 5,644 |
 | Ittihadieh | Unknown | Private jets/Freestream | 1,806 |
 | Molotkova | Unknown | AmEx concierge | 9,397 |
+
+---
+
+## THE CRYPTO THREAD — From Bitcoin's Founding to Treasury Advising
+
+### TIMELINE
+- 2008: Bitcoin whitepaper published by "Satoshi Nakamoto" (unknown identity)
+- 2008: Epstein plea deal signed — released from jail
+- 2009: Bitcoin network launched. Epstein released from work release.
+- June 2011: Epstein URGENTLY hunting "the bitcoin guys"
+  - Used John Brockman (literary agent/science connector) to reach Jason Calacanis
+  - Calacanis connected him to GAVIN ANDRESEN (Bitcoin core dev, Satoshi's successor)
+  - Brockman emailed Andresen directly about writing a book
+  - Epstein emailed Andresen: "The idea is great, the execution has some serious risks"
+  - Andresen: "No, sorry, I'm busy" — REJECTED Epstein
+  - Epstein also contacted Amir Taaki (Bitcoin dev): "brilliant, but serious downsides"
+- 2011: Brock Pierce relationship established (Disney child actor → crypto)
+- 2012: Pierce scouting "presents" in Moscow/Kiev/Odessa for Epstein
+- 2002-2017: Epstein donated $850K to MIT, $525K to MIT Media Lab Digital Currency Initiative
+  - Bitcoin Core devs Andresen, van der Laan, Cory Fields later joined MIT DCI
+  - Epstein's donations helped fund their salaries
+- August 2014: EPSTEIN ADVISED U.S. TREASURY ON CRYPTOCURRENCY
+  - Met with Office of Terrorist Financing and Financial Crimes
+  - Discussed: crypto for arms shipments, nuclear proliferation payments, sanctions evasion
+  - After Treasury meeting: met privately with Deputy SecState William Burns (Iran deal negotiator)
+  - Burns is now CIA Director
+- 2015: Epstein invested $3M in Coinbase Series C through Brock Pierce
+- Pierce co-founded: Tether, Blockchain Capital, EOS, Mastercoin (first ICO)
+
+### THE QUESTION
+Did Epstein or his intelligence network CREATE Bitcoin? 
+- No direct evidence in the corpus
+- Satoshi references in corpus are journalistic (articles forwarded to him)
+- No emails between Epstein and anyone about Bitcoin before June 2011
+- Bitcoin whitepaper published Oct 2008 — during Epstein's incarceration
+- BUT: NSA published crypto cash paper in 1996 with similar concepts
+- BUT: Epstein had Israeli intelligence connections with cryptographic capability (8200)
+- BUT: Epstein was advising Treasury on crypto sanctions evasion
+- BUT: Epstein funded the MIT lab that employed Bitcoin's core developers
+- BUT: Epstein's associate Pierce co-founded Tether ($8.23B reserves, underpins crypto market)
+- BUT: the timing (2008-2009) coincides with Epstein's release and need for untraceable money
+
+### VERDICT: Tier 3 — Hypothesis
+No evidence Epstein created Bitcoin. 
+STRONG evidence he tried to control/influence its development (MIT funding, Andresen outreach, Treasury advising).
+STRONG evidence his network embedded in crypto infrastructure (Pierce/Tether/Coinbase).
+STRONG evidence he understood crypto's utility for sanctions evasion (Treasury meeting).
+The question is worth asking. The answer isn't in the documents. Yet.
+
+### WILLIAM BURNS CONNECTION
+- Epstein met privately with Burns after Treasury crypto meeting (Aug 2014)
+- Burns was leading Iran nuclear deal negotiations
+- Burns is now CIA DIRECTOR (appointed 2021 by Biden)
+- The current head of the CIA had a private meeting with Epstein about crypto and Iran
