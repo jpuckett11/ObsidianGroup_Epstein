@@ -157,3 +157,56 @@ Including Satoshi wallet if connected: **$230+ billion**
 
 For context: the entire Epstein estate was valued at $578-742M.
 The crypto exposure of his NETWORK is 10-300x larger than his disclosed estate.
+
+---
+
+## THE CRYPTO ENTITIES — Follow the Shell Companies
+
+### IGO Company LLC (USVI)
+- Used for: $3M Coinbase Series C investment (Dec 2014)
+- Received: 195,910 Series C shares (<1% of Coinbase)
+- Managed by: Darren Indyke
+- Feb 2018: Sold 50% for $15M (5x return in 3 years)
+- Remaining 50%: STATUS UNKNOWN — still in estate? In the 35 unsettled entities?
+- At Coinbase IPO (~$85B): remaining stake worth ~$200-400M
+- **HAS ANYONE SEARCHED COINBASE FOR ACCOUNTS REGISTERED TO IGO COMPANY LLC?**
+- **HAS ANYONE SUBPOENAED COINBASE FOR TRANSACTION RECORDS ON THIS ENTITY?**
+
+### Kyara Investments III LLC (USVI)
+- Established: September 4, 2014
+- Purpose: "to engage in the ownership and management of an equity investment in Blockstream Corporation"
+- Owners: Joi Ito (50%) + Southern Financial LLC (50% — Epstein's entity, contributed $500,001)
+- Investment: $500K in Blockstream seed round
+- Reid Hoffman told Austin Hill to bump Ito/Epstein's stake from $50K to $500K
+- Adam Back claims Kyara sold stake "a few months after" due to "conflicts of interest"
+- **BUT**: Back made this claim in Feb 2026, AFTER the files dropped. No documentation of the sale has been produced.
+- **WHO RECEIVED THE PROCEEDS? Back to Southern Financial LLC? To another entity?**
+
+### Southern Financial LLC (USVI)
+- Epstein's entity that funded Kyara Investments III
+- Contributed $500,001 to the Blockstream investment
+- **Part of the 56 known entities — is it among the 35 unsettled?**
+
+### The Unanswered Questions
+
+1. **Coinbase account search**: Has the FBI or any investigator searched Coinbase's records for trading accounts registered to IGO Company LLC, Southern Financial LLC, or any of the other 56 Epstein entities? Coinbase cooperates with subpoenas — they do it regularly for the FBI. No evidence this was ever requested.
+
+2. **Blockchain analysis**: Has Chainalysis, Elliptic, or any blockchain forensics firm ever been asked to trace wallets connected to these USVI entities? The technology exists. It's used in every crypto crime case. It hasn't been used here.
+
+3. **The remaining Coinbase stake**: Epstein sold 50% for $15M in Feb 2018. Where is the other 50%? At Coinbase's current valuation (~$60B), that stake is worth $200-400M. Is it in the estate? In one of the 35 unsettled entities? Was it liquidated without disclosure?
+
+4. **The Blockstream "sale"**: Adam Back says Kyara sold its stake "a few months after." To whom? For how much? Through what wallet? No documentation has been produced. This is an uncorroborated claim by the man the NYT identified as the most likely Satoshi Nakamoto.
+
+5. **The 2005 computer**: 16 EnCase forensic DVDs. Never searched. If Epstein was involved in crypto earlier than the 2014 investments suggest, the evidence would be on the hard drive seized in 2005 — four years before Bitcoin launched. Even if Bitcoin didn't exist yet, precursor projects (e-gold, Liberty Reserve) did. And if the computer contains cryptographic keys or wallet seeds from 2008-2009, it would be the most significant piece of evidence in cryptocurrency history.
+
+### Why Nobody Has Looked
+
+The IRS never audited Epstein's transactions (Wyden confirmed).
+The FBI searched his devices for trafficking evidence, not financial forensics.
+The estate executors (Indyke/Kahn) are trust beneficiaries with no incentive to find more assets.
+DAG Blanche is blocking the DEA's financial investigation.
+A Senate Republican blocked Wyden's bill for Treasury records.
+Coinbase has never been publicly asked about Epstein entity accounts.
+No blockchain forensics firm has been engaged.
+
+The tools exist. The entities are named. The technology to trace every wallet is available. Nobody has used it — because every person in a position to authorize the search has a reason not to find what's there.
