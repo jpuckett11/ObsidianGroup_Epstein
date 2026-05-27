@@ -104,3 +104,57 @@ The $690M is the number reported by the two men who benefit from it being low. N
 - [[EPSTEIN INVESTED IN SATOSHIS COMPANY]]
 - [[OSINT_SWEEP_MAY27]]
 - [[MASTER_CONNECTIONS]]
+
+---
+
+## UPDATE: What the Numbers Actually Show
+
+### $2.82 BILLION in Wire Transfers (Email Corpus)
+From Epstein's own financial staff emails (Kahn, Klein, Indyke, Ugland, Kellerhals, Beller):
+- 444 documented wire transfer transactions
+- Total: $2,819,700,000
+- 7 transactions over $100M
+- 42 transactions over $10M
+- August 6, 2014 alone: $830M+ moved in ONE DAY ($227M + $220M + $207M + $175M)
+- October 21, 2016: Two $300M transactions on one day
+
+### Property Empire — Liquidation Values
+| Property | Listed/Valued | Sold For | Loss |
+|----------|--------------|----------|------|
+| 9 E 71st Manhattan | $88M listing | $51M (Mar 2021) | -$37M |
+| Palm Beach estate | ~$25M | $18.5M (Jan 2021), lot flipped to $26M | — |
+| LSJ + GSJ islands | $125M listing | $60M (May 2023) | -$65M |
+| Zorro Ranch NM | $27.5M listing | Undisclosed (Aug 2023) | Unknown |
+| Paris apartment | €8.7M valued | ~€10M (2022) | +€1.3M |
+| **Total property sales** | | **~$160M** | |
+
+Properties sold for $160M. Listed at $265M+. The estate lost $100M+ on liquidation.
+
+### Crypto Holdings — The Black Box
+- Coinbase: $3M invested (2015). Sold $15M to Blockchain Capital (2018). Still held equity at death.
+- Blockstream: $500K invested (confirmed). Current value unknown.
+- No Bitcoin wallet addresses found in corpus OR in DOJ releases
+- No blockchain analysis of Epstein holdings has been publicly disclosed
+- If wallets exist, they were either: (a) on the cleaned Gmail, (b) on the unsearched 2005 computer, (c) in the 35 unsettled entities, or (d) controlled by the ZenBook operator
+
+### The IRS Refund
+The estate received a **$112 MILLION IRS TAX REFUND**.
+As of March 2025, the estate still held $131M including this refund.
+The IRS gave $112M BACK to a sex trafficking estate — while never having audited the transactions.
+
+### The Complete Picture
+
+**Documented money moved:** $2.82B (email wire transfers alone)
+**Property empire at peak:** $265M+ (listed values)
+**Banking flows:** $378M BNY Mellon + hundreds of millions Deutsche Bank + 15 years JPMorgan
+**Settlements paid:** $1.16B+
+**IRS refund received:** $112M
+**Estate remaining (Mar 2025):** $131M
+**35 entities unsettled:** Unknown
+**Crypto:** Unknown
+
+**Conservative total throughput: $4-5 BILLION**
+**The estate reported: $578M-742M**
+**The gap: at least $3-4 BILLION unaccounted**
+
+This is not a rich man's estate. This is a financial operation that processed billions of dollars over three decades, reported a fraction, and is being administered by its own beneficiaries while the IRS sends refund checks and Congress can't get the Treasury to release the records.
