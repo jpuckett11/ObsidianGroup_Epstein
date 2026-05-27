@@ -74,3 +74,37 @@ He didn't build the gun. He bought the ammunition factory, hired the people who 
 - [[MASTER_CONNECTIONS]]
 - [[OSINT_SWEEP_MAY27]]
 - [[INTEGRATION_QUEUE]]
+
+---
+
+## EPSTEIN'S CRYPTO HOLDINGS — What the Emails Show
+
+### Confirmed Investments
+1. **Coinbase** — $3M Series C (2015), receiving investor newsletters from CEO Brian Armstrong
+2. **Blockstream** — investment confirmed by Pierce ("Your investment in Blockstream is doing well")
+   - NOTE: Blockstream CEO = Adam Back = NYT's candidate for Satoshi Nakamoto
+3. **BitFury** — Pierce offered Epstein up to $5M in convertible note (Feb 2015)
+4. **PayPay Financial** — $250K convertible note for Bitcoin debit Mastercard (Jun 2014)
+
+### De-Anonymization Capability
+- **Vincenzo Iozzo** — introduced by Joi Ito as "best network security guy I know"
+- Showed Epstein **BitIodine** (bitiodine.net) — "Pretty good at de-anonymizing bitcoin wallets & transactions"
+- Discussed **private key generation** for Bitcoin identities
+- Epstein was learning how to TRACE other people's crypto, not just use his own
+
+### Missing from the Record
+- No actual Bitcoin wallet addresses found in email corpus
+- No seed phrases, private keys, or cold storage references attributed to Epstein
+- Estate accounting ($690-742M) does not separately list crypto holdings
+- 35 of 56 entities remain unsettled — crypto could be in any of them
+- Gmail cleaned July 19, 2019 by ZenBook operator — wallet info may have been removed
+- The $134M gap between estate disbursements and remainder is unexplained
+
+### The Blockstream Investment
+This is critical and underreported:
+- Epstein invested in Blockstream (confirmed by Pierce in Sept 2015 email)
+- Blockstream is run by Adam Back
+- Adam Back created Hashcash (cited in Bitcoin whitepaper)
+- NYT's John Carreyrou (Theranos journalist) identified Back as possible Satoshi
+- Epstein was FUNDING the company run by the man who may have created Bitcoin
+- If Back is Satoshi, Epstein was an investor in Satoshi's company
