@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Epstein Investigation — Complete Map</name>
+  <description>Every person, location, and incident documented in 3.5M items</description>
+
+  <Style id="hub"><IconStyle><color>ff0000ff</color><scale>1.6</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href></Icon></IconStyle></Style>
+  <Style id="island"><IconStyle><color>ff0066ff</color><scale>1.4</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle></Style>
+  <Style id="property"><IconStyle><color>ffff00ff</color><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href></Icon></IconStyle></Style>
+  <Style id="recruit"><IconStyle><color>ffff6600</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-blank.png</href></Icon></IconStyle></Style>
+  <Style id="bank"><IconStyle><color>ffffff00</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href></Icon></IconStyle></Style>
+  <Style id="intel"><IconStyle><color>ff00ffff</color><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-diamond.png</href></Icon></IconStyle></Style>
+  <Style id="person"><IconStyle><color>ff00ff00</color><scale>1.0</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon></IconStyle></Style>
+  <Style id="event"><IconStyle><color>ffff00ff</color><scale>1.3</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-stars.png</href></Icon></IconStyle></Style>
+  <Style id="death"><IconStyle><color>ff000000</color><scale>1.4</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+  <Style id="dataPath"><LineStyle><color>ff0000ff</color><width>2</width></LineStyle></Style>
+
+  <Folder><name>PROPERTIES</name>
+    <Placemark>
+      <name>9 East 71st — THE HUB</name>
+      <description>Manhattan mansion. Wexner $20M transfer 1998 ($77M+ value). Hidden cameras every room. Blackmail HQ. Where Bannon coached Epstein. Where Ruemmler ran deals. Where the 5yo Israeli child remembered the door.</description>
+      <styleUrl>#hub</styleUrl>
+      <Point><coordinates>-73.9647,40.771,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>301 East 66th — AIRLOCK</name>
+      <description>Satellite building. Staging facility for women from Russia, Slovakia, Brazil. 'Apartment set aside.. car will pick you up.' Israeli surveillance equipment.</description>
+      <styleUrl>#property</styleUrl>
+      <Point><coordinates>-73.959,40.7638,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>358 El Brillo — Palm Beach</name>
+      <description>Recruitment center. 3,008 email references. Where Palm Beach PD investigation began. Near Mar-a-Lago. Work release destination.</description>
+      <styleUrl>#recruit</styleUrl>
+      <Point><coordinates>-80.0374,26.693,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Little St. James — LSJ</name>
+      <description>72 acres. Purchased April 1998 for $7.95M via LSJ LLC. 4,292 flights. Maxwell 1,040x. Clinton 25x. Hidden cameras. Construction never stopped. SATELLITE BLACKOUT 2006-2009 + 2009-2014.</description>
+      <styleUrl>#island</styleUrl>
+      <Point><coordinates>-64.8251,18.3,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Great St. James — GSJ</name>
+      <description>165 acres. Purchased Jan 18+21, 2016 for $22.5M via Great St. Jim LLC. EPSTEIN USED BIN SULAYEM'S NAME WITHOUT CONSENT. Locals begged Kjær not to sell. 'Underwater office and pool' planned.</description>
+      <styleUrl>#island</styleUrl>
+      <Point><coordinates>-64.8289,18.3097,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zorro Ranch — NM</name>
+      <description>8,000 acres. Purchased 1993. Genetics obsession. Christian retreat conversion. Glenn Dubin coordinated here. Desert shooting range with AR-15s. FBI case 31E-MM-108062.</description>
+      <styleUrl>#property</styleUrl>
+      <Point><coordinates>-105.76,35.14,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>22 Avenue Foch — Paris</name>
+      <description>685 sq m. European Gateway. Novosibirsk pipeline terminus. Brunel/MC2 operated from France. Near Arc de Triomphe.</description>
+      <styleUrl>#property</styleUrl>
+      <Point><coordinates>2.285,48.872,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bin Ennakhil — Marrakech</name>
+      <description>$14.9M wired DAY BEFORE ARREST (Jul 5, 2019). Negotiated since 2011. Morocco = no extradition. The escape hatch. One day too late.</description>
+      <styleUrl>#property</styleUrl>
+      <Point><coordinates>-8.01,31.67,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>EVENTS</name>
+    <Placemark>
+      <name>Teterboro Airport — ARREST</name>
+      <description>Jul 6, 2019. Arrest on tarmac returning from Paris. 4:35 PM: 'Can we do late morning say 11.' 4:37 PM: 'All canceled.' Two minutes from breakfast plans to silence.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>-74.0608,40.8501,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>MCC — DEATH SITE</name>
+      <description>Metropolitan Correctional Center. Aug 10, 2019. Cameras 'functioning but not recording' for 6 months. Cellmate removed. FBI case 90A-NY-3151227 closed Dec 5, 2022.</description>
+      <styleUrl>#death</styleUrl>
+      <Point><coordinates>-74.0007,40.7127,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Dalton School — ORIGINS</name>
+      <description>Epstein taught here 1973-1976. Headmaster: Donald Barr (father of AG William Barr). The hiring.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>-73.9551,40.7803,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mount Sinai Hospital</name>
+      <description>VIP 24/7 access. $250K+ donated AFTER 2008 conviction. 'The Epstein Floor for Women' proposed by Eva Andersson-Dubin. Plastic surgeon stitched forehead on dining table (35 stitches).</description>
+      <styleUrl>#property</styleUrl>
+      <Point><coordinates>-73.9526,40.79,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Brunel's Paris Jail Death</name>
+      <description>Jean-Luc Brunel found hanging in his Paris jail cell Feb 19, 2022. Like Epstein. 2.5 years apart. 2 jails. 2 hangings.</description>
+      <styleUrl>#death</styleUrl>
+      <Point><coordinates>2.3525,48.8467,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>RECRUITMENT</name>
+    <Placemark>
+      <name>Mar-a-Lago — Trump Club</name>
+      <description>Virginia Roberts recruited here at 16. Epstein: 'of course he knew about the girls as he asked ghislaine to stop.'</description>
+      <styleUrl>#recruit</styleUrl>
+      <Point><coordinates>-80.0369,26.6773,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Novosibirsk — Russian Pipeline</name>
+      <description>227 email references. 'Candidates.docx.' 'How many can we bring to Paris this time?' Aeroflot SU 1306. Sberbank FEDWIRE destination.</description>
+      <styleUrl>#recruit</styleUrl>
+      <Point><coordinates>82.9346,55.0084,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Kiev / Odessa — Pierce Scouting</name>
+      <description>Brock Pierce: 'take photos' in Moscow/Kiev/Odessa, 'find him a present.' Pozhidaeva recruited from former USSR.</description>
+      <styleUrl>#recruit</styleUrl>
+      <Point><coordinates>30.5234,50.4501,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bratislava — Nadia Origin</name>
+      <description>Nadia Marcinkova born eastern Slovakia. H-1B expedited through Indyke 2005. FBI: 'purchased from her parents.'</description>
+      <styleUrl>#recruit</styleUrl>
+      <Point><coordinates>17.1077,48.1486,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>MC2 Florianópolis — Brazil</name>
+      <description>Mega Model agency. Brunel recruitment. Ana Maria Macedo. 'blond better but not very good.'</description>
+      <styleUrl>#recruit</styleUrl>
+      <Point><coordinates>-48.5482,-27.5954,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>MGIMO Moscow</name>
+      <description>Where Lana Pozhidaeva trained (FSB officer's daughter). Russia's elite intel/diplomatic school. Pipeline source for women into Epstein network.</description>
+      <styleUrl>#recruit</styleUrl>
+      <Point><coordinates>37.5189,55.6996,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Marstrand, Sweden — BBB Network</name>
+      <description>Barbro Ehnbom BBB women's network. Princess Sofia connection. Epstein VIDEOS HERE 9 DAYS BEFORE ARREST (Jun 23, 2019).</description>
+      <styleUrl>#recruit</styleUrl>
+      <Point><coordinates>11.4613,58.2475,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Prague — Marcinko Father</name>
+      <description>Nadia's father (architect Peter Marcinko) scouting Prague apartments for Epstein 2007-2008. The family absorbed by the machine.</description>
+      <styleUrl>#recruit</styleUrl>
+      <Point><coordinates>14.418,50.088,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>BANKING</name>
+    <Placemark>
+      <name>Deutsche Bank HQ — NYC</name>
+      <description>Primary banking 2013-2019. FEDWIRE to Sberbank for JEE (DB-SDNY-0047940). $75M settlement. Fired the compliance officer who flagged Epstein+Kushner.</description>
+      <styleUrl>#bank</styleUrl>
+      <Point><coordinates>-73.9707,40.7549,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>JPMorgan Chase HQ — NYC</name>
+      <description>15+ years of accounts. Through Jes Staley. $365M settlement. Account 739110438, SWIFT CHASUS33.</description>
+      <styleUrl>#bank</styleUrl>
+      <Point><coordinates>-73.9756,40.7549,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sberbank Moscow</name>
+      <description>19 Vavilova Street. FEDWIRE destination from Deutsche Bank. Russian financial pipeline terminus.</description>
+      <styleUrl>#bank</styleUrl>
+      <Point><coordinates>37.5734,55.6997,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>BNY Mellon — NYC</name>
+      <description>$378M in 270 wire transfers. NO legitimate business purpose identified. SARs not filed until 2019 — year of death.</description>
+      <styleUrl>#bank</styleUrl>
+      <Point><coordinates>-74.0085,40.7053,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>First Bank PR — San Juan</name>
+      <description>Aviation entity (Thomas World Air) + island staff entity (LSJ Employees). EFTA01269100. Erika Kellerhals sole member.</description>
+      <styleUrl>#bank</styleUrl>
+      <Point><coordinates>-66.1057,18.4655,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>INTELLIGENCE</name>
+    <Placemark>
+      <name>Carbyne HQ — Tel Aviv</name>
+      <description>Founded April 2015 as Reporty. Barak chairman. Epstein funder. 8200 veterans built it. SOLD TO AXON NOV 2025 FOR $625M. Now in US police.</description>
+      <styleUrl>#intel</styleUrl>
+      <Point><coordinates>34.7818,32.0853,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Unit 8200 — Base 042</name>
+      <description>Rosh HaAyin. Israel's NSA equivalent. 8200 'Iran Desk' exposed by Handala 2024. 1,400+ alumni in US Big Tech.</description>
+      <styleUrl>#intel</styleUrl>
+      <Point><coordinates>34.955,32.1006,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>MIT Media Lab — Cambridge</name>
+      <description>$525K from Epstein. Digital Currency Initiative employed Bitcoin Core devs. Joi Ito resigned. Epstein: $850K total to MIT.</description>
+      <styleUrl>#intel</styleUrl>
+      <Point><coordinates>-71.0875,42.3601,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Harvard — Cambridge</name>
+      <description>$9M+ in donations 1998-2008. Dershowitz, Summers, Nowak, Krauss connections. Science philanthropy as cover.</description>
+      <styleUrl>#intel</styleUrl>
+      <Point><coordinates>-71.1167,42.377,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>DP World HQ — Dubai</name>
+      <description>Sultan Bin Sulayem. Abraham Accords backchannel since 2012. 'I loved the torture video.' RESIGNED FEB 2026.</description>
+      <styleUrl>#intel</styleUrl>
+      <Point><coordinates>55.2708,25.2048,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>International Peace Institute</name>
+      <description>1 UN Plaza. Terje Rød-Larsen's org. Nadia placed here as 'Alsaid.' $5M to each Terje child in Epstein's will. Visa letters for trafficked women.</description>
+      <styleUrl>#intel</styleUrl>
+      <Point><coordinates>-73.969,40.7489,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sandringham — Queen's Estate</name>
+      <description>Dec 7, 2000. Epstein, Maxwell, Tom Pritzker flew to RAF Marham. Prince Andrew hosted 'shooting weekend.' Maxwell surprise birthday.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>0.51,52.8267,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>GPS_EVIDENCE</name>
+    <Placemark>
+      <name>Sweden Jul 3, 2016</name>
+      <description>EFTA01622052.mov — Marstrand. BBB women's network.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>11.4613,58.2475,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Sweden Jun 23, 2019 — 13 DAYS BEFORE ARREST</name>
+      <description>EFTA01621167.mov — Still operating in Sweden 13 days before arrest.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>11.461,58.2474,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Koh Kong, Cambodia — Christmas 1AM</name>
+      <description>EFTA01621033.mov — Dec 25, 2016 01:16. Trafficking corridor + Leon Black/Latchford antiquities pipeline.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>103.2621,10.756,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Sur / Carmel, CA — Midnight</name>
+      <description>EFTA01621018.mov — Feb 8, 2018 00:00. Tech billionaire territory. Thiel region.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>-121.7527,36.4972,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Monterey, CA</name>
+      <description>EFTA01619588.mov — Sep 2, 2018. Labor Day.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>-121.9364,36.6208,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Catskills, NY — ZSS Region</name>
+      <description>EFTA01619211.mov — Jun 23, 2018. Near Zen Studies Society / Dai Bosatsu.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>-74.1237,42.0707,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tulum, Mexico — Post Miami Herald</name>
+      <description>EFTA01621034.mov — Dec 30, 2018 22:41. ONE MONTH after 'Perversion of Justice' broke. Mexico = weak extradition.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>-87.3403,20.3798,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>ASSOCIATES</name>
+    <Placemark>
+      <name>Maxwell London — Stanhope Mews</name>
+      <description>69 Stanhope Mews East, SW7. Maxwell's London residence. Prince Andrew connection.</description>
+      <styleUrl>#person</styleUrl>
+      <Point><coordinates>-0.177,51.495,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Maxwell Arrest — NH</name>
+      <description>Bradford, NH. Arrested Jul 2, 2020. 156-acre 'Granite Reality' LLC purchase. Tin foil on cameras.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>-71.9569,43.3939,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Maxwell Currently — Tallahassee FCI</name>
+      <description>Federal prison. Jul 2025 proffer interviews (14 audio files, 4 transcripts). Named Fekkai, Levine, Demarchelier as abusers.</description>
+      <styleUrl>#person</styleUrl>
+      <Point><coordinates>-84.2807,30.4383,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Wexner — Columbus OH</name>
+      <description>L Brands HQ. $4.6B fortune managed via Epstein power of attorney. Mansion transferred 1998.</description>
+      <styleUrl>#person</styleUrl>
+      <Point><coordinates>-82.9988,39.9612,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Apollo HQ — Leon Black</name>
+      <description>9 W 57th St. $170M paid to Epstein. $100M without contract. 'Hush money' + 'surveillance of women' (Wyden Mar 2026).</description>
+      <styleUrl>#person</styleUrl>
+      <Point><coordinates>-73.9776,40.7614,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Day One Ventures — Bucher</name>
+      <description>Sand Hill Rd, Palo Alto. Masha Drokova/Bucher. $450M AUM. Putin Nashi → Epstein PR → Silicon Valley VC.</description>
+      <styleUrl>#person</styleUrl>
+      <Point><coordinates>-122.143,37.4419,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Blockstream — Adam Back</name>
+      <description>London. Adam Back (NYT's Satoshi candidate). Epstein invested $500K via Kyara Investments III.</description>
+      <styleUrl>#person</styleUrl>
+      <Point><coordinates>-0.1278,51.5074,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coinbase HQ</name>
+      <description>Epstein invested $3M via IGO Company LLC, Dec 2014. Sold half for $15M in 2018. Remaining stake status unknown.</description>
+      <styleUrl>#person</styleUrl>
+      <Point><coordinates>-122.4194,37.7749,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Drokova Sisters — Tambov Russia</name>
+      <description>Birthplace of Maria Drokova / Masha Bucher. Putin Nashi spokesperson 2007-2011.</description>
+      <styleUrl>#recruit</styleUrl>
+      <Point><coordinates>41.4523,52.7211,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pozhidaeva — Father Russia</name>
+      <description>Yuri Pozhidaev — FSB officer, Lt. Colonel. Trained as Persian interpreter. Afghanistan 1978 (Soviet invasion).</description>
+      <styleUrl>#intel</styleUrl>
+      <Point><coordinates>37.6173,55.7558,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>POLITICAL</name>
+    <Placemark>
+      <name>White House — Trump</name>
+      <description>Trump in files 1,000+ times. FBI instructed to flag mentions. 'of course he knew about the girls as he asked ghislaine to stop' (Epstein, Feb 2019).</description>
+      <styleUrl>#hub</styleUrl>
+      <Point><coordinates>-77.0365,38.8977,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Capitol — Massie's Defeat</name>
+      <description>AIPAC spent $15M+ to defeat Rep. Thomas Massie (May 2026). He forced DOJ to release Epstein files and unredact Bin Sulayem.</description>
+      <styleUrl>#event</styleUrl>
+      <Point><coordinates>-77.0091,38.8899,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Russia — Putin Nashi origin</name>
+      <description>Masha Drokova/Bucher: federal commissioner of Nashi 2007-2011. Pipeline to Epstein.</description>
+      <styleUrl>#intel</styleUrl>
+      <Point><coordinates>37.6173,55.7558,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>DEATHS</name>
+    <Placemark>
+      <name>Al Seckel — France Cliff</name>
+      <description>Found dead at bottom of cliff, southern France, Jul 2015. Epstein's SEO manipulator. Organized 2011 science conference on LSJ. Death UNCONFIRMED by French authorities as of Dec 2021.</description>
+      <styleUrl>#death</styleUrl>
+      <Point><coordinates>4.8055,43.9352,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hal Finney — California</name>
+      <description>Possible Satoshi. Died ALS Aug 28, 2014. First Bitcoin transaction recipient.</description>
+      <styleUrl>#death</styleUrl>
+      <Point><coordinates>-117.9298,33.6189,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Len Sassaman — Belgium</name>
+      <description>Possible Satoshi co-creator. Died July 3, 2011 — 2 months after Satoshi's last post. Memorial embedded in Bitcoin blockchain.</description>
+      <styleUrl>#death</styleUrl>
+      <Point><coordinates>4.3517,50.8503,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Robert Maxwell — Lady Ghislaine</name>
+      <description>Ghislaine's father. Died on yacht off Canary Islands, Nov 5, 1991. MI6/Mossad connections. Same year Mega Group founded.</description>
+      <styleUrl>#death</styleUrl>
+      <Point><coordinates>-16.5113,28.3389,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>
