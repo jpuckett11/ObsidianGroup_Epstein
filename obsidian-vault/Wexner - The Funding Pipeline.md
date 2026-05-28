@@ -2,7 +2,7 @@
 
 ## Summary
 
-Leslie Wexner was not just a "client" of Epstein's — he was the financial foundation of the entire operation. Leaked emails prove Epstein functioned as the de facto CFO of Wexner's empire, controlling eight-figure transfers and politically sensitive grants. The same foundation Epstein controlled funded a pipeline sending Israeli military and intelligence leaders through Harvard.
+Leslie Wexner was not just a "client" of Epstein's, he was the financial foundation of the entire operation. Leaked emails prove Epstein functioned as the de facto CFO of Wexner's empire, controlling eight-figure transfers and politically sensitive grants. The same foundation Epstein controlled funded a pipeline sending Israeli military and intelligence leaders through Harvard.
 
 ---
 
@@ -170,7 +170,7 @@ WEXNER ($4.7B net worth)
 - [DropSite News: "Ask Jeffrey" - Epstein Ran Wexner's Philanthropy Machine](https://www.dropsitenews.com/p/jeffrey-epstein-leslie-abigail-wexner-pro-israel-philanthropic-foundation)
 - [Daily Beast: Wexner Donated $100K to AIPAC](https://www.thedailybeast.com/epstein-client-les-wexner-donated-dollar100k-to-pro-israel-lobbying-group-aipac/)
 - [CounterPunch: Billionaires in Epstein Files and Ties to Israel](https://www.counterpunch.org/2025/08/11/the-billionaires-in-the-epstein-files-and-their-ties-to-israel/)
-- [Mondoweiss: NYT ignores essential part of Epstein story — Israel](https://mondoweiss.net/2025/12/the-new-york-times-ignores-an-essential-part-of-the-jeffrey-epstein-story-israel/)
+- [Mondoweiss: NYT ignores essential part of Epstein story, Israel](https://mondoweiss.net/2025/12/the-new-york-times-ignores-an-essential-part-of-the-jeffrey-epstein-story-israel/)
 
 ---
 

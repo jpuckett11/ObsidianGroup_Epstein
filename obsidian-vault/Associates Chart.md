@@ -3,9 +3,9 @@
 > Auto-generated from EFTA document volumes. Updated as extraction continues.
 > Source: race car set 10-12 (VOL00010, VOL00011, VOL00012)
 
-## Status: COMPLETE SWEEP — 834,961 documents processed. 16 unredacted data sets available. 6.4GB combined file extracting.
+## Status: COMPLETE SWEEP, 834,961 documents processed. 16 unredacted data sets available. 6.4GB combined file extracting.
 
-## Elon Musk (from public record — NOT in our VOL10-12 documents)
+## Elon Musk (from public record, NOT in our VOL10-12 documents)
 - 4 confirmed meetings with Epstein post-conviction
 - 16 emails (2012-2013) including "What day/night will be the wildest party on your island?"
 - Asked about electrifying Caribbean island/NM ranch (SolarCity)

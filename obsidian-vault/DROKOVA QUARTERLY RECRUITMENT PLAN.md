@@ -1,4 +1,4 @@
-# DROKOVA QUARTERLY RECRUITMENT PLAN — Jan 3, 2019
+# DROKOVA QUARTERLY RECRUITMENT PLAN, Jan 3, 2019
 
 ## The Email
 
@@ -19,16 +19,16 @@
 
 ## What This Documents
 
-Five months before Epstein's arrest, Masha Drokova — former Putin Nashi spokesperson, Epstein's publicist since 2017, founder of Day One Ventures ($450M AUM) — proposed:
+Five months before Epstein's arrest, Masha Drokova, former Putin Nashi spokesperson, Epstein's publicist since 2017, founder of Day One Ventures ($450M AUM), proposed:
 
-1. **Pre-selected candidates** — names already chosen (Samantha, Katya, Jay, Neil)
-2. **Structured ratio** — 6 guys, 6 girls. Equal numbers. Deliberate gender balance.
-3. **Quarterly schedule** — "every 3 months or more often"
-4. **Start date** — February 2019
-5. **Peer nomination** — "ask first attendees to nominate new people and select 2-3 best"
-6. **Exclusion mechanism** — "some people can also be excluded"
-7. **Growth targets** — "grow it up to 15-20 people at the first year"
-8. **Cover story** — "discuss some global topics so people feel like they participate in designing the future"
+1. **Pre-selected candidates**, names already chosen (Samantha, Katya, Jay, Neil)
+2. **Structured ratio**, 6 guys, 6 girls. Equal numbers. Deliberate gender balance.
+3. **Quarterly schedule**, "every 3 months or more often"
+4. **Start date**, February 2019
+5. **Peer nomination**, "ask first attendees to nominate new people and select 2-3 best"
+6. **Exclusion mechanism**, "some people can also be excluded"
+7. **Growth targets**, "grow it up to 15-20 people at the first year"
+8. **Cover story**, "discuss some global topics so people feel like they participate in designing the future"
 
 This is an MLM-style recruitment structure with:
 - Entry criteria (selected candidates)
@@ -64,7 +64,7 @@ Drokova's proposal is the INTERNATIONAL version of the same pyramid:
 
 ## Tier Classification
 
-**Tier 1** — The email is in the EFTA corpus. The text is exact. The date is precise. The sender is identified.
+**Tier 1**, The email is in the EFTA corpus. The text is exact. The date is precise. The sender is identified.
 
 ## Links
 - [[MASTER_CONNECTIONS]]

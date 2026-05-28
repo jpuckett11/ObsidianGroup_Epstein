@@ -1,4 +1,4 @@
-# Epstein Trust / Will — Full Beneficiary List
+# Epstein Trust / Will, Full Beneficiary List
 
 Source: EFTA01266134.pdf (Trust document from VOL00010)
 
@@ -20,7 +20,7 @@ Source: EFTA01266134.pdf (Trust document from VOL00010)
 | **MARTIN NOWACK** | $2,000,000 | = "Novak" from scheduling docs. Reference letter written by Epstein |
 | **KATHY LINDEMAN** | $2,000,000 | Unknown role |
 | **VALDSON VIERA CONTRIN** | $2,000,000 | Unknown (Brazilian/Portuguese name) |
-| **YULIA SILINSKAYA** | $2,000,000 annuity | **RUSSIAN** — another Russia connection |
+| **YULIA SILINSKAYA** | $2,000,000 annuity | **RUSSIAN**, another Russia connection |
 | **PAUL BARRETT** | Debts forgiven | Regular 5pm visitor. Financial obligations cancelled |
 | **MICHELLE [REDACTED]** | $3,000,000 | Name partially redacted |
 | [REDACTED] | $4,000,000 annuity | Name redacted |
@@ -86,13 +86,13 @@ Source: EFTA01266134.pdf (Trust document from VOL00010)
 
 ## Key Observations
 
-1. **Trustees control everything** — Indyke and Kahn were paid $43M combined to manage the estate. They decide where ALL residual assets go via "Schedule B" (not in this document).
+1. **Trustees control everything**, Indyke and Kahn were paid $43M combined to manage the estate. They decide where ALL residual assets go via "Schedule B" (not in this document).
 
-2. **Two-year silence clause** — Any beneficiary who doesn't maintain silence for 2 years after death becomes ineligible. This is an explicit **hush money** provision.
+2. **Two-year silence clause**, Any beneficiary who doesn't maintain silence for 2 years after death becomes ineligible. This is an explicit **hush money** provision.
 
-3. **Employment continuation clause** — All employees/service providers must continue to be employed and paid from estate. Can only be fired for "physical or mental abuse, criminal misconduct, or decrease in capacity." This ensures loyalty/silence.
+3. **Employment continuation clause**, All employees/service providers must continue to be employed and paid from estate. Can only be fired for "physical or mental abuse, criminal misconduct, or decrease in capacity." This ensures loyalty/silence.
 
-4. **Foreign nationals as major beneficiaries** — Karyna Shuliak (Eastern European), Yulia Silinskaya (Russian), Valdson Viera Contrin (Brazilian/Portuguese), Luciano Fontanilla (Filipino). International reach of the network.
+4. **Foreign nationals as major beneficiaries**, Karyna Shuliak (Eastern European), Yulia Silinskaya (Russian), Valdson Viera Contrin (Brazilian/Portuguese), Luciano Fontanilla (Filipino). International reach of the network.
 
 ---
 

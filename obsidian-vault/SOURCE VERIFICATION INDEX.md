@@ -1,10 +1,10 @@
-# Source Verification Index — Every Claim, Every Citation
+# Source Verification Index, Every Claim, Every Citation
 
 ## Purpose: Bulletproof documentation. Every factual claim in our case study must trace to at least one primary source. If a claim has only a secondary source, it is marked (SECONDARY). If a claim is analytical inference, it is marked (ANALYSIS).
 
 ---
 
-## TIER 1: DOJ PRODUCTION DOCUMENTS (Primary — highest reliability)
+## TIER 1: DOJ PRODUCTION DOCUMENTS (Primary, highest reliability)
 These are documents produced by the United States Department of Justice under the Epstein Files Transparency Act. Verifiable at justice.gov/epstein.
 
 ### FBI Evidence Inventories
@@ -15,7 +15,7 @@ These are documents produced by the United States Department of Justice under th
 | "Alleged Money Laundering by Howard Lutnick via BGC Financial and Cantor Fitzgerald" | FBI evidence log | EFTA02730741 | Deredacted entry |
 | "Anonymous threat against VIRGINIA ROBERTS GUIFFRE" | FBI evidence log | EFTA02730741 | Deredacted entry |
 | "Attempted Contact To Threat to Life Posting on Deep Paste" | FBI evidence log | EFTA02730741 | Deredacted entry |
-| MCC surveillance — 12+ hard drives from DVRs | FBI evidence log | EFTA02730486/741 | Direct inventory listing |
+| MCC surveillance, 12+ hard drives from DVRs | FBI evidence log | EFTA02730486/741 | Direct inventory listing |
 | LTO-6 tape archives | FBI evidence log | EFTA02730486/741 | Direct inventory listing |
 | "All video available to download for 8/9 (THIS DOWNLOAD FAILED)" | FBI evidence log | EFTA02730741 | Direct text |
 | "video downloaded by tech, (that is the wrong camera)" | FBI evidence log | EFTA02730741 | Direct text |
@@ -112,7 +112,7 @@ These are documents produced by the United States Department of Justice under th
 | Clinical nurse: body "Cold," "posterior mottling," pupils fixed | Emergency report | SDNY_00008861 |
 | TRU-SCOPE requirements, watch call every 30 min | SHU Post Orders | COMBINED p. 17376 |
 | Camera system installed week after death | OIG communications | COMBINED pp. 17364-17365 |
-| "Existence of a handheld video" — "Not specifically addressed" | OIG summary | COMBINED p. 17363 |
+| "Existence of a handheld video", "Not specifically addressed" | OIG summary | COMBINED p. 17363 |
 | Count discrepancy: 73 vs 72 inmates | OIG interview of Thomas | COMBINED p. 17350 |
 | AG Barr personally watched the tape | Case record | COMBINED pp. 26283, 31253 |
 | Defense attorney door log dispute | Email chain | COMBINED pp. 31475-31485 |
@@ -122,7 +122,7 @@ These are documents produced by the United States Department of Justice under th
 
 ---
 
-## TIER 2: GOVERNMENT RECORDS (Primary — independent verification)
+## TIER 2: GOVERNMENT RECORDS (Primary, independent verification)
 
 ### IRS 990 Filings (via ProPublica Nonprofit Explorer)
 | Entity | EIN | Verification URL |
@@ -158,7 +158,7 @@ These are documents produced by the United States Department of Justice under th
 
 ---
 
-## TIER 3: VERIFIED PUBLIC REPORTING (Secondary — corroborated)
+## TIER 3: VERIFIED PUBLIC REPORTING (Secondary, corroborated)
 
 ### Major Outlet Reports (each claim verified by 2+ outlets)
 | Claim | Primary Source | Corroborating Sources |

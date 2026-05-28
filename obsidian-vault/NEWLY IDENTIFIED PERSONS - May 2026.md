@@ -1,4 +1,4 @@
-# Newly Identified Persons — May 2026 Deep Investigation
+# Newly Identified Persons, May 2026 Deep Investigation
 
 ## From 170,444 hits across 834,961 documents + web cross-referencing
 
@@ -13,7 +13,7 @@
 
 ### BARBRO EHNBOM (1,555 document hits)
 - **Role:** Swedish-American economist, pharma/finance career
-- **Function:** Ran dual-purpose women's network (BBB) — legitimate mentorship + Epstein recruitment pipeline
+- **Function:** Ran dual-purpose women's network (BBB), legitimate mentorship + Epstein recruitment pipeline
 - **Key action:** Sent 10+ emails with PHOTO ATTACHMENTS of young Swedish women to Epstein (2012-2017) for his "review." Received $200,000+. Hosted events at Epstein's Manhattan townhouse.
 - **Connection to Sweden GPS:** Explains the 5 geotagged videos from Marstrand, Sweden (June 2019, 9 days before arrest)
 - **Scale:** 150+ Swedish women in the BBB network
@@ -34,7 +34,7 @@
 
 ### PETER THIEL (1,210 document hits)
 - **Role:** Palantir founder, Founders Fund, Valar Ventures
-- **Key actions:** Epstein invested $40M in Valar Ventures (2015-16) → now $170M (largest estate asset). Epstein arranged 6+ meetings with Barak. Founders Fund put $15M in Carbyne. Palantir-Israel military partnership began at Epstein dinner ("Assassination squad. Ice cream"). Thiel: "Agreed — very Israeli and very stimulating." Funded JD Vance with $15M → Senate → VP.
+- **Key actions:** Epstein invested $40M in Valar Ventures (2015-16) → now $170M (largest estate asset). Epstein arranged 6+ meetings with Barak. Founders Fund put $15M in Carbyne. Palantir-Israel military partnership began at Epstein dinner ("Assassination squad. Ice cream"). Thiel: "Agreed, very Israeli and very stimulating." Funded JD Vance with $15M → Senate → VP.
 - **Source:** Daily Beast, Byline Times, Jacobin, Boing Boing, SF Standard, The Nation
 
 ### JOSCHA BACH (2,141 document hits)
@@ -72,19 +72,19 @@
 
 ---
 
-## ADDITIONAL PERSONS — DEEP PROFILES (from continued investigation)
+## ADDITIONAL PERSONS, DEEP PROFILES (from continued investigation)
 
-### JES STALEY — JPMorgan → Barclays CEO — BANNED FROM FINANCE
+### JES STALEY, JPMorgan → Barclays CEO, BANNED FROM FINANCE
 - 1,000+ emails with Epstein over a decade
 - Described Epstein as "family" and their friendship as "profound"
 - Visited Little Saint James island
-- **"That was fun. Say hi to Snow White"** — Epstein: "what character would you like next" — Staley: **"Beauty and the Beast"**
+- **"That was fun. Say hi to Snow White"**, Epstein: "what character would you like next", Staley: **"Beauty and the Beast"**
 - Slept with Epstein's assistant (admitted in court)
 - FCA (UK regulator) BANNED him for life from financial services
 - Fined £1.8 million for misleading regulators about Epstein relationship
 - Source: Bloomberg, CNN, FCA enforcement
 
-### GLENN & EVA DUBIN — 122+ flights, welcome back after conviction
+### GLENN & EVA DUBIN, 122+ flights, welcome back after conviction
 - Eva dated Epstein 11 years before marrying Glenn Dubin
 - Epstein was GODFATHER to their children
 - After 2008 conviction, Eva wrote to Epstein's probation officer: "100% comfortable with Jeffrey Epstein around my children"
@@ -95,17 +95,17 @@
 - Named in JPMorgan SAR
 - Source: WION, MSN, ArtNews, KSAT
 
-### STEVE BANNON — 18 months of texts, global populist movement
+### STEVE BANNON, 18 months of texts, global populist movement
 - Hundreds of friendly texts Jan 2018-Jul 2019
 - Traded political intelligence, speculated about Trump's legal troubles
 - Bannon offered to "rebuild your image" in April 2019
 - **Recorded 15 hours of interviews** with Epstein for planned documentary
-- Bannon described his movement as "reverse Alabama — Populist/Nationalist first; Conservative Christians next"
+- Bannon described his movement as "reverse Alabama, Populist/Nationalist first; Conservative Christians next"
 - Bragged to Epstein about secretly building private border wall near El Paso
 - Epstein bought Apple Watches as gifts for Bannon and his nephew
 - Source: NBC, CNN, PBS, Jacobin, El Paso Matters
 
-### NOAM CHOMSKY — "highly valued friend"
+### NOAM CHOMSKY, "highly valued friend"
 - Regular and close contact despite 2008 conviction
 - Lunched at Epstein's ranch, dinners at Manhattan townhouse
 - Stayed in Epstein's apartment when visiting NYC
@@ -116,7 +116,7 @@
 - **In Feb 2019, counseled Epstein on PR/legal crisis after Miami Herald series**
 - Source: WBUR, CounterPunch, Quillette, Countercurrents
 
-### WOODY ALLEN — "Castle Dracula"
+### WOODY ALLEN, "Castle Dracula"
 - Regular dinner guest with wife Soon-Yi
 - Wrote birthday letter (2016) calling Epstein's home "Castle Dracula"
 - Noted home filled "often by several young women"
@@ -125,42 +125,42 @@
 - On Epstein's "People To See" scheduling lists alongside Thiel, Barak, Burns, Black
 - Source: Hollywood Reporter, Daily Beast, Fox News
 
-### LESLEY GROFF — 150,000+ mentions, never charged
+### LESLEY GROFF, 150,000+ mentions, never charged
 - Executive assistant 2001-2019 (entire operation period)
 - Most mentioned person in DOJ files after Epstein himself
 - Managed calendars, scheduled meetings, arranged travel
 - **Multiple victims identified Groff as person they called to "schedule a massage"**
-- Named as co-conspirator in 2008 NPA — received IMMUNITY
+- Named as co-conspirator in 2008 NPA, received IMMUNITY
 - Will beneficiary: $2 million
 - Called to testify before House Oversight Committee June 2026
 - Source: Sunday Guardian, CNN, Epstein Exposed, Civic Research Institute
 
-### ACOSTA "BELONGED TO INTELLIGENCE" — SOURCE ANALYSIS
+### ACOSTA "BELONGED TO INTELLIGENCE", SOURCE ANALYSIS
 - Quote attributed to Acosta during Trump transition team vetting (2017)
 - Original source: anonymous "former senior White House official" via Vicky Ward (Daily Beast, 2019)
 - **Acosta DENIED saying it** to House Oversight Committee
 - The quote has been embellished in retellings (Thiel claimed "congressional testimony," Megyn Kelly said "on the record")
 - Assessment: The quote is single-sourced and denied. However, the EVIDENCE of intelligence connections (FBI classified reports, Israeli security installations, Carbyne/Unit 8200, Barak's military deals, Wexner/Mega Group) doesn't depend on Acosta's quote. The documents prove it regardless.
 
-### STEPHEN FEINBERG — Deputy Secretary of Defense (current)
+### STEPHEN FEINBERG, Deputy Secretary of Defense (current)
 - Founder/CEO of Cerberus Capital Management ($60B+ private equity)
 - **360 Epstein files documents** reference Cerberus
 - **20 documents** reference Feinberg by name
 - Business relationship with Epstein documented in 2009, 2013 emails
 - Andrew Farkas discussed "funds received from Cerberus" with Epstein (2015)
 - **Whistleblower Christopher DiIorio** in Epstein files: alleges "massive fraud" by Cerberus/Feinberg, shell companies, "money laundering clean up GUARANTEED"
-- Now runs DOD "Economic Defense Unit" (launched April 2026) — military + global finance
+- Now runs DOD "Economic Defense Unit" (launched April 2026), military + global finance
 - Pentagon declined to comment on Epstein connection
 - Source: Project on Government Oversight, Revolving Door Project, PropPublica
 
-### CHRISTOPHER DIIORIO — Whistleblower (in Epstein files)
+### CHRISTOPHER DIIORIO, Whistleblower (in Epstein files)
 - Emails included in Epstein files
 - Alleges "massive fraud" by Cerberus and Feinberg
 - Claims SEC enabled shell company operations to "funnel and obscure transfer of money"
 - "Money laundering clean up GUARANTEED"
 - This whistleblower's allegations are IN the FBI's own Epstein evidence files
 
-### BREAKING — SARAH KELLEN TESTIMONY (May 22, 2026)
+### BREAKING, SARAH KELLEN TESTIMONY (May 22, 2026)
 Kellen (312 flights, named co-conspirator, immunity from NPA) testified before House Oversight and NAMED THREE NEW ABUSERS:
 
 | Name | Allegation | Current Status |
@@ -171,4 +171,4 @@ Kellen (312 flights, named co-conspirator, immunity from NPA) testified before H
 
 Source: CNN, May 22, 2026
 
-NOTE: The co-conspirator who scheduled "massages" for victims is now naming the men who assaulted HER. The immunity she received in 2008 protected her from prosecution — now she's using it to speak. Whether she names more men remains to be seen. She's scheduled to continue testimony.
+NOTE: The co-conspirator who scheduled "massages" for victims is now naming the men who assaulted HER. The immunity she received in 2008 protected her from prosecution, now she's using it to speak. Whether she names more men remains to be seen. She's scheduled to continue testimony.

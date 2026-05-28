@@ -1,16 +1,16 @@
-# BITCOIN IS NOT FREEDOM — It's a Surveillance Ledger
+# BITCOIN IS NOT FREEDOM, It's a Surveillance Ledger
 
 ## The Lie
 
 Bitcoin was sold as freedom. Private banking. Financial sovereignty. Power to the people.
 
-**It is none of those things.** Every transaction is recorded permanently on a public ledger that anyone — including every intelligence agency on Earth — can read. It is the most surveilled financial system ever created. The NSA understood this immediately.
+**It is none of those things.** Every transaction is recorded permanently on a public ledger that anyone, including every intelligence agency on Earth, can read. It is the most surveilled financial system ever created. The NSA understood this immediately.
 
 ## The NSA Knew Immediately
 
 From Edward Snowden's leaked documents (2013):
-- **"Bitcoin is #1 priority"** — NSA internal report, March 15, 2013
-- Program codename: **OAKSTAR** — monitoring Bitcoin users globally
+- **"Bitcoin is #1 priority"**, NSA internal report, March 15, 2013
+- Program codename: **OAKSTAR**, monitoring Bitcoin users globally
 - Used **XKeyScore** (global internet surveillance system) to track Bitcoin users
 - Collected: passwords, internet activity, MAC addresses, computer details
 - "Went well beyond examining Bitcoin's public transaction ledger"
@@ -51,7 +51,7 @@ Bitcoin was supposedly created by a **privacy advocate** (cypherpunk movement) t
 
 **But it does the opposite:**
 - Every transaction is permanently recorded
-- The blockchain is public — anyone can read it
+- The blockchain is public, anyone can read it
 - The NSA was tracking users within 4 years of launch
 - Chainalysis, Elliptic, and other firms can trace transactions with >90% accuracy
 - KYC requirements at exchanges mean most users are identified
@@ -77,7 +77,7 @@ The answer: intelligence agencies. The same agencies that:
 
 ## Bitcoin Adoption as Intelligence Collection
 
-Consider the possibility that Bitcoin was not created to evade surveillance. It was created to **enable** it — to create a financial layer that:
+Consider the possibility that Bitcoin was not created to evade surveillance. It was created to **enable** it, to create a financial layer that:
 - Operates outside traditional banking (where intelligence agencies need warrants)
 - Records everything permanently (better than any bank's records)
 - Is adopted voluntarily by the exact populations agencies want to monitor (criminals, sanctions evaders, dissidents, privacy advocates)
@@ -90,7 +90,7 @@ A perfect intelligence collection tool, adopted willingly by the targets, foreve
 
 We don't know. The candidates are all connected to the same cryptographic community. Three of them are dead. The wallet holds $70 billion that has never moved. And the man who "belonged to intelligence" tried to capture its infrastructure the moment he became aware of it.
 
-**Tier 3 — Open Investigation. But the question is no longer crazy. It's the most rational question you can ask about a "privacy tool" that records everything forever.**
+**Tier 3, Open Investigation. But the question is no longer crazy. It's the most rational question you can ask about a "privacy tool" that records everything forever.**
 
 ## Links
 - [[SATOSHI NAKAMOTO - Who Created Bitcoin]]

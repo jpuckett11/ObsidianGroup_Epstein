@@ -1,4 +1,4 @@
-# Complete Business Network Map — Every Entity, Every Person, Every Role
+# Complete Business Network Map, Every Entity, Every Person, Every Role
 
 ## MASTER LIST OF ALL KNOWN BUSINESSES AND THEIR ROLES IN THE OPERATION
 
@@ -41,16 +41,16 @@
 ### Charities/Foundations
 | Entity | Purpose | Assets | Status |
 |--------|---------|--------|--------|
-| Gratitude America Ltd (USVI) | Tax shelter | **$8.17M dormant** | ACTIVE — zero activity since 2020 |
-| J. Epstein Foundation Inc (NJ) | Early foundation | $90K | ACTIVE — still filing 990s |
+| Gratitude America Ltd (USVI) | Tax shelter | **$8.17M dormant** | ACTIVE, zero activity since 2020 |
+| J. Epstein Foundation Inc (NJ) | Early foundation | $90K | ACTIVE, still filing 990s |
 | C.O.U.Q. Foundation (NY) | Wexner pipeline | Transferred $14.2M to Wexner YLK | Unknown |
 | Jeffrey Epstein VI Foundation | USVI foundation | Unknown | Lost tax-exempt 2008 |
-| Florida Science Foundation | Science/FIRST Robotics | Unknown | Unknown — funded kids in robotics |
+| Florida Science Foundation | Science/FIRST Robotics | Unknown | Unknown, funded kids in robotics |
 | JEE Enhanced Education | Front for VI Foundation | Unknown | Never provided claimed support |
 
 ---
 
-## TIER 2: BUSINESSES OF KEY ASSOCIATES — TO INVESTIGATE
+## TIER 2: BUSINESSES OF KEY ASSOCIATES, TO INVESTIGATE
 
 | Business | Owner/Principal | Connection to Epstein | Needs Investigation |
 |----------|----------------|----------------------|---------------------|
@@ -85,32 +85,32 @@
 ## INVESTIGATION PRIORITY ORDER
 
 ### HIGHEST (active criminal/civil exposure)
-1. Apollo Global Management — class action filed, Black 4 victims
-2. Cerberus Capital — fraud whistleblower in DOJ files, Feinberg is DOD Deputy Sec
-3. Carbyne/Axon — surveillance in 23 states, $625M acquisition
-4. MC2 Model Management — Tel Aviv recruitment, Raphaeli allegations
-5. Zen Studies Society — money hiding, Marcinkova, church shield
+1. Apollo Global Management, class action filed, Black 4 victims
+2. Cerberus Capital, fraud whistleblower in DOJ files, Feinberg is DOD Deputy Sec
+3. Carbyne/Axon, surveillance in 23 states, $625M acquisition
+4. MC2 Model Management, Tel Aviv recruitment, Raphaeli allegations
+5. Zen Studies Society, money hiding, Marcinkova, church shield
 
 ### HIGH (financial flows)
-6. Southern Financial LLC — $412.3M gap
-7. Haze Trust — $49.5M art liquidation, feeds into Southern Financial
-8. Valar Ventures — $170M estate asset, Thiel → Vance chain
-9. Edmond de Rothschild / Julius Baer — Swiss banking layer
-10. Gratitude America — $8.17M dormant
+6. Southern Financial LLC, $412.3M gap
+7. Haze Trust, $49.5M art liquidation, feeds into Southern Financial
+8. Valar Ventures, $170M estate asset, Thiel → Vance chain
+9. Edmond de Rothschild / Julius Baer, Swiss banking layer
+10. Gratitude America, $8.17M dormant
 
 ### MEDIUM (enablers)
-11. Bridgewater Associates — Packard hiding there
-12. Bank of America — Morris + Kirby both there
-13. Island Capital Group — Farkas, yacht harbor, tax deals
-14. DEKA / FIRST — Marcinkova placed, victim embedded
-15. Day One Ventures — Drokova, strategic tech
+11. Bridgewater Associates, Packard hiding there
+12. Bank of America, Morris + Kirby both there
+13. Island Capital Group, Farkas, yacht harbor, tax deals
+14. DEKA / FIRST, Marcinkova placed, victim embedded
+15. Day One Ventures, Drokova, strategic tech
 
 ### TO BE RESEARCHED
 16. All remaining "UNKNOWN" shell companies from entity tracker
 17. Cogito/Ergo/Sum corporate structure
-18. Ossa Properties / 301 66 Owners Corp — Mark Epstein
-19. Aviloop LLC — how is it generating $1M from a temple?
-20. MF-Group — French-Israeli company that built Ivory Coast surveillance
+18. Ossa Properties / 301 66 Owners Corp, Mark Epstein
+19. Aviloop LLC, how is it generating $1M from a temple?
+20. MF-Group, French-Israeli company that built Ivory Coast surveillance
 
 ---
 
@@ -123,7 +123,7 @@
 - Rowan forwarded internal tax calculations to Epstein (March 2016)
 - Staff told to copy Epstein on tax matters (Sept 2016)
 - $56.5M paid under UNSIGNED agreement
-- Told investors "never did any business" with Epstein — proven false
+- Told investors "never did any business" with Epstein, proven false
 - Hagens Berman leading class action
 - Leon Black: 4 victims accuse him of violent sexual assault
 
@@ -131,7 +131,7 @@
 - Cerberus bought DynCorp for $1B (2010)
 - DynCorp employees caught sex trafficking in Bosnia (late 1990s)
 - Bought/sold women and girls, sex with minors
-- Whistleblowers FIRED — no traffickers prosecuted
+- Whistleblowers FIRED, no traffickers prosecuted
 - Cerberus: 360 Epstein document references
 - DiIorio whistleblower: "massive fraud," "money laundering GUARANTEED"
 - 6 KYC guarantors never identified
@@ -148,7 +148,7 @@
   - Body cameras (Axon)
   - Tasers (Axon)
   - Evidence databases (Axon Evidence)
-  - AI police reports (Axon — ACLU flagged)
+  - AI police reports (Axon, ACLU flagged)
   - Fusus: private cameras → police monitoring (no subject consent)
   - License plate readers
   - Drone feeds
@@ -166,9 +166,9 @@ Mark Epstein acquired 301 East 66th Street FROM LES WEXNER in the early 1990s.
 - The building's legal entity also lists as address for 9 E 71st St mansion
 - Wexner → property → Mark Epstein → Israeli security installed → Marcinkova hiding 1,221 ft away
 
-### OSSA PROPERTIES — 4 MANHATTAN CO-OPS (500 units total)
+### OSSA PROPERTIES, 4 MANHATTAN CO-OPS (500 units total)
 - 301 East 66th Street (150+ of 200 units)
-- THREE OTHER BUILDINGS — which ones? NEED IDENTIFICATION
+- THREE OTHER BUILDINGS, which ones? NEED IDENTIFICATION
 - Combined: ~500 renter-occupied units
 - All controlled by Mark Epstein
 
@@ -179,7 +179,7 @@ Mark Epstein acquired 301 East 66th Street FROM LES WEXNER in the early 1990s.
 - IGY-AYH St. Thomas Holdings = Epstein's 50% yacht harbor partnership
 - Farkas's CORE BUSINESS is the yachting company that partnered with Epstein
 - Hotels: Sheraton Times Square ($373M), Lexington Hotel ($185M)
-- Previously: Insignia — controlled 350,000 residential units + 200M sq ft commercial
+- Previously: Insignia, controlled 350,000 residential units + 200M sq ft commercial
 - Called Epstein "one of the blessings in my life" with 2,000 emails
 
 ### APOLLO HOLDINGS
@@ -199,33 +199,33 @@ Mark Epstein acquired 301 East 66th Street FROM LES WEXNER in the early 1990s.
 
 ---
 
-## PEOPLE TRACED — CURRENT STATUS (May 25, 2026)
+## PEOPLE TRACED, CURRENT STATUS (May 25, 2026)
 
 ### STILL OPERATING / ACTIVE:
 | Person | Current Status | Threat Level |
 |--------|---------------|-------------|
-| **MC2 Tel Aviv (Raphaeli)** | STILL OPERATING — website active, Instagram active | Recruitment pipeline OPEN |
-| **Aviloop (Marcinkova)** | STILL OPERATING — $1M revenue, Mark Epstein building | Co-conspirator running business |
-| **Paolo Zampolli** | US Special Envoy for Global Partnerships — mineral deals Uzbekistan/Oman, met Orbán with Vance | Epstein associate AS DIPLOMAT |
+| **MC2 Tel Aviv (Raphaeli)** | STILL OPERATING, website active, Instagram active | Recruitment pipeline OPEN |
+| **Aviloop (Marcinkova)** | STILL OPERATING, $1M revenue, Mark Epstein building | Co-conspirator running business |
+| **Paolo Zampolli** | US Special Envoy for Global Partnerships, mineral deals Uzbekistan/Oman, met Orbán with Vance | Epstein associate AS DIPLOMAT |
 | **Daniel Siad** | Living in Paris, facing rape complaint from Swedish model | 1,000+ docs, recruiter at large |
-| **Erika Kellerhals** | Status unknown — not charged despite $23M from Epstein + obstruction coaching | Legal architect free |
-| **Chip Packard** | Bridgewater Associates — sovereign wealth clients | DB enabler promoted |
-| **Paul Morris** | Bank of America — managing director | Followed Epstein across 3 banks |
-| **Stephen Feinberg** | DOD Deputy Secretary — Economic Defense Unit | DynCorp trafficking → Pentagon |
-| **Scott Bessent** | Treasury Secretary — blocking Epstein financial records | In Cogito/Ergo/Sum web |
-| **Todd Blanche** | Deputy AG — blocked transparency, met Maxwell in prison | Actively concealing |
+| **Erika Kellerhals** | Status unknown, not charged despite $23M from Epstein + obstruction coaching | Legal architect free |
+| **Chip Packard** | Bridgewater Associates, sovereign wealth clients | DB enabler promoted |
+| **Paul Morris** | Bank of America, managing director | Followed Epstein across 3 banks |
+| **Stephen Feinberg** | DOD Deputy Secretary, Economic Defense Unit | DynCorp trafficking → Pentagon |
+| **Scott Bessent** | Treasury Secretary, blocking Epstein financial records | In Cogito/Ergo/Sum web |
+| **Todd Blanche** | Deputy AG, blocked transparency, met Maxwell in prison | Actively concealing |
 
 ### MISSING:
 | Person | Last Seen | Status |
 |--------|----------|--------|
-| **Adriana Ross/Mucinska** | 2010 | MISSING 16 YEARS — destroyed evidence, invoked 5th 100+ times |
-| **Nadia Marcinkova** | Jan 4, 2024 (UES apt) | LOCATED at Zen Studies Society as "Eikyu" — but not "found" by LE |
+| **Adriana Ross/Mucinska** | 2010 | MISSING 16 YEARS, destroyed evidence, invoked 5th 100+ times |
+| **Nadia Marcinkova** | Jan 4, 2024 (UES apt) | LOCATED at Zen Studies Society as "Eikyu", but not "found" by LE |
 | **Brice & Karen Gordon** | Unknown | NZ citizens, can't be reached, truth commission target |
 
 ### TESTIFYING / COOPERATING:
 | Person | Status | When |
 |--------|--------|------|
-| **Sarah Kellen** | Testified May 21, 2026 — named 3 abusers | Complete |
+| **Sarah Kellen** | Testified May 21, 2026, named 3 abusers | Complete |
 | **Lesley Groff** | Scheduled June 9, 2026 | 15 DAYS AWAY |
 | **Richard Kahn** | Testified March 11, 2026 | Complete |
 | **Darren Indyke** | Testified March 19, 2026 | Complete |
@@ -233,8 +233,8 @@ Mark Epstein acquired 301 East 66th Street FROM LES WEXNER in the early 1990s.
 ### DEAD:
 | Person | When | Circumstances |
 |--------|------|---------------|
-| Jeffrey Epstein | Aug 10, 2019 | MCC — every system failed simultaneously |
-| Jean-Luc Brunel | Feb 2022 | Paris prison — hanged, awaiting trial |
+| Jeffrey Epstein | Aug 10, 2019 | MCC, every system failed simultaneously |
+| Jean-Luc Brunel | Feb 2022 | Paris prison, hanged, awaiting trial |
 | Bill Richardson | Sep 2023 | Before files released |
 | Patrick Demarchelier | Mar 2022 | Before files released |
 
@@ -250,7 +250,7 @@ Mark Epstein acquired 301 East 66th Street FROM LES WEXNER in the early 1990s.
 | Thorbjørn Jagland | Aggravated corruption (Norway) | Feb 2026 |
 | Prince Andrew | Misconduct in public office (UK) | Feb 2026 |
 
-## POLITICAL CONNECTIONS — CURRENT ADMINISTRATION
+## POLITICAL CONNECTIONS, CURRENT ADMINISTRATION
 
 | Person | Role | Epstein Connection |
 |--------|------|-------------------|
@@ -260,10 +260,10 @@ Mark Epstein acquired 301 East 66th Street FROM LES WEXNER in the early 1990s.
 | **Blanche** | Deputy Attorney General | Met Maxwell in prison, blocking transparency on mystery investigation |
 | **Lutnick** | Commerce Secretary | FBI evidence: "Alleged Money Laundering via BGC/Cantor Fitzgerald," visited LSJ with family |
 
-### PLASKETT — EPSTEIN DIRECTED HER QUESTIONS IN CONGRESS
+### PLASKETT, EPSTEIN DIRECTED HER QUESTIONS IN CONGRESS
 - Feb 27, 2019: During Cohen hearing, Epstein texted Plaskett what to ask
 - Directed her to question about Trump's assistant Rhona Graff
-- "Good work" — Epstein praised her performance
+- "Good work", Epstein praised her performance
 - A sex trafficker was directing congressional questioning about the President
 - House voted against censuring her
 
@@ -271,7 +271,7 @@ Mark Epstein acquired 301 East 66th Street FROM LES WEXNER in the early 1990s.
 | When | What | Who | Status |
 |------|------|-----|--------|
 | 2005 (pre-raid) | Computers removed from Palm Beach | Adriana Ross at Epstein's direction | Ross missing since 2010 |
-| 2005 (11 days before raid) | 3 desktops, phone dirs, nude photos | PIs Lavery/Kiraly/Riley for Roy Black | Never returned — 21 years |
+| 2005 (11 days before raid) | 3 desktops, phone dirs, nude photos | PIs Lavery/Kiraly/Riley for Roy Black | Never returned, 21 years |
 | Aug 10, 2019 | SHU computer hard drives removed/replaced | Unknown MCC staff | Same night as death |
 | Aug 16, 2019 | 4-5 bags shredded documents | BOP After-Actions team | "Not the first time" |
 | Jun 2024 | Master MCC video (Item 1B60) | FBI authorized destruction | Evidence permanently gone |

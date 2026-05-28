@@ -56,10 +56,10 @@ Referenced directly: the cleaner "will have to call Rafi to disarm" the alarm at
 Nili to Lesley Groff's assistant:
 > "EB has a meeting at 2:30 PM for let say an hour and a half, not far from J house. Then I purchased tickets for **OSLO**, at the Lincoln center theatre."
 
-Note: Tickets for "OSLO" (Broadway play about Israel-Palestine peace negotiations) purchased by Nili — Epstein later charged "4 tickets to Oslo on JE's Black Amex for **Eva**" [Dubin]
+Note: Tickets for "OSLO" (Broadway play about Israel-Palestine peace negotiations) purchased by Nili, Epstein later charged "4 tickets to Oslo on JE's Black Amex for **Eva**" [Dubin]
 
 ### Business Entity
-**"Barak & Associates, L.L.C."** — formal entity name used in email addresses for Barak
+**"Barak & Associates, L.L.C."**, formal entity name used in email addresses for Barak
 
 ---
 

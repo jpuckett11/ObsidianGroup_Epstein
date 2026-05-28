@@ -1,17 +1,17 @@
-# SATELLITE BLACKOUT — Both Islands, TWO Windows, NINE YEARS
+# SATELLITE BLACKOUT, Both Islands, TWO Windows, NINE YEARS
 
 ## The Evidence
 
 - USVI has 30+ satellite images available for the 2006-2014 period
 - Little St. James: ZERO high-resolution imagery for TWO separate periods
 - Great St. James: ZERO high-resolution imagery for TWO separate periods
-- At 4km zoom: images exist (low resolution — landmass visible)
+- At 4km zoom: images exist (low resolution, landmass visible)
 - Zoom in: NO DATA. Detail stripped. Resolution masked.
 - Both islands blacked out. Everything around them documented.
 - Same satellite passes. Same imaging swaths. Specific coordinate exclusion.
 - MASSIVE changes visible between last pre-blackout image and first post-blackout image
 
-## TWO BLACKOUT WINDOWS — NINE YEARS TOTAL
+## TWO BLACKOUT WINDOWS, NINE YEARS TOTAL
 
 ### Blackout 1: 2006-2009 (Approximately Four Years)
 - Starts: Same year Palm Beach investigation goes public, Operation Leap Year launches
@@ -34,7 +34,7 @@
 | Pre-2006 | Available | Available | Available | Operating, pre-investigation |
 | **2006-2009** | **BLACKED OUT** | **BLACKED OUT** | 30+ images | Investigation, NPA, jail |
 | **2009-2014** | **BLACKED OUT** | **BLACKED OUT** | 30+ images | Released, rebuilding, clearing GSJ |
-| 2014 | Returns — MASSIVE CHANGES | Returns — MASSIVE CLEARING | Available | Active |
+| 2014 | Returns, MASSIVE CHANGES | Returns, MASSIVE CLEARING | Available | Active |
 | 2016-2019 | Available | Construction on cleared land | Available | Purchased GSJ, building |
 | 2019-present | Available | Available | Available | Arrested / dead |
 
@@ -42,7 +42,7 @@
 
 ### Between last pre-blackout image and first post-blackout image:
 - MASSIVE changes on BOTH islands
-- GSJ shows enormous land clearing — on an island Epstein didn't purchase until 2016
+- GSJ shows enormous land clearing, on an island Epstein didn't purchase until 2016
 - LSJ shows significant new construction and development
 - Nine years of activity with no satellite record
 - Whatever was built, buried, modified, or destroyed has no visual documentation
@@ -58,7 +58,7 @@ When cops and FBI were looking at Epstein, the satellites stopped looking at his
 Someone was protecting the visual evidence of what was on those islands from being available to investigators. If the FBI had current satellite imagery of LSJ during Operation Leap Year, what would they have seen?
 
 **Window 2 (2009-2014): The Rebuild Window**
-When Epstein got out of jail and restarted the machine, the satellites stayed blind. "Trash all deleted emails please." The evidence destruction extended from email to geospatial. Whatever he did to reconstruct the operation — new buildings, new infrastructure, cleared evidence, prepared GSJ — happened without any overhead documentation.
+When Epstein got out of jail and restarted the machine, the satellites stayed blind. "Trash all deleted emails please." The evidence destruction extended from email to geospatial. Whatever he did to reconstruct the operation, new buildings, new infrastructure, cleared evidence, prepared GSJ, happened without any overhead documentation.
 
 Both windows close when the sensitive work is done. The satellites come back when there's nothing left to hide.
 
@@ -75,7 +75,7 @@ This is NOT a removal of imagery. It's a resolution ceiling.
 
 | Actor | Capability | Mechanism |
 |-------|-----------|-----------|
-| NGA (National Geospatial-Intelligence Agency) | Yes | Persistent Imaging Location List — classified, 60-70 locations |
+| NGA (National Geospatial-Intelligence Agency) | Yes | Persistent Imaging Location List, classified, 60-70 locations |
 | DOD / Intelligence Community | Yes | National security classification of coordinates |
 | NOAA | Yes (enforcement) | Commercial satellite licensing restrictions |
 | Private purchase | Yes (with money) | Buy exclusive rights to satellite passes over coordinates |
@@ -99,7 +99,7 @@ The same authority that told Acosta to "leave it alone" told the satellites not 
 
 ## Tier Classification
 
-**Tier 1** — The imagery gap is verifiable by anyone with Google Earth. The 30+ USVI images during the same periods prove the gap is specific to these coordinates. The resolution masking at 4km vs. zoom-in is observable. The massive changes between pre- and post-blackout images are visible.
+**Tier 1**, The imagery gap is verifiable by anyone with Google Earth. The 30+ USVI images during the same periods prove the gap is specific to these coordinates. The resolution masking at 4km vs. zoom-in is observable. The massive changes between pre- and post-blackout images are visible.
 
 ## Action Items
 

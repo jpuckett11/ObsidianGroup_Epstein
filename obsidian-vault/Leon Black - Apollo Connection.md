@@ -2,7 +2,7 @@
 
 ## Summary
 
-Leon Black, founder and former CEO of Apollo Global Management, paid Jeffrey Epstein **$158 million between 2012 and 2017** — ostensibly for "tax, estate planning, and philanthropic advice." This represents one of the largest documented financial relationships between Epstein and any single individual.
+Leon Black, founder and former CEO of Apollo Global Management, paid Jeffrey Epstein **$158 million between 2012 and 2017**, ostensibly for "tax, estate planning, and philanthropic advice." This represents one of the largest documented financial relationships between Epstein and any single individual.
 
 ---
 
@@ -43,7 +43,7 @@ In October 2020, the **Conflicts Committee of Apollo Global Management** retaine
 ### Key Findings from Dechert
 - "No evidence that Black or any employee of the Family Office or Apollo was involved in any way with Epstein's criminal [activity]"
 - Black and others at Apollo/Family Office **were aware** of Epstein's 2008 conviction
-- Epstein's entity (Financial Trust Company) purchased Apollo IPO shares — later transferred to a second entity
+- Epstein's entity (Financial Trust Company) purchased Apollo IPO shares, later transferred to a second entity
 - Epstein **repeatedly tried to ingratiate himself** with other Apollo senior executives, relying on Black for introductions
 - Black's statement that he "never promoted" Epstein was "not false but could have been more precise"
 - No Apollo employee other than Black ever retained Epstein for services
@@ -93,7 +93,7 @@ In October 2020, the **Conflicts Committee of Apollo Global Management** retaine
 | July 2019 | Epstein arrested; Black sends letter to Apollo LPs (July 31) |
 | July 26, 2019 | Black statement to Apollo employees |
 | July 31, 2019 | Black letter to limited partners; Apollo earnings call |
-| Oct 29, 2020 | Apollo earnings call — Black reiterates limited relationship |
+| Oct 29, 2020 | Apollo earnings call, Black reiterates limited relationship |
 | Oct 2020 | Conflicts Committee retains Dechert |
 | 2021 | Investigation period (148 document references) |
 | 2023 | Heaviest document activity (220 references) |
@@ -102,10 +102,10 @@ In October 2020, the **Conflicts Committee of Apollo Global Management** retaine
 
 ## Black's Public Statements (assessed by Dechert)
 
-1. **"Tax, estate planning, and philanthropic advice"** — Dechert found "substantially accurate"
-2. **"Apollo never did any business with Mr. Epstein"** — Confirmed accurate (no direct Apollo fund involvement)
-3. **"Neither Mr. Epstein nor any company controlled by him has ever invested in any funds managed by Apollo"** — Technically accurate, BUT Financial Trust Company bought Apollo stock in IPO
-4. **"I never promoted Mr. Epstein's services to other Apollo senior executives"** — Dechert found "not false but could have been more precise" (Black did make introductions)
+1. **"Tax, estate planning, and philanthropic advice"**, Dechert found "substantially accurate"
+2. **"Apollo never did any business with Mr. Epstein"**, Confirmed accurate (no direct Apollo fund involvement)
+3. **"Neither Mr. Epstein nor any company controlled by him has ever invested in any funds managed by Apollo"**, Technically accurate, BUT Financial Trust Company bought Apollo stock in IPO
+4. **"I never promoted Mr. Epstein's services to other Apollo senior executives"**, Dechert found "not false but could have been more precise" (Black did make introductions)
 
 ---
 
@@ -139,13 +139,13 @@ Daily calendars recovered from scheduling communications show Black's regular ac
 | [undated] | - | "Please call Leon Black - in office 15 min" | - |
 
 ### Same-Day Schedule Context (People meeting Epstein on Black days)
-- **Kathy Ruemmler** (5:30pm) — Former Obama White House Counsel
-- **Brad Karp** (5:30pm with Ruemmler) — Chairman of Paul Weiss law firm
-- **Paul Barrett** (5:00pm) — Journalist/attorney
-- **Ehud [Barak]** (rescheduled to 5pm next day) — Former Israeli Prime Minister
-- **Barry Cohen** (10:00am) — Attorney/advisor
-- **Hardeep** (10:30am) — Unknown surname, regular appointment
-- **"Suc and her mom"** (7pm) — Young woman + parent brought to residence
+- **Kathy Ruemmler** (5:30pm), Former Obama White House Counsel
+- **Brad Karp** (5:30pm with Ruemmler), Chairman of Paul Weiss law firm
+- **Paul Barrett** (5:00pm), Journalist/attorney
+- **Ehud [Barak]** (rescheduled to 5pm next day), Former Israeli Prime Minister
+- **Barry Cohen** (10:00am), Attorney/advisor
+- **Hardeep** (10:30am), Unknown surname, regular appointment
+- **"Suc and her mom"** (7pm), Young woman + parent brought to residence
 
 ### Financial Favors Documented
 - "Flowers for Kathy Ruemmler being delivered tomorrow on JE's black amex"

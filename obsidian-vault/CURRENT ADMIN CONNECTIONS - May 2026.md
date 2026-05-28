@@ -7,7 +7,7 @@
 
 ---
 
-### 1. PAOLO ZAMPOLLI — U.S. Special Envoy for Global Partnerships
+### 1. PAOLO ZAMPOLLI, U.S. Special Envoy for Global Partnerships
 
 **Current Government Position:** Appointed March 2025 as U.S. Special Envoy for Global Partnerships. Has represented the United States in mineral deals in Uzbekistan, Oman, and other regions.
 
@@ -34,13 +34,13 @@
 
 ---
 
-### 2. STEPHEN FEINBERG — Deputy Secretary of Defense (DOD #2)
+### 2. STEPHEN FEINBERG, Deputy Secretary of Defense (DOD #2)
 
 **Current Government Position:** Deputy Secretary of Defense, confirmed by the Senate in a 59-40 vote. Formerly CEO of Cerberus Capital Management, a private equity firm. Feinberg stepped down from CEO in 2025 to accept the second-highest-ranking position at the Pentagon.
 
 **Nature of Epstein Connection:**
 - Feinberg is referenced **by name in at least 20 documents** in the DOJ Epstein files.
-- His company **Cerberus Capital Management appears in 360 documents** — including personal emails sent by and to Epstein himself.
+- His company **Cerberus Capital Management appears in 360 documents**, including personal emails sent by and to Epstein himself.
 - Emails sent and received by Epstein in **2009 and 2013** suggest an ongoing business relationship with Cerberus.
 - Additional emails between Epstein and his business associate **Andrew Farkas** in **2015** discuss funds received from Cerberus.
 - The files include emails about Cerberus sent by executives at **Deutsche Bank**, which managed Epstein's investments from 2013 to 2018 and allegedly played an "essential role" in Epstein's sex-trafficking scheme.
@@ -67,18 +67,18 @@
 
 ---
 
-### 3. SCOTT BESSENT — Secretary of the Treasury
+### 3. SCOTT BESSENT, Secretary of the Treasury
 
 **Current Government Position:** Secretary of the Treasury. Formerly Chief Investment Officer of Soros Fund Management, where he managed approximately $25 billion.
 
-**Nature of Epstein Connection — The Cogito/Ergo/Sum Corporate Web:**
+**Nature of Epstein Connection, The Cogito/Ergo/Sum Corporate Web:**
 - While CIO of Soros Fund, Bessent was a **client of Ergo**, a private intelligence and advisory firm founded by **Ehud Barak**, former Prime Minister of Israel. A May 23, 2014 email from Ergo's managing partner Evan Pressman names Scott Bessent as a client.
 - Barak created a trio of corporate entities based on the Latin phrase "Cogito, ergo, sum":
-  - **Cogito (E.B.) 2015 Ltd** — 99.9% limited partner in Sum. Held nearly all the money but had no say in investment decisions.
-  - **Ergo (E.B. 2014) Ltd** — General partner of Sum. Held just 0.1% but controlled ALL investment decisions.
-  - **Sum (E.B.) 2015 LP** — The pooled investment vehicle.
+  - **Cogito (E.B.) 2015 Ltd**, 99.9% limited partner in Sum. Held nearly all the money but had no say in investment decisions.
+  - **Ergo (E.B. 2014) Ltd**, General partner of Sum. Held just 0.1% but controlled ALL investment decisions.
+  - **Sum (E.B.) 2015 LP**, The pooled investment vehicle.
 - **The Epstein link:** In January 2016, Epstein's **Southern Trust Company** (a USVI entity wholly owned by Epstein) became a **50% limited partner in Sum**. Ergo controlled how Sum's money was invested, meaning Epstein's money flowed into Sum and Ergo decided what happened to it.
-- The entire corporate structure was **designed by Darren K. Indyke** — Epstein's personal lawyer, the man who managed Epstein's legal and financial architecture for decades, and the **co-executor of Epstein's estate**.
+- The entire corporate structure was **designed by Darren K. Indyke**, Epstein's personal lawyer, the man who managed Epstein's legal and financial architecture for decades, and the **co-executor of Epstein's estate**.
 
 **Blocking of Financial Records:**
 - Senator **Ron Wyden** (D-OR) has accused Bessent of **withholding financial information** relating to Epstein from Congress, specifically Suspicious Activity Reports (SARs) filed by banks flagging Epstein's transactions.
@@ -98,14 +98,14 @@
 
 ---
 
-### 4. TODD BLANCHE — Deputy Attorney General / Acting Attorney General
+### 4. TODD BLANCHE, Deputy Attorney General / Acting Attorney General
 
 **Current Government Position:** Deputy Attorney General; has served as Acting Attorney General and effectively runs day-to-day DOJ operations. Previously served as Donald Trump's **personal criminal defense attorney** during his New York criminal cases.
 
 **Nature of Epstein Connection:**
 - Blanche's connection is not a direct personal tie to Epstein, but rather a **massive conflict of interest** in overseeing the Epstein files release and investigation as the nation's top law enforcement official:
   - He is Trump's **former personal attorney**, creating an inherent conflict in managing any investigation that could implicate Trump.
-  - He personally conducted a **"proffer" interview of Ghislaine Maxwell** in federal prison over two days (July 24-25, 2025), producing 329+ pages of transcript. This was unusual — experienced prosecutors who had worked the case for years were bypassed in favor of a high-ranking political appointee with a personal relationship with the president.
+  - He personally conducted a **"proffer" interview of Ghislaine Maxwell** in federal prison over two days (July 24-25, 2025), producing 329+ pages of transcript. This was unusual, experienced prosecutors who had worked the case for years were bypassed in favor of a high-ranking political appointee with a personal relationship with the president.
   - During the Maxwell interview, Blanche asked questions that critics say were **tailored to Trump's personal interest**, including questions about a book Maxwell compiled for Epstein's 50th birthday and about Maxwell/Epstein's relationships with Trump specifically. He asked about Bill Gates, Elon Musk, Alan Dershowitz, and RFK Jr., among others.
   - During his confirmation hearing, Blanche **declined to say** whether he would recuse himself from DOJ efforts re-examining the prior work of prosecutors on cases in which he represented Trump.
 
@@ -130,7 +130,7 @@
 
 ---
 
-### 5. HOWARD LUTNICK — Secretary of Commerce
+### 5. HOWARD LUTNICK, Secretary of Commerce
 
 **Current Government Position:** Secretary of Commerce, confirmed February 18, 2025 by a 51-45 Senate vote. Formerly CEO of Cantor Fitzgerald and BGC Financial.
 
@@ -142,7 +142,7 @@
 - **Glen/Glenn Dubin**, a hedge fund manager and close Epstein associate, appears on the **same Prominent Names page** with a direct victim allegation of sexual abuse facilitated by Ghislaine Maxwell.
 
 **Epstein Island Visit:**
-- Lutnick admitted under oath in February 2026 testimony that he, his wife, their **four young children**, and nannies **visited Epstein's private island, Little St. James, in December 2012** — four years after Epstein's sex offense conviction. He stated: "We had lunch on the island, that is true, for an hour."
+- Lutnick admitted under oath in February 2026 testimony that he, his wife, their **four young children**, and nannies **visited Epstein's private island, Little St. James, in December 2012**, four years after Epstein's sex offense conviction. He stated: "We had lunch on the island, that is true, for an hour."
 - A **photo of Lutnick with Epstein and three other men on Epstein's island** was released as part of the DOJ files on January 31, 2026. The photo was subsequently **removed from the DOJ website**, then **restored on February 27, 2026** after CBS News and others reported the removal. The DOJ claimed it was taken down as part of a "batch of files flagged for nudity," though the photo contained no nudity.
 
 **Ongoing Financial Ties:**
@@ -150,7 +150,7 @@
 - In **November 2017**, Epstein directed Richard Kahn to send **$50,000 to the UJA Wall Street Dinner honoring Lutnick**.
 - Lutnick's name appears in **over 250 pages** of Epstein documents.
 
-**Lutnick with Josh Harris — April 19, 2026:**
+**Lutnick with Josh Harris, April 19, 2026:**
 - Lutnick was photographed sitting **courtside with Josh Harris**, owner of the Philadelphia 76ers, at a Sixers/Celtics game at TD Garden in Boston on April 19, 2026.
 - Harris's Epstein connections: The files revealed Harris maintained email and phone contact with Epstein **between 2013 and 2016**, and attended a **2014 breakfast meeting at Epstein's Manhattan home** that included Bill Gates and other investors. Harris is co-founder of **Apollo Global Management**, whose former CEO **Leon Black** paid Epstein $158 million in fees.
 
@@ -172,11 +172,11 @@
 
 ---
 
-## STACY PLASKETT — Delegate, U.S. Virgin Islands (Democrat)
+## STACY PLASKETT, Delegate, U.S. Virgin Islands (Democrat)
 
 **Position:** Non-voting Delegate representing the U.S. Virgin Islands in the House of Representatives. Member of the House Intelligence Committee (as of late 2025).
 
-**The Michael Cohen Hearing — February 27, 2019:**
+**The Michael Cohen Hearing, February 27, 2019:**
 - During the consequential House Oversight Committee hearing where Michael Cohen testified against President Trump, **Epstein was texting with Plaskett in real time** while she sat on the committee.
 - Epstein highlighted Cohen's mention of former Trump aide **Rhona Graff**, texting that she was the **"RONA - keeper of the secrets."** He wrote: "He opened the door to questions re who are the other henchmen at trump org."
 - Minutes later, the text recipient wrote: **"Quick I'm up next."**
@@ -191,9 +191,9 @@
 **Plaskett's Defense:**
 - She stated she was trained as a narcotics prosecutor and "learned to receive information from sources I do not like to obtain information that helps me get to the truth."
 
-**House Censure Vote — November 18, 2025:**
+**House Censure Vote, November 18, 2025:**
 - Republicans introduced a motion to censure Plaskett and remove her from the House Intelligence Committee over the Epstein texting.
-- The censure vote **failed 209-214**. Three Republicans — Reps. Don Bacon (R-NE), Lance Gooden (R-TX), and David Joyce (R-OH) — joined Democrats in voting against it.
+- The censure vote **failed 209-214**. Three Republicans, Reps. Don Bacon (R-NE), Lance Gooden (R-TX), and David Joyce (R-OH), joined Democrats in voting against it.
 
 **Key Sources:**
 - [ABC News - House votes against censuring Plaskett](https://abcnews.com/US/house-votes-censuring-plaskett-epstein-texts/story?id=127670527)
@@ -208,7 +208,7 @@
 
 ---
 
-### JOHN PHELAN — Secretary of the Navy
+### JOHN PHELAN, Secretary of the Navy
 
 - Named on a **March 3, 2006 flight manifest** for Epstein's private Boeing 727 ("Lolita Express"), traveling from London to New York.
 - The manifest lists Phelan alongside 12 other passengers, including Epstein and apparently **Jean-Luc Brunel**.
@@ -220,7 +220,7 @@
 
 ---
 
-### TOM BARRACK — U.S. Ambassador to Turkey & Special Envoy to Syria
+### TOM BARRACK, U.S. Ambassador to Turkey & Special Envoy to Syria
 
 - Barrack's name appears **544 times** in the Epstein files.
 - CBS News analysis of over **100 texts and email exchanges** shows Barrack was in regular, close contact with Epstein for years **after Epstein's 2008 conviction**.
@@ -232,7 +232,7 @@
 
 ---
 
-### KEVIN WARSH — Nominee for Chair of the Federal Reserve
+### KEVIN WARSH, Nominee for Chair of the Federal Reserve
 
 - Warsh's name appeared in Epstein files connected to email exchanges suggesting he and his wife, **Jane Lauder** (Estee Lauder heiress), were invited to Epstein-organized events.
 - One event was on **St. Barthelemy** in December 2010; another was in New York in September 2010. A guest list for one dinner included Epstein, Warsh, Lauder, Trump, Melania, and Trump's children.
@@ -246,7 +246,7 @@
 
 ---
 
-### ELON MUSK — Former Head of DOGE (Department of Government Efficiency)
+### ELON MUSK, Former Head of DOGE (Department of Government Efficiency)
 
 - **16 emails** between Musk and Epstein from 2012-2013 released in the January 30, 2026 DOJ dump.
 - Epstein invited Musk to visit his private island on **multiple occasions**. The correspondence showed Musk did not visit the island.
@@ -261,16 +261,16 @@
 
 | Official | Position | Connection Type | Severity |
 |---|---|---|---|
-| **Paolo Zampolli** | Special Envoy, Global Partnerships | Business partner; admitted knowing about "young girls"; partner flew Lolita Express | HIGH — admitted knowledge of minors on camera |
-| **Stephen Feinberg** | Deputy Secretary of Defense | Named in 20 docs; Cerberus in 360 docs; whistleblower alleges fraud/money laundering | HIGH — financial entanglement, ongoing Cerberus ties |
-| **Scott Bessent** | Secretary of the Treasury | Client of Epstein-linked Ergo firm; blocking $1.5B in SARs from Congress | HIGH — controlling access to Epstein financial records while connected to Epstein corporate web |
-| **Todd Blanche** | Deputy AG / Acting AG | Trump's former personal lawyer overseeing Epstein file release; Maxwell interview; accused of lying under oath by 18 survivors | HIGH — structural conflict of interest over entire DOJ Epstein response |
-| **Howard Lutnick** | Secretary of Commerce | FBI money laundering allegations; visited Epstein island 2012; photo with Epstein removed/restored from DOJ; ongoing relationship post-conviction | HIGH — FBI file, island visit, resignation demands from watchdogs and Congress |
-| **John Phelan** | Secretary of the Navy | On 2006 Lolita Express flight manifest (London to NYC) | MODERATE — single flight, pre-indictment |
-| **Tom Barrack** | Ambassador to Turkey | 544 mentions in files; 100+ texts/emails; contact 2009-2017 post-conviction | HIGH — extensive post-conviction relationship |
-| **Kevin Warsh** | Fed Chair nominee | Named in event invitations; denies attending | LOW-MODERATE — denies connection, under investigation by Senate Banking |
-| **Elon Musk** | Former DOGE head | 16 emails 2012-2013; invited to island, did not go | LOW-MODERATE — declined island invitation |
-| **Stacey Plaskett** (D) | Delegate, USVI | Real-time texting with Epstein during Cohen hearing; $8,100 in donations; fed questions by Epstein | HIGH — active coordination with Epstein during congressional proceedings |
+| **Paolo Zampolli** | Special Envoy, Global Partnerships | Business partner; admitted knowing about "young girls"; partner flew Lolita Express | HIGH, admitted knowledge of minors on camera |
+| **Stephen Feinberg** | Deputy Secretary of Defense | Named in 20 docs; Cerberus in 360 docs; whistleblower alleges fraud/money laundering | HIGH, financial entanglement, ongoing Cerberus ties |
+| **Scott Bessent** | Secretary of the Treasury | Client of Epstein-linked Ergo firm; blocking $1.5B in SARs from Congress | HIGH, controlling access to Epstein financial records while connected to Epstein corporate web |
+| **Todd Blanche** | Deputy AG / Acting AG | Trump's former personal lawyer overseeing Epstein file release; Maxwell interview; accused of lying under oath by 18 survivors | HIGH, structural conflict of interest over entire DOJ Epstein response |
+| **Howard Lutnick** | Secretary of Commerce | FBI money laundering allegations; visited Epstein island 2012; photo with Epstein removed/restored from DOJ; ongoing relationship post-conviction | HIGH, FBI file, island visit, resignation demands from watchdogs and Congress |
+| **John Phelan** | Secretary of the Navy | On 2006 Lolita Express flight manifest (London to NYC) | MODERATE, single flight, pre-indictment |
+| **Tom Barrack** | Ambassador to Turkey | 544 mentions in files; 100+ texts/emails; contact 2009-2017 post-conviction | HIGH, extensive post-conviction relationship |
+| **Kevin Warsh** | Fed Chair nominee | Named in event invitations; denies attending | LOW-MODERATE, denies connection, under investigation by Senate Banking |
+| **Elon Musk** | Former DOGE head | 16 emails 2012-2013; invited to island, did not go | LOW-MODERATE, declined island invitation |
+| **Stacey Plaskett** (D) | Delegate, USVI | Real-time texting with Epstein during Cohen hearing; $8,100 in donations; fed questions by Epstein | HIGH, active coordination with Epstein during congressional proceedings |
 
 ---
 

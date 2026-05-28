@@ -1,4 +1,4 @@
-# Full Document Sweep Results — 834,961 Documents
+# Full Document Sweep Results, 834,961 Documents
 
 Completed: 2026-05-25
 Processing: 64 parallel workers on 112-core pve1 (376GB RAM)
@@ -26,8 +26,8 @@ Runtime: ~40 minutes
 | 136,964 | Lesley Groff | Executive assistant |
 | 77,990 | Richard Kahn | Financial manager, trustee |
 | 23,846 | Karyna Shuliak | Girlfriend, primary beneficiary |
-| 22,636 | Stewart Oldfield | UNKNOWN — needs research |
-| 22,359 | Paul Morris | UNKNOWN — needs research |
+| 22,636 | Stewart Oldfield | UNKNOWN, needs research |
+| 22,359 | Paul Morris | UNKNOWN, needs research |
 | 20,553 | Natalia Molotkova | AmEx Centurion manager |
 | 18,727 | Larry Visoski | Chief pilot |
 | 17,989 | **Boris Nikolic** | Bill Gates' science adviser, named executor |
@@ -90,7 +90,7 @@ Runtime: ~40 minutes
 
 ---
 
-## Boris Nikolic (17,989 mentions) — NEW
+## Boris Nikolic (17,989 mentions), NEW
 
 - Bill Gates' chief science/technology adviser
 - Named as **alternate executor of Epstein's will** (2 days before death)

@@ -9,7 +9,7 @@
 The Humpty Dumpty Institute (HDI) is a nonprofit that maintained a Congressional Advisory Board of 29+ sitting members of Congress while being:
 - Directed and funded by **Mark Epstein** (Jeffrey's brother)
 - Financed with **$100,000+** from Jeffrey Epstein (2014 tax filing)
-- Partnered since 2017 with **Taihe Institute** (Beijing) — employing **12+ current/former CCP and PLA members** as fellows
+- Partnered since 2017 with **Taihe Institute** (Beijing), employing **12+ current/former CCP and PLA members** as fellows
 - Flagged by a US military intelligence insider (the "Melvyn letter") as containing actual intelligence operatives
 
 ## The Melvyn Letter Warning (EFTA00037222)
@@ -22,7 +22,7 @@ From a person claiming US military intel background, writing to Mark Epstein:
 
 > "On that bipartisan list we find **Hank Johnson**, who calls Jews termites"
 
-## Congressional Advisory Board (2018 — 29 members)
+## Congressional Advisory Board (2018, 29 members)
 
 ### Intelligence/Security Committee Members
 | Member | State | Committee | Significance |
@@ -119,9 +119,9 @@ EPSTEIN (intelligence operation center)
 
 3. A **US military intelligence insider** warned that the charity contained actual intelligence operatives and specifically asked about Chinese connections
 
-4. The charity was funded and directed by the **Epstein family** — the same family whose other member ran a sexual blackmail operation for Israeli intelligence
+4. The charity was funded and directed by the **Epstein family**, the same family whose other member ran a sexual blackmail operation for Israeli intelligence
 
-5. Congressional members said they "weren't even aware" they were on the advisory board — Rep. Harris (R-MD) said he had "no interaction with the Institute"
+5. Congressional members said they "weren't even aware" they were on the advisory board, Rep. Harris (R-MD) said he had "no interaction with the Institute"
 
 ---
 

@@ -11,14 +11,14 @@
 | Date | Event | Anomaly |
 |------|-------|---------|
 | Jul 8-9, 2019 | Psychology evaluations | Notes exist in evidence |
-| Jul 23, 2019 | **First "attempt"** — found with marks on neck | "Photograph of Homemade Rope" seized |
+| Jul 23, 2019 | **First "attempt"**, found with marks on neck | "Photograph of Homemade Rope" seized |
 | Jul 24, 2019 | **Suicide watch REMOVED after ONE DAY** | BOP Psychology report cleared him at 09:23 |
 | Late Jul 2019 | Cellmate (Tartaglione) removed | Former cop charged with quadruple murder |
 | Aug 9, 2019 | **Dr. Imeri emails: Epstein "needs a cellmate"** | Cellmate NOT assigned despite doctor's request |
-| Aug 9, 10:39 PM | **"Flash of orange"** — unidentified figure on stairway | FBI: "possibly inmate"; OIG: "possibly officer with linen" |
+| Aug 9, 10:39 PM | **"Flash of orange"**, unidentified figure on stairway | FBI: "possibly inmate"; OIG: "possibly officer with linen" |
 | Aug 9, 10:41 PM | Figure exits camera view | 2-minute presence on Epstein's tier |
 | Aug 9, 11:58:58 PM | Video segment 1 ends | **62-second gap begins** |
-| Aug 10, 12:00:00 AM | Video segment 2 begins | Gap ends — what happened in 62 seconds? |
+| Aug 10, 12:00:00 AM | Video segment 2 begins | Gap ends, what happened in 62 seconds? |
 | Aug 9-10, overnight | Guards Noel + Thomas **sleep and browse internet** | Failed to perform 3 AM and 5 AM rounds |
 | Aug 10, ~6:30 AM | **Epstein "discovered unresponsive"** | Found by guards during morning rounds |
 | Aug 10 | 10 of 11 SHU cameras "malfunctioning" | Only 1 camera working that night |
@@ -70,7 +70,7 @@ From autopsy (referenced in EFTA02730486):
 
 From evidence log: "Metropolitan Correctional Center Staff Rosters for **July 23 - August 8**, 2019"
 
-The staff roster evidence covers up to **August 8** — but NOT August 9-10 (the night of death). Who was working that night is documented separately in individual assignment logs but the comprehensive roster stops the day before.
+The staff roster evidence covers up to **August 8**, but NOT August 9-10 (the night of death). Who was working that night is documented separately in individual assignment logs but the comprehensive roster stops the day before.
 
 ---
 
@@ -86,7 +86,7 @@ The staff roster evidence covers up to **August 8** — but NOT August 9-10 (the
 
 **DOJ OIG finding**: "had guards done their checks they would've found Epstein had excess linens which he used in his suicide"
 
-But Dr. Imeri's email requesting a cellmate — which was IGNORED — could have prevented the death regardless of guard checks.
+But Dr. Imeri's email requesting a cellmate, which was IGNORED, could have prevented the death regardless of guard checks.
 
 ---
 
@@ -97,14 +97,14 @@ From deredacted evidence log:
 
 One of the guards who was charged with falsifying records had **suspicious banking activity** flagged by JPMorgan Chase. SARs are filed when banks detect potential money laundering, structuring, or other financial crime. This raises the question: was Noel paid to look the other way?
 
-Both guards received **deferred prosecution agreements** — no jail time.
+Both guards received **deferred prosecution agreements**, no jail time.
 
 ---
 
 ## The "Orange Figure"
 
 From public record (NBC News, Feb 2026):
-- 10:39 PM on August 9 — camera captured "an orange-colored figure moving up the stairway toward Epstein's locked housing tier"
+- 10:39 PM on August 9, camera captured "an orange-colored figure moving up the stairway toward Epstein's locked housing tier"
 - FBI memo: "possibly an inmate"
 - OIG: "may have been a corrections officer carrying orange linen or bedding"
 - Figure reappears at 10:41 PM
@@ -126,7 +126,7 @@ This person has never been identified. The FBI could not determine who it was fr
 8. 62-second gap at midnight
 9. Staff roster evidence stops the day before death
 10. Epstein had intelligence connections (Israel, Russia) with motivation to protect assets
-11. The operation he ran was worth protecting — billions in leverage over world leaders
+11. The operation he ran was worth protecting, billions in leverage over world leaders
 
 ### Evidence AGAINST exfiltration:
 1. Official investigations (FBI, OIG, BOP) all found suicide
@@ -140,8 +140,8 @@ This person has never been identified. The FBI could not determine who it was fr
 - The FBI HAD all the video (12+ hard drives, LTO tapes, full DVR systems)
 - The download of the critical August 9 footage "FAILED" and they got "the wrong camera"
 - The master copy was later DESTROYED
-- We deredacted 22+ MCC witness names — many were interviewed but their testimony remains classified
-- Dr. Imeri's cellmate email was ignored — the one intervention that could have prevented death
+- We deredacted 22+ MCC witness names, many were interviewed but their testimony remains classified
+- Dr. Imeri's cellmate email was ignored, the one intervention that could have prevented death
 - Tova Noel's suspicious banking was flagged but never publicly explained
 
 ---
@@ -182,7 +182,7 @@ All of this evidence exists. Most of it has never been publicly released. The on
 
 ## NEW: TRU-SCOPE Electronic System (from SHU Post Orders, page 17376)
 
-The SHU Post Orders explicitly require ALL observations documented in the **TRUSCOPE electronic program** — not just paper sheets:
+The SHU Post Orders explicitly require ALL observations documented in the **TRUSCOPE electronic program**, not just paper sheets:
 
 > "Begin making 30 minute rounds ensuring you **document the findings in the TRUSCOPE program**"
 > "you are required to indicate the key ring number and type of equipment accounted for in the **TRUSCOPE program**"
@@ -191,7 +191,7 @@ The SHU Post Orders explicitly require ALL observations documented in the **TRUS
 
 ### What This Means
 - TRU-SCOPE is an electronic program generating timestamped entries
-- Officers must CALL the Control Center (#333) every 30 minutes — those calls are logged
+- Officers must CALL the Control Center (#333) every 30 minutes, those calls are logged
 - Key ring numbers and equipment must be logged electronically
 - If no calls came from SHU between 10:30 PM and 6:30 AM, the Control Center KNEW and did nothing
 
@@ -214,7 +214,7 @@ The SHU Post Orders explicitly require ALL observations documented in the **TRUS
 
 OIG investigated the camera system timeline:
 - New camera system scheduled and started **March 17, 2019**
-- But a SECOND camera system was installed **"the week of August 16, 2019"** — 6 days AFTER Epstein's death
+- But a SECOND camera system was installed **"the week of August 16, 2019"**, 6 days AFTER Epstein's death
 - OIG asked: "was the camera system **ever scheduled to be installed prior to August 10, 2019?**"
 - This suggests the OIG suspected the camera upgrade was **deliberately delayed** until after the death
 
@@ -223,7 +223,7 @@ OIG investigated the camera system timeline:
 ## NEW: "Existence of a Handheld Video" (page 17363)
 
 The OIG's own summary of allegations lists:
-> "Existence of a handheld video" — **"Not specifically addressed"**
+> "Existence of a handheld video", **"Not specifically addressed"**
 
 Someone alleged a handheld video from that night exists. The OIG acknowledged the allegation but did NOT investigate or address it.
 
@@ -242,7 +242,7 @@ One inmate was unaccounted for between midnight and 3 AM. Thomas "did not know w
 
 ### SHU Access Points (from OIG report)
 1. **Primary entrance**: Exterior door (Control Center buzz-in) + Interior door (officer key)
-2. **Secondary entrance**: Adjacent to **elevator bay** — also Control Center buzz-in + officer key
+2. **Secondary entrance**: Adjacent to **elevator bay**, also Control Center buzz-in + officer key
 3. **L-Tier door**: Officer key only (where Epstein was housed)
 4. **Individual cell doors**: Officer key only
 
@@ -268,7 +268,7 @@ Per OIG: "the OIG did not observe on the available recorded video any correction
 
 BUT: 
 - 10 of 11 cameras "malfunctioning"
-- Video was "low quality" — OIG "not always able to conclusively identify individuals"
+- Video was "low quality", OIG "not always able to conclusively identify individuals"
 - OIG "not always able to determine specific destinations"
 - Control Center door buzz-in records never released
 - TRU-SCOPE electronic logs never released
@@ -278,7 +278,7 @@ BUT:
 
 ---
 
-*Whether Epstein died by suicide, murder, or exfiltration — the evidence shows that every system designed to keep him alive was deliberately disabled, the critical footage was "failed," "wrong camera'd," then destroyed, and the guard watching him had suspicious banking activity. The electronic door logs, TRU-SCOPE records, and watch call phone records exist but have never been released. The one count discrepancy (73 vs 72 inmates) has never been explained. A new camera system was installed the week after the death. And the OIG acknowledged but did not address the allegation of a handheld video.*
+*Whether Epstein died by suicide, murder, or exfiltration, the evidence shows that every system designed to keep him alive was deliberately disabled, the critical footage was "failed," "wrong camera'd," then destroyed, and the guard watching him had suspicious banking activity. The electronic door logs, TRU-SCOPE records, and watch call phone records exist but have never been released. The one count discrepancy (73 vs 72 inmates) has never been explained. A new camera system was installed the week after the death. And the OIG acknowledged but did not address the allegation of a handheld video.*
 
 *The truth is in the evidence the FBI is sitting on.*
 
@@ -308,22 +308,22 @@ Someone with initials "BR" was polygraphed about physical contact with Epstein i
 
 ### Observation (from publicly available gurney/transport imagery)
 
-The clinical nurse report at 6:33 AM documented: body "Cold," "posterior mottling" (lividity), pupils fixed and dilated. This places death at approximately 4:00 AM or earlier — meaning the body had been dead for a minimum of 2.5-4.5 hours by the time it was transported.
+The clinical nurse report at 6:33 AM documented: body "Cold," "posterior mottling" (lividity), pupils fixed and dilated. This places death at approximately 4:00 AM or earlier, meaning the body had been dead for a minimum of 2.5-4.5 hours by the time it was transported.
 
 ### Expected forensic presentation (4+ hours post-mortem):
-- **Jaw:** Should be open/dropped. After death, the masseter muscle loses tone immediately. Gravity pulls the mandible down. Once rigor mortis begins (typically 2-6 hours), the jaw fixes in whatever position it's in — usually open or partially open unless physically repositioned
+- **Jaw:** Should be open/dropped. After death, the masseter muscle loses tone immediately. Gravity pulls the mandible down. Once rigor mortis begins (typically 2-6 hours), the jaw fixes in whatever position it's in, usually open or partially open unless physically repositioned
 - **Eyes:** Corneal drying begins within 30-60 minutes of death. By 2-3 hours, visible clouding/opacity is apparent. By 4+ hours, clear moisture should be absent from exposed corneal surfaces
 - **Skin:** Pallor, waxy texture, no flush
 
 ### Reported presentation in transport photos:
-- Mouth appears **closed** — inconsistent with hours of gravitational jaw drop and/or early rigor
-- Eyes appear to show **residual moisture** — inconsistent with 4+ hours of post-mortem desiccation
+- Mouth appears **closed**, inconsistent with hours of gravitational jaw drop and/or early rigor
+- Eyes appear to show **residual moisture**, inconsistent with 4+ hours of post-mortem desiccation
 
 ### Possible Explanations:
-1. **Body was physically manipulated before transport** — jaw held closed by strap, towel, or manual positioning. Standard mortuary practice but should be documented in chain of custody
-2. **Death was more recent than clinical signs suggest** — but this contradicts the lividity (posterior mottling cannot be faked and requires minimum 1-2 hours)
-3. **Clinical signs were misreported** — unlikely given multiple observations (cold + mottling + fixed pupils + no AED response = consistent death hours prior)
-4. **The body transported was not in the same post-mortem state as the body examined at 6:33 AM** — implication: body switch or significant time gap between examination and transport during which conditions changed
+1. **Body was physically manipulated before transport**, jaw held closed by strap, towel, or manual positioning. Standard mortuary practice but should be documented in chain of custody
+2. **Death was more recent than clinical signs suggest**, but this contradicts the lividity (posterior mottling cannot be faked and requires minimum 1-2 hours)
+3. **Clinical signs were misreported**, unlikely given multiple observations (cold + mottling + fixed pupils + no AED response = consistent death hours prior)
+4. **The body transported was not in the same post-mortem state as the body examined at 6:33 AM**, implication: body switch or significant time gap between examination and transport during which conditions changed
 
 ### Forensic Note:
 This observation does not prove or disprove any specific theory. It documents an inconsistency between the documented time of death (pre-4:00 AM based on clinical evidence) and the apparent physical state of the body during transport (photos showing moisture and closed jaw inconsistent with 4+ hours post-mortem). This inconsistency has not been addressed in any official report.

@@ -20,7 +20,7 @@ Per Richard Kahn testimony: $490M in fees + $310M from investment returns
 | **Peter Thiel** | **$170M (investment return)** | 2015-present | $40M invested in Valar Ventures → now $170M |
 | **Kathy Ruemmler** | **Recipient** | 2014-2019 | Received luxury gifts, travel. Epstein paid for Rothschild legal work |
 
-## BROKERED DEALS — INTERNATIONAL
+## BROKERED DEALS, INTERNATIONAL
 
 ### Mongolia (2013-2016)
 | Detail | Info |
@@ -84,20 +84,20 @@ Per Richard Kahn testimony: $490M in fees + $310M from investment returns
 | **Players:** | Epstein, Ariane de Rothschild, Boris Collardi (Julius Baer CEO) |
 | **Banks:** | Julius Baer (~400B CHF AUM) + Edmond de Rothschild (~170B CHF AUM) |
 | **Fee:** | **$25 million** to Epstein via Southern Trust Company |
-| **Simultaneous:** | DOJ "Swiss Bank Program" settlement — bank paid $45.2M penalty |
+| **Simultaneous:** | DOJ "Swiss Bank Program" settlement, bank paid $45.2M penalty |
 | **DEA investigation:** | DEA opened probe in 2015 into Epstein + 12 others for money laundering, drug trafficking, procurement of Eastern European prostitutes. Investigation killed during Trump admin |
 | **Source:** | ZeroHedge, Bloomberg, Senate Finance Committee (Wyden) |
 
 ### World Economic Forum / Davos (2008-2019)
 | Detail | Info |
 |--------|------|
-| **What:** | Self-described "Davos concierge" — brokered elite meetings at WEF |
+| **What:** | Self-described "Davos concierge", brokered elite meetings at WEF |
 | **Brokered:** | Sultan Sulayem ↔ Peter Mandelson (2008). Jes Staley ↔ Mandelson + Alistair Darling (2010). |
 | **Notable:** | Asked Larry Summers to recommend a "young woman" as WEF Global Leader of Tomorrow |
 | **Fallout:** | WEF head Børge Brende RESIGNED Feb 26, 2026 after Epstein links revealed |
 | **Source:** | Bloomberg, SWI, Al Jazeera, Fox News, Euronews |
 
-## BROKERED DEALS — DOMESTIC (US)
+## BROKERED DEALS, DOMESTIC (US)
 
 ### Leon Black / Apollo
 - Brokered $1B+ tax avoidance strategy

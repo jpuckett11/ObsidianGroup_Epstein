@@ -1,4 +1,4 @@
-# Flight and Travel Cross-Reference — All Key Persons
+# Flight and Travel Cross-Reference, All Key Persons
 
 ## Compiled from: Epstein flight logs (3,615 flights), CBP records, DOJ documents, Handala leaked emails, congressional testimony, media reporting
 
@@ -8,24 +8,24 @@
 
 | Person | Flights | Key Routes | Island Access (TIST) |
 |--------|---------|-----------|---------------------|
-| Ghislaine Maxwell | 520 | All properties, international | YES — extensive |
-| Sarah Kellen | 312 | All properties | YES — extensive |
-| Larry Visoski (pilot) | 158 | All routes | YES — pilot |
-| Nadia Marcinkova | 148 | PBI, TEB, TIST, SAF | YES — St Thomas confirmed |
+| Ghislaine Maxwell | 520 | All properties, international | YES, extensive |
+| Sarah Kellen | 312 | All properties | YES, extensive |
+| Larry Visoski (pilot) | 158 | All routes | YES, pilot |
+| Nadia Marcinkova | 148 | PBI, TEB, TIST, SAF | YES, St Thomas confirmed |
 | Eva Dubin | 54 | PBI ↔ TEB primarily | Unknown |
-| Jean-Luc Brunel | 30 | Paris, TIST, Bahamas | YES — from St Thomas |
+| Jean-Luc Brunel | 30 | Paris, TIST, Bahamas | YES, from St Thomas |
 | Bill Clinton | 25 | NYC→London, Japan→HK→Shenzhen, Africa tour | Not confirmed in logs |
 | Glenn Dubin | 22 | PBI ↔ TEB | Unknown |
 | Chris Tucker | 15 | Africa tour with Clinton | Not confirmed |
 | Alan Dershowitz | 12 | TEB, DCA, CMH, BOS | Not confirmed in available entries |
 | Kevin Spacey | 11 | Africa tour: NYC→Ghana→Nigeria→Rwanda→Mozambique | Not confirmed |
-| "Burns" | 9 | **TIST→TEB (Dec 2003), TIST→JFK (Jan 2005)** | **YES — departed from TIST twice** |
-| "Black" | 7 | **TIST→PBI (Feb 1998)** | **YES — departed from TIST** |
-| Prince Andrew | 6 | **TIST→PBI (Oct 2004)** | **YES — departed from TIST** |
-| Larry Summers | 5 | **BED→TIST (Dec 2005)** | **YES — flew TO TIST** |
+| "Burns" | 9 | **TIST→TEB (Dec 2003), TIST→JFK (Jan 2005)** | **YES, departed from TIST twice** |
+| "Black" | 7 | **TIST→PBI (Feb 1998)** | **YES, departed from TIST** |
+| Prince Andrew | 6 | **TIST→PBI (Oct 2004)** | **YES, departed from TIST** |
+| Larry Summers | 5 | **BED→TIST (Dec 2005)** | **YES, flew TO TIST** |
 | George Mitchell | 2 | PBI→TEB (Apr 1998) | Not confirmed |
 
-## EHUD BARAK — EXTENSIVE DOCUMENTED TRAVEL (2013-2017)
+## EHUD BARAK, EXTENSIVE DOCUMENTED TRAVEL (2013-2017)
 
 | Evidence Type | Detail |
 |--------------|--------|
@@ -37,7 +37,7 @@
 | **International** | Mongolia (2013 state meeting), Nigeria (cybersecurity conference) |
 | **Hawaii** | Scheduling shows Hawaii trip coordination |
 
-## PETER THIEL — DOCUMENTED MEETINGS (2014-2016)
+## PETER THIEL, DOCUMENTED MEETINGS (2014-2016)
 
 | Date | Event | Source |
 |------|-------|--------|
@@ -51,7 +51,7 @@
 | 2018 | Founders Fund $15M into Carbyne | Public record |
 | Jan 2024 | Thiel + Karp meet Israeli defense officials in Tel Aviv → Palantir strategic partnership | Public record |
 
-## MBS / SAUDI ARABIA — TIMELINE OVERLAP
+## MBS / SAUDI ARABIA, TIMELINE OVERLAP
 
 | Date | MBS Activity | Epstein Activity |
 |------|-------------|-----------------|
@@ -62,7 +62,7 @@
 | Photo with MBS displayed in Epstein mansion | |
 | Austrian passport (1982) with Saudi residence | |
 
-## THORBJØRN JAGLAND — DOCUMENTED TRAVEL
+## THORBJØRN JAGLAND, DOCUMENTED TRAVEL
 
 | Date | Event | Source |
 |------|-------|--------|
@@ -141,12 +141,12 @@
 
 ## WHAT WE DON'T HAVE (yet)
 
-1. **Complete boat logs** — island transfer records only partially released
-2. **Commercial flight records** — many visitors flew commercially to STT
-3. **Helicopter transfer logs** — N120JE (Epstein helicopter) logs not fully public
-4. **Private charter records** — visitors using own aircraft or commercial charters
-5. **Post-2006 flight data** — handwritten manifests end 2006; ADS-B data has routes but not passenger names
-6. **Diplomatic pouch/immunity travel** — state actors may have traveled under diplomatic cover
+1. **Complete boat logs**, island transfer records only partially released
+2. **Commercial flight records**, many visitors flew commercially to STT
+3. **Helicopter transfer logs**, N120JE (Epstein helicopter) logs not fully public
+4. **Private charter records**, visitors using own aircraft or commercial charters
+5. **Post-2006 flight data**, handwritten manifests end 2006; ADS-B data has routes but not passenger names
+6. **Diplomatic pouch/immunity travel**, state actors may have traveled under diplomatic cover
 
 ---
 

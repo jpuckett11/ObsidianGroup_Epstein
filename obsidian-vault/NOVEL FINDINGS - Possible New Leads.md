@@ -24,13 +24,13 @@ Becomes:
 
 **Status: In DOJ production but not widely reported in this detail**
 
-SDNY_00008861 — The clinical nurse's own emergency report states at 6:33 AM:
+SDNY_00008861, The clinical nurse's own emergency report states at 6:33 AM:
 - Body was **"Cold"**
 - **"Posterior mottling"** (lividity) visible
 - **"Pupils Fixed and dilated"**
-- AED: **"No shock advised"** — confirmed asystole
+- AED: **"No shock advised"**, confirmed asystole
 
-Posterior mottling requires minimum 1-2 hours to develop visibly. Combined with a cold body, this places death **before 4:00 AM at the latest** — during the period when guards were allegedly sleeping 15 feet from the cell.
+Posterior mottling requires minimum 1-2 hours to develop visibly. Combined with a cold body, this places death **before 4:00 AM at the latest**, during the period when guards were allegedly sleeping 15 feet from the cell.
 
 ---
 
@@ -48,7 +48,7 @@ The government produced SOMETHING but the defense is questioning whether it's th
 
 ---
 
-## 4. Watch Call Phone Records — The Missing Proof
+## 4. Watch Call Phone Records, The Missing Proof
 
 **Status: Not previously highlighted**
 
@@ -56,7 +56,7 @@ SHU Post Orders (page 17376 of DataSet 8) require officers to call Control Cente
 
 The defense requested these "SHU Watch Call Logs" and the government responded: "We are **continuing to work to determine** whether the Government or the BOP is in possession of any information responsive to this request."
 
-Phone call records from a federal facility's internal system don't go missing. The evasion on this specific request — while readily producing everything else — is significant.
+Phone call records from a federal facility's internal system don't go missing. The evasion on this specific request, while readily producing everything else, is significant.
 
 ---
 
@@ -67,7 +67,7 @@ Phone call records from a federal facility's internal system don't go missing. T
 | Date | Event |
 |------|-------|
 | Aug 9, 1:50 PM | Staff memo: Reyes "possibly may not return," Epstein needs new cellmate |
-| Aug 9 | Reyes released from court — does not return to MCC |
+| Aug 9 | Reyes released from court, does not return to MCC |
 | Aug 10, 6:33 AM | Epstein found dead |
 | Aug 13 | FBI urgently requests Reyes proffer |
 | Aug 26 | Reyes plea hearing (**sealed**) |
@@ -90,11 +90,11 @@ Thomas told the OIG the midnight count slip listed **73 inmates** but the 3 AM c
 
 **Status: In OIG communications but not widely connected**
 
-Pages 17364-17365: OIG investigated that a new camera system was installed "the week of August 16, 2019" — 6 days AFTER Epstein's death. The OIG specifically asked whether it "was ever scheduled to be installed prior to August 10, 2019" — suggesting they suspected deliberate delay.
+Pages 17364-17365: OIG investigated that a new camera system was installed "the week of August 16, 2019", 6 days AFTER Epstein's death. The OIG specifically asked whether it "was ever scheduled to be installed prior to August 10, 2019", suggesting they suspected deliberate delay.
 
 ---
 
-## 8. "Handheld Video" — OIG Acknowledged but Didn't Address
+## 8. "Handheld Video", OIG Acknowledged but Didn't Address
 
 **Status: Not previously highlighted**
 
@@ -120,12 +120,12 @@ This is a third funding channel from Black to Epstein (separate from $158M "tax 
 Pages 13886-14082 contain an SEC whistleblower's research dossier that was submitted to and retained by the FBI as part of the Epstein investigation. Key connections not previously mapped together:
 
 - "Apollo Moscow/Kremlin development"
-- "Black/Apollo/Schwarzman: Putin/RU" — Black appeared alongside Putin
-- "Apollo/Epstein/Kushner connection" — email subject line
+- "Black/Apollo/Schwarzman: Putin/RU", Black appeared alongside Putin
+- "Apollo/Epstein/Kushner connection", email subject line
 - "ESWW was a money laundering shell. The SEC knows it. The degenerate Epstein knows it."
 - "Milken and his merry crew of flunkies... They own Trump and his White House and they own the SEC"
-- "PHUN is Trump/Kushner/Parscale campaign mobile App" — described as laundering shell
-- "AG Barr 1MDB waivers: Kirkland" — Barr issued waivers on Malaysian laundering scandal
+- "PHUN is Trump/Kushner/Parscale campaign mobile App", described as laundering shell
+- "AG Barr 1MDB waivers: Kirkland", Barr issued waivers on Malaysian laundering scandal
 
 ---
 
@@ -134,9 +134,9 @@ Pages 13886-14082 contain an SEC whistleblower's research dossier that was submi
 **Status: HDI/CCP connection reported; HDI/Epstein connection reported; the three-vector intelligence bridge (Israel + Russia + China through one charity with Intelligence Committee members) is our novel synthesis**
 
 The Humpty Dumpty Institute simultaneously served as:
-1. **Israeli intelligence vector** — funded by Epstein ($100K+), directed by Mark Epstein
-2. **Chinese intelligence vector** — partnered with Taihe Institute (12+ CCP/PLA members)
-3. **Congressional access vector** — 29 members including Intelligence Committee (Schiff, Himes, Carson)
+1. **Israeli intelligence vector**, funded by Epstein ($100K+), directed by Mark Epstein
+2. **Chinese intelligence vector**, partnered with Taihe Institute (12+ CCP/PLA members)
+3. **Congressional access vector**, 29 members including Intelligence Committee (Schiff, Himes, Carson)
 
 Plus Mark Meadows (Trump's White House Chief of Staff) on the same board.
 
@@ -146,7 +146,7 @@ A US military intelligence insider (the "Melvyn" letter, EFTA00037222) explicitl
 
 ## 12. Nili Priell Barak: Document-to-Person Confirmation
 
-**Status: Novel — we identified "Nili Priell" in document extraction BEFORE knowing who she was**
+**Status: Novel, we identified "Nili Priell" in document extraction BEFORE knowing who she was**
 
 Our automated name extraction from VOL00011 identified "Nili Priell" (5 mentions) as an unknown person. Public reporting later confirmed this is **Nili Priel, Ehud Barak's wife**, who coordinated apartment access with Epstein's staff. The independent identification from raw document extraction, later confirmed by public reporting, validates both our methodology and the documents' authenticity.
 
@@ -169,11 +169,11 @@ From scheduling emails (VOL00011), we mapped:
 
 **Status: Wire transfers to Russia mentioned in reporting; specific FEDWIRE records with beneficiary names, branch details, and routing are from our extraction**
 
-EFTA01273102 — Actual FEDWIRE debit advices from FirstBank Puerto Rico:
-- **Bolotov Baldan Badmaevich** — $10,000 to Sberbank Irkutsk (Buryat Branch 8601/107)
-- **[Partially redacted]** — $20,000 to Sberbank Moscow (Srednerussky Head Office)
-- Lithuania (Swedbank Vilnius) — $1,089
-- London (Lloyds Bank Chelsea) — $4,355
+EFTA01273102, Actual FEDWIRE debit advices from FirstBank Puerto Rico:
+- **Bolotov Baldan Badmaevich**, $10,000 to Sberbank Irkutsk (Buryat Branch 8601/107)
+- **[Partially redacted]**, $20,000 to Sberbank Moscow (Srednerussky Head Office)
+- Lithuania (Swedbank Vilnius), $1,089
+- London (Lloyds Bank Chelsea), $4,355
 
 The Buryatia connection matches scheduling docs showing travel "from Ulan-Ude" (capital of Buryatia) to Moscow to New York.
 
@@ -200,10 +200,10 @@ Howard Lutnick is the current US Secretary of Commerce (confirmed January 2025).
 
 **Status: Richardson's name was public; the full proffer transcript with polygraph details and victim allegation context is from our extraction**
 
-Page 27841 of COMBINED file — Full attorney proffer meeting (May 13, 2021):
+Page 27841 of COMBINED file, Full attorney proffer meeting (May 13, 2021):
 
 - Victim named Richardson in sealed deposition as person "GM directed her to have sex with"
-- Richardson took polygraph (March 2021) — results "not indicative of deception"
+- Richardson took polygraph (March 2021), results "not indicative of deception"
 - His lawyers requested confirmation he was "neither subject nor target"
 - "Catastrophic impact on reputation, finances, humanitarian efforts"
 - Bill Richardson died September 1, 2023 before full files released
@@ -212,7 +212,7 @@ Page 27841 of COMBINED file — Full attorney proffer meeting (May 13, 2021):
 
 **Status: Not previously reported in detail**
 
-Page 28697 — FBI investigating an Austrian passport found in Epstein's possession belonging to "Marius Fortelni" who previously resided in Saudi Arabia and currently lives in Southampton, NY. FBI was trying to determine if the passport was legitimate or a false identity document used by Epstein.
+Page 28697, FBI investigating an Austrian passport found in Epstein's possession belonging to "Marius Fortelni" who previously resided in Saudi Arabia and currently lives in Southampton, NY. FBI was trying to determine if the passport was legitimate or a false identity document used by Epstein.
 
 ---
 
@@ -220,7 +220,7 @@ Page 28697 — FBI investigating an Austrian passport found in Epstein's possess
 
 **Status: Amount was in civil proceedings; direct bank record citation is from our scan**
 
-Page 25153: "The $18,300,000 transfer to Maxwell is shown on bates number 36868" — from Financial Trust Company, October 1999. Single wire transfer of $18.3M to Maxwell.
+Page 25153: "The $18,300,000 transfer to Maxwell is shown on bates number 36868", from Financial Trust Company, October 1999. Single wire transfer of $18.3M to Maxwell.
 
 ## 19. $350,000 Witness Payments After Miami Herald Series
 

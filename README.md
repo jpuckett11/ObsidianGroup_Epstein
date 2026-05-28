@@ -1,4 +1,4 @@
-# The Obsidian Watch Group — Epstein Investigation
+# The Obsidian Watch Group, Epstein Investigation
 
 **688+ hours | 3,482,240 documents read line by line | 40 countries | Every email. Every page. Every name.**
 
@@ -40,27 +40,27 @@
 
 ## What This Investigation Found
 
-1. **"Belongs to intelligence"** — US Attorney Acosta was told to let Epstein go because he "belonged to intelligence" (EFTA00076059-60)
-2. **FBI knew since 1996** — FD-71 filed nine years before Palm Beach investigation (EFTA02730468, SECRET//NOFORN)
-3. **Hidden cameras for blackmail** — confirmed by DOJ OPR, court filings, and victim affidavits (EFTA00077309, EFTA01296860)
+1. **"Belongs to intelligence"**, US Attorney Acosta was told to let Epstein go because he "belonged to intelligence" (EFTA00076059-60)
+2. **FBI knew since 1996**, FD-71 filed nine years before Palm Beach investigation (EFTA02730468, SECRET//NOFORN)
+3. **Hidden cameras for blackmail**, confirmed by DOJ OPR, court filings, and victim affidavits (EFTA00077309, EFTA01296860)
 4. **MCC cameras not recording for 6 months** before death (EFTA00126232)
-5. **Victim diary names abusers** — Dershowitz, Krauss, Minsky, Staley, Leonsis, Snyder, Clinton, Weinstein (EFTA02731420-71)
-6. **Forced abortion by Israeli doctor** — documented in victim's own handwriting (EFTA02731361)
-7. **FBI CHS: "trained as a spy under Barak"** — Oct 2020 FBI document, Dershowitz as handler
-8. **Carbyne surveillance tech sold to Axon for $625M** — Epstein-funded 911 tech now inside US police
-9. **Epstein brokered Abraham Accords backchannel** — Barak ↔ Bin Sulayem meetings from 2012
-10. **DEA Operation Chain Reaction** — 5-year drug trafficking investigation actively blocked by DAG Blanche
-11. **BNY Mellon: $378M in suspicious transfers** — no legitimate business purpose identified for any
-12. **AIPAC spent $15M to defeat Massie** — the congressman who forced the file releases
-13. **Maxwell talking** — signed proffer, 2 days recorded, Jul 2025, Tallahassee
-14. **Kellen named 3 new abusers** — House Oversight testimony, May 21, 2026
-15. **FBI case still open** — evidence collected March 2025, "Pending Inactive"
+5. **Victim diary names abusers**, Dershowitz, Krauss, Minsky, Staley, Leonsis, Snyder, Clinton, Weinstein (EFTA02731420-71)
+6. **Forced abortion by Israeli doctor**, documented in victim's own handwriting (EFTA02731361)
+7. **FBI CHS: "trained as a spy under Barak"**, Oct 2020 FBI document, Dershowitz as handler
+8. **Carbyne surveillance tech sold to Axon for $625M**, Epstein-funded 911 tech now inside US police
+9. **Epstein brokered Abraham Accords backchannel**, Barak ↔ Bin Sulayem meetings from 2012
+10. **DEA Operation Chain Reaction**, 5-year drug trafficking investigation actively blocked by DAG Blanche
+11. **BNY Mellon: $378M in suspicious transfers**, no legitimate business purpose identified for any
+12. **AIPAC spent $15M to defeat Massie**, the congressman who forced the file releases
+13. **Maxwell talking**, signed proffer, 2 days recorded, Jul 2025, Tallahassee
+14. **Kellen named 3 new abusers**, House Oversight testimony, May 21, 2026
+15. **FBI case still open**, evidence collected March 2025, "Pending Inactive"
 
 ## The Victim's Words
 
 > *"I am too young and he is too old! Why is no one doing anything! I dont understand! I dont want this!"*
 >
-> — A child's diary. EFTA02731471.
+>, A child's diary. EFTA02731471.
 
 ## Source Corpora
 
@@ -79,7 +79,7 @@
 
 ## Contact
 
-Obsidian Watch Group — Lead Investigator: Jay Puckett
+Obsidian Watch Group, Lead Investigator: Jay Puckett
 
 - Email: obsidianinvestigations@pm.me
 - GPG: `9267A71E3F0A4EED2F973F9BA3E252F24635CC6C`
@@ -91,11 +91,11 @@ Obsidian Watch Group — Lead Investigator: Jay Puckett
 
 This investigation is built on 3.5 million documents released by the United States Department of Justice. Every finding is cited to a bates number. Every claim is verifiable. If you have a factual correction, submit it with evidence.
 
-If your email is just anger that someone is looking — I'm not your therapist and this isn't a complaint line. Delete my address and move on. This investigation will continue regardless.
+If your email is just anger that someone is looking, I'm not your therapist and this isn't a complaint line. Delete my address and move on. This investigation will continue regardless.
 
-If your email is a threat — it's already been forwarded and archived.
+If your email is a threat, it's already been forwarded and archived.
 
-— JP
+,  JP
 
 ## License
 

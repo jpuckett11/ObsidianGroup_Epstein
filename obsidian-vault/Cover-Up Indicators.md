@@ -8,11 +8,11 @@
 
 | Page | Finding |
 |------|---------|
-| 10397 | Someone "did not want to pursue the intimidation charges" — intimidation occurred but charges dropped |
+| 10397 | Someone "did not want to pursue the intimidation charges", intimidation occurred but charges dropped |
 | 14645 | "Department intentionally sought to silence the victims. Acosta failed to ensure victims were [notified]" |
-| 16535 | "conspiracy, to potential intimidation or murder" — murder explicitly referenced |
+| 16535 | "conspiracy, to potential intimidation or murder", murder explicitly referenced |
 | 17649 | "Since the discovery of the threat made against one of the victims" |
-| 18405 | "retaliation, intimidation, or physical or mental harm — chilling effect" |
+| 18405 | "retaliation, intimidation, or physical or mental harm, chilling effect" |
 | 18891 | "intent to intimidate, discredit and defame" |
 | 19283 | Epstein demonstrated "willingness to use intimidation and aggressive tactics" |
 | 19519 | Concern Maxwell would "intimidate witnesses" |
@@ -42,7 +42,7 @@
 | Page | Finding |
 |------|---------|
 | 13125 | "The probe of how [Epstein] managed to kill himself" |
-| 16535 | "conspiracy, to potential intimidation **or murder**" — explicitly referenced in case files |
+| 16535 | "conspiracy, to potential intimidation **or murder**", explicitly referenced in case files |
 
 ## The Co-Conspirator Pressure (page 13669)
 
@@ -50,7 +50,7 @@ Prosecutors considered charging Epstein with obstruction for "pressuring one of 
 1. There is documented evidence of Epstein obstructing justice
 2. He specifically pressured a co-conspirator
 3. The identity of that co-conspirator and what they were pressured about could be significant
-4. Prosecutors chose NOT to bring the obstruction charge — why?
+4. Prosecutors chose NOT to bring the obstruction charge, why?
 
 ---
 

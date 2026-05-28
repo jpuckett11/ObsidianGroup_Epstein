@@ -13,13 +13,13 @@
 > "Maxwell recruited [victim] from her job in **Mar-a-Lago** to massage Epstein. Flight records confirm [she] traveled with Epstein and Maxwell... when [she] was **17 years old.**"
 
 ### Ivana Trump (EFTA02731433.pdf)
-Magazine clipping in victim's scrapbook — social connection, not abuse evidence.
+Magazine clipping in victim's scrapbook, social connection, not abuse evidence.
 
 ### Trump NOT Named as Abuser
 The victim diary that names Leonsis, Case, Snyder, Mitchell, Kimsey, Colgan, Goodlatte, and others does **NOT** name Trump among the abusers despite naming many DC-area power figures.
 
 ### Document Forensics
-No evidence of tampering, removal, or falsification of Trump-related documents. The victim diary (EFTA02731433.pdf) has 21 page sizes because it's a physical scrapbook — not reconstructed.
+No evidence of tampering, removal, or falsification of Trump-related documents. The victim diary (EFTA02731433.pdf) has 21 page sizes because it's a physical scrapbook, not reconstructed.
 
 ---
 
@@ -37,7 +37,7 @@ No evidence of tampering, removal, or falsification of Trump-related documents. 
 | 1994 | One flight: Trump + Epstein + **redacted 20-year-old** | Flight logs |
 | Multiple | Maxwell present on at least 4 of 8 flights | Prosecutor email |
 | 2002 | Trump quote: "I've known Jeff for 15 years. Terrific guy. He's a lot of fun to be with." | NY Mag |
-| 2004 | Falling out — competed for same Palm Beach foreclosure | NYT |
+| 2004 | Falling out, competed for same Palm Beach foreclosure | NYT |
 | 2007 | **Trump banned Epstein from Mar-a-Lago** (harassed teen daughter of a member) | Multiple |
 | 2011 | Email: Epstein/Maxwell strategizing about allegations from Mar-a-Lago worker | CNN 2026 |
 | 2019 | Trump: Epstein is "a creep," "not a fan," hadn't spoken "in years" | Press conferences |
@@ -71,18 +71,18 @@ No evidence of tampering, removal, or falsification of Trump-related documents. 
 | Category | Finding |
 |----------|---------|
 | Direct abuse evidence | **NOT FOUND** in our documents |
-| Mar-a-Lago recruitment | **CONFIRMED** — prosecution testimony |
-| Social relationship | **CONFIRMED** — deep friendship 1988-2004 |
-| Shared access to young women | **CONFIRMED** — 1992 party, flights with redacted women |
-| Warning about Epstein | **CONFIRMED** — warned in 1992, continued relationship 12 more years |
-| Document tampering | **NOT FOUND** — no signs of fabrication or removal |
+| Mar-a-Lago recruitment | **CONFIRMED**, prosecution testimony |
+| Social relationship | **CONFIRMED**, deep friendship 1988-2004 |
+| Shared access to young women | **CONFIRMED**, 1992 party, flights with redacted women |
+| Warning about Epstein | **CONFIRMED**, warned in 1992, continued relationship 12 more years |
+| Document tampering | **NOT FOUND**, no signs of fabrication or removal |
 | Named by victims | **NOT FOUND** in these volumes (victim diary names many others but not Trump) |
 
 ### Open Questions
 - [ ] What's in the other volumes (not 10-12) that generates 1,000+ Trump mentions?
 - [ ] Who is the redacted 20-year-old on the 1994 flight?
 - [ ] What's in the 2011 strategy email about Mar-a-Lago allegations?
-- [ ] DOJ dismissed some claims as "untrue" — which specific claims?
+- [ ] DOJ dismissed some claims as "untrue", which specific claims?
 - [ ] Why did Trump wait until 2007 to ban Epstein (5 years after the warning)?
 
 ---

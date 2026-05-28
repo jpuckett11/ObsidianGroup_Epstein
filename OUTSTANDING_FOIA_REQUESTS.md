@@ -1,6 +1,6 @@
-# Outstanding FOIA Requests — Community Action List
+# Outstanding FOIA Requests, Community Action List
 
-**Obsidian Watch Group — Client 0001317**
+**Obsidian Watch Group, Client 0001317**
 **Lead Investigator: Jay Puckett**
 **Last Updated: May 26, 2026**
 
@@ -8,7 +8,7 @@
 
 ## PURPOSE
 
-This document identifies Freedom of Information Act requests that have NOT been filed by any known party — government investigator, journalist, congressional committee, or civil attorney — despite their direct relevance to documented anomalies in the Epstein case. Each request is described with sufficient specificity that any US citizen can file it. The absence of these inquiries is itself a finding.
+This document identifies Freedom of Information Act requests that have NOT been filed by any known party, government investigator, journalist, congressional committee, or civil attorney, despite their direct relevance to documented anomalies in the Epstein case. Each request is described with sufficient specificity that any US citizen can file it. The absence of these inquiries is itself a finding.
 
 **We investigate. We publish. We do not prosecute.**
 **The public has the right to these records. Exercise it.**
@@ -27,7 +27,7 @@ This document identifies Freedom of Information Act requests that have NOT been 
 
 ---
 
-## FOIA #1 — DIPLOMATIC AIRCRAFT CLEARANCES, AUGUST 8-11, 2019
+## FOIA #1, DIPLOMATIC AIRCRAFT CLEARANCES, AUGUST 8-11, 2019
 
 **Agency:** U.S. Department of State, Bureau of Political-Military Affairs, Office of Defense Integration (PM/DI)
 
@@ -39,7 +39,7 @@ This document identifies Freedom of Information Act requests that have NOT been 
 
 ---
 
-## FOIA #2 — FAA TOWER LOGS, DOWNTOWN MANHATTAN HELIPORT (KJRB)
+## FOIA #2, FAA TOWER LOGS, DOWNTOWN MANHATTAN HELIPORT (KJRB)
 
 **Agency:** Federal Aviation Administration
 
@@ -51,7 +51,7 @@ This document identifies Freedom of Information Act requests that have NOT been 
 
 ---
 
-## FOIA #3 — FAA TOWER LOGS, TETERBORO AIRPORT (KTEB)
+## FOIA #3, FAA TOWER LOGS, TETERBORO AIRPORT (KTEB)
 
 **Agency:** Federal Aviation Administration
 
@@ -63,7 +63,7 @@ This document identifies Freedom of Information Act requests that have NOT been 
 
 ---
 
-## FOIA #4 — BUREAU OF PRISONS: MCC DECOY BODY OPERATION
+## FOIA #4, BUREAU OF PRISONS: MCC DECOY BODY OPERATION
 
 **Agency:** Federal Bureau of Prisons
 
@@ -75,11 +75,11 @@ This document identifies Freedom of Information Act requests that have NOT been 
 
 ---
 
-## FOIA #5 — FBI: AUTHORIZATION TO DESTROY MASTER VIDEO (ITEM 1B60)
+## FOIA #5, FBI: AUTHORIZATION TO DESTROY MASTER VIDEO (ITEM 1B60)
 
 **Agency:** Federal Bureau of Investigation
 
-**Records Requested:** All documents relating to the authorization to destroy evidence item 1B60 — the master recording of archived video images from the Metropolitan Correctional Center — including: (a) the identity of the agent who requested destruction authorization; (b) the identity of the supervisor who approved the request; (c) the date the authorization was granted (reported as June 25, 2024); (d) the stated justification for destroying the master copy of video evidence from the cell block of the highest-profile federal pretrial detainee death in modern American history; (e) any communications regarding the existence or nonexistence of backup copies prior to the destruction.
+**Records Requested:** All documents relating to the authorization to destroy evidence item 1B60, the master recording of archived video images from the Metropolitan Correctional Center, including: (a) the identity of the agent who requested destruction authorization; (b) the identity of the supervisor who approved the request; (c) the date the authorization was granted (reported as June 25, 2024); (d) the stated justification for destroying the master copy of video evidence from the cell block of the highest-profile federal pretrial detainee death in modern American history; (e) any communications regarding the existence or nonexistence of backup copies prior to the destruction.
 
 **Why it matters:** The master video was destroyed by the FBI in June 2024. A reconstructed copy, created from a backup NiceVision DVR system in May 2025, contained a 62-second gap. The FBI specialist who reviewed the system described the official explanation for the gap as "a theory that could not be tested." The identity of the agent who authorized the destruction of the primary evidence has not been publicly disclosed.
 
@@ -87,7 +87,7 @@ This document identifies Freedom of Information Act requests that have NOT been 
 
 ---
 
-## FOIA #6 — DEA: OPERATION CHAIN REACTION UNREDACTED MEMORANDUM
+## FOIA #6, DEA: OPERATION CHAIN REACTION UNREDACTED MEMORANDUM
 
 **Agency:** Drug Enforcement Administration
 
@@ -99,7 +99,7 @@ This document identifies Freedom of Information Act requests that have NOT been 
 
 ---
 
-## FOIA #7 — DOJ: EFRAIN REYES SEALED CASE FILE
+## FOIA #7, DOJ: EFRAIN REYES SEALED CASE FILE
 
 **Agency:** Department of Justice / U.S. Attorney's Office (district of sealing not publicly identified)
 
@@ -111,19 +111,19 @@ This document identifies Freedom of Information Act requests that have NOT been 
 
 ---
 
-## FOIA #8 — STATE DEPARTMENT: ACOSTA "BELONGS TO INTELLIGENCE" CONTEXT
+## FOIA #8, STATE DEPARTMENT: ACOSTA "BELONGS TO INTELLIGENCE" CONTEXT
 
 **Agency:** U.S. Department of State / Department of Justice
 
 **Records Requested:** All documents, memoranda, communications, and briefing materials relating to any intelligence-community characterization of Jeffrey Epstein as an intelligence asset, source, or affiliated person, including but not limited to: (a) the specific statement attributed to Alexander Acosta that he was told Epstein "belonged to intelligence" and to "leave it alone"; (b) the identity of the person or agency that conveyed this instruction to Acosta; (c) any interagency communication regarding the handling of the 2007-2008 Epstein prosecution in the Southern District of Florida.
 
-**Why it matters:** Acosta's attributed statement — first reported by Vicky Ward in The Daily Beast on July 9, 2019, sourced to an anonymous former senior White House official — is the single most consequential unresolved claim in the entire Epstein record. It has never been formally denied or confirmed by the Department of Justice. The intelligence agency to which the statement referred has never been publicly identified by the federal government. The DOJ Office of Professional Responsibility reviewed Acosta's handling of the NPA and found "poor judgment" but "no professional misconduct" — without addressing the intelligence-community dimension.
+**Why it matters:** Acosta's attributed statement, first reported by Vicky Ward in The Daily Beast on July 9, 2019, sourced to an anonymous former senior White House official, is the single most consequential unresolved claim in the entire Epstein record. It has never been formally denied or confirmed by the Department of Justice. The intelligence agency to which the statement referred has never been publicly identified by the federal government. The DOJ Office of Professional Responsibility reviewed Acosta's handling of the NPA and found "poor judgment" but "no professional misconduct", without addressing the intelligence-community dimension.
 
 **Filed by any known party:** No direct FOIA for this specific claim has been identified.
 
 ---
 
-## FOIA #9 — NYC OCME: EPSTEIN BODY IDENTIFICATION AND CHAIN OF CUSTODY
+## FOIA #9, NYC OCME: EPSTEIN BODY IDENTIFICATION AND CHAIN OF CUSTODY
 
 **Agency:** New York City Office of the Chief Medical Examiner
 
@@ -135,7 +135,7 @@ This document identifies Freedom of Information Act requests that have NOT been 
 
 ---
 
-## FOIA #10 — BOP: CELLMATE REMOVAL ORDER, AUGUST 9, 2019
+## FOIA #10, BOP: CELLMATE REMOVAL ORDER, AUGUST 9, 2019
 
 **Agency:** Federal Bureau of Prisons
 
@@ -147,13 +147,13 @@ This document identifies Freedom of Information Act requests that have NOT been 
 
 ---
 
-## FOIA #11 — SULLIVAN COUNTY NY: DAI BOSATSU ZENDO PROPERTY RECORDS
+## FOIA #11, SULLIVAN COUNTY NY: DAI BOSATSU ZENDO PROPERTY RECORDS
 
 **Agency:** Sullivan County Clerk / Real Property Tax Service (Livingston Manor, NY)
 
 **Records Requested:** Complete property records, deed history, and tax assessment for the Dai Bosatsu Zendo Kongo Ji monastery property in Livingston Manor, NY (approximately 1,400 acres), operated by the Zen Studies Society Inc. (EIN 13-6162184). Include current assessed value, deed transfers since 2010, any liens or encumbrances, and the entity name on the current deed.
 
-**Why it matters:** The Zen Studies Society reported $1 in total assets and $0 in revenue for fiscal years 2011-2014 on IRS Form 990 filings, while simultaneously operating a Manhattan townhouse at 223 East 67th Street (within the documented Epstein network Upper East Side property cluster) and a 1,400-acre mountain compound. OSINT researchers identified a digital trail associating Nadia Marcinkova — a documented Epstein network participant classified by the FBI as a trafficking victim — with ZSS. The discrepancy between the organization's reported assets and its actual real estate holdings has not been publicly explained.
+**Why it matters:** The Zen Studies Society reported $1 in total assets and $0 in revenue for fiscal years 2011-2014 on IRS Form 990 filings, while simultaneously operating a Manhattan townhouse at 223 East 67th Street (within the documented Epstein network Upper East Side property cluster) and a 1,400-acre mountain compound. OSINT researchers identified a digital trail associating Nadia Marcinkova, a documented Epstein network participant classified by the FBI as a trafficking victim, with ZSS. The discrepancy between the organization's reported assets and its actual real estate holdings has not been publicly explained.
 
 **Filed by any known party:** No.
 
@@ -162,7 +162,7 @@ This document identifies Freedom of Information Act requests that have NOT been 
 ## HOW TO HELP
 
 1. **Pick a FOIA request above.** File it. It costs nothing.
-2. **Publish the response** — whether it's records, a denial, or a Glomar response ("we can neither confirm nor deny"). Every response is a document.
+2. **Publish the response**, whether it's records, a denial, or a Glomar response ("we can neither confirm nor deny"). Every response is a document.
 3. **Share this list.** The more people who file, the harder it is to ignore.
 4. **If you are a journalist** with existing FOIA infrastructure, these requests are pre-drafted for you. Attribution to Obsidian Watch Group is appreciated but not required. The records matter more than the credit.
 5. **If you are a congressional staffer**, your office can make these requests as congressional inquiries, which carry different legal weight than civilian FOIA and cannot be denied on the same grounds.
@@ -183,7 +183,7 @@ This document will be updated as FOIA requests are filed, responses are received
 
 ---
 
-## FOIA #12 — BOP: MCC CAMERA SYSTEM INSTALLATION AND REPLACEMENT TIMELINE
+## FOIA #12, BOP: MCC CAMERA SYSTEM INSTALLATION AND REPLACEMENT TIMELINE
 
 **Agency:** Federal Bureau of Prisons
 
@@ -195,11 +195,11 @@ This document will be updated as FOIA requests are filed, responses are received
 
 ---
 
-## FOIA #13 — NYC DOT: ROAD WORK AND LANE CLOSURES, LOWER MANHATTAN, AUGUST 9-10, 2019
+## FOIA #13, NYC DOT: ROAD WORK AND LANE CLOSURES, LOWER MANHATTAN, AUGUST 9-10, 2019
 
 **Agency:** New York City Department of Transportation
 
-**Records Requested:** All road work permits, lane closure authorizations, street opening permits, and construction activity records for the area bounded by Canal Street (north), the FDR Drive (east), Battery Park (south), and West Street/Route 9A (west) — encompassing all routes between the Metropolitan Correctional Center (150 Park Row) and the Holland Tunnel / Lincoln Tunnel approaches — for the period August 8, 2019 through August 11, 2019. Include any emergency or priority permits issued.
+**Records Requested:** All road work permits, lane closure authorizations, street opening permits, and construction activity records for the area bounded by Canal Street (north), the FDR Drive (east), Battery Park (south), and West Street/Route 9A (west), encompassing all routes between the Metropolitan Correctional Center (150 Park Row) and the Holland Tunnel / Lincoln Tunnel approaches, for the period August 8, 2019 through August 11, 2019. Include any emergency or priority permits issued.
 
 **Why it matters:** The transport route from MCC to Teterboro Airport (via Holland Tunnel) or to the Downtown Manhattan Heliport (via surface streets) would have been affected by any road work or lane closures. The presence or absence of construction activity along these routes on the night of August 9-10 is relevant to understanding the logistics of the documented transport.
 
@@ -207,7 +207,7 @@ This document will be updated as FOIA requests are filed, responses are received
 
 ---
 
-## FOIA #14 — MTA: SIGNAL AND SYSTEMS ANOMALIES, AUGUST 9-10, 2019
+## FOIA #14, MTA: SIGNAL AND SYSTEMS ANOMALIES, AUGUST 9-10, 2019
 
 **Agency:** Metropolitan Transportation Authority (MTA)
 
@@ -219,7 +219,7 @@ This document will be updated as FOIA requests are filed, responses are received
 
 ---
 
-## FOIA #15 — PORT AUTHORITY OF NY/NJ: HARBOR AND WATERWAY ACTIVITY, AUGUST 9-10, 2019
+## FOIA #15, PORT AUTHORITY OF NY/NJ: HARBOR AND WATERWAY ACTIVITY, AUGUST 9-10, 2019
 
 **Agency:** Port Authority of New York and New Jersey
 
@@ -231,19 +231,19 @@ This document will be updated as FOIA requests are filed, responses are received
 
 ---
 
-## FOIA #17 — DOJ/SDNY: GRAND JURY RECORDS RE: ROBERTO GRIJALVA 4CHAN POST
+## FOIA #17, DOJ/SDNY: GRAND JURY RECORDS RE: ROBERTO GRIJALVA 4CHAN POST
 
 **Agency:** U.S. Attorney's Office, Southern District of New York / Department of Justice
 
-**Records Requested:** All documents relating to the grand jury proceeding opened by U.S. Attorney Geoffrey Berman to investigate the anonymous 4chan post by MCC correctional officer Roberto Grijalva, including: (a) the subpoenas issued to 4chan, Apple, AT&T, and Citibank; (b) the results of the identification investigation; (c) any interview or deposition of Grijalva regarding his claims; (d) any investigation into the substance of Grijalva's claims — specifically, whether an unauthorized van entered MCC on the evening of August 9, 2019, whether an individual in military dress was present, and whether Epstein was moved in a medical wheelchair; (e) the disposition of the grand jury proceeding — was it closed? Were any charges brought? Was any referral made?
+**Records Requested:** All documents relating to the grand jury proceeding opened by U.S. Attorney Geoffrey Berman to investigate the anonymous 4chan post by MCC correctional officer Roberto Grijalva, including: (a) the subpoenas issued to 4chan, Apple, AT&T, and Citibank; (b) the results of the identification investigation; (c) any interview or deposition of Grijalva regarding his claims; (d) any investigation into the substance of Grijalva's claims, specifically, whether an unauthorized van entered MCC on the evening of August 9, 2019, whether an individual in military dress was present, and whether Epstein was moved in a medical wheelchair; (e) the disposition of the grand jury proceeding, was it closed? Were any charges brought? Was any referral made?
 
-**Why it matters:** Grijalva's post appeared approximately one hour before Epstein's death was publicly reported, demonstrating inside knowledge. The post contained precise, non-public procedural details about MCC operations that only a staffer would know. The DOJ's response was to investigate the identity of the poster, not the substance of his claims. The grand jury subpoenaed four companies to find Grijalva — but no public record exists of any investigation into whether his account of an unauthorized van and a military-dressed individual was accurate. The investigation of the messenger rather than the message is itself a documented finding.
+**Why it matters:** Grijalva's post appeared approximately one hour before Epstein's death was publicly reported, demonstrating inside knowledge. The post contained precise, non-public procedural details about MCC operations that only a staffer would know. The DOJ's response was to investigate the identity of the poster, not the substance of his claims. The grand jury subpoenaed four companies to find Grijalva, but no public record exists of any investigation into whether his account of an unauthorized van and a military-dressed individual was accurate. The investigation of the messenger rather than the message is itself a documented finding.
 
 **Filed by any known party:** No.
 
 ---
 
-## FOIA #18 — BOP: MCC VEHICLE ACCESS LOG AND PERIMETER GATE RECORDS, AUGUST 9-10, 2019
+## FOIA #18, BOP: MCC VEHICLE ACCESS LOG AND PERIMETER GATE RECORDS, AUGUST 9-10, 2019
 
 **Agency:** Federal Bureau of Prisons
 
@@ -255,24 +255,24 @@ This document will be updated as FOIA requests are filed, responses are received
 
 ---
 
-## FOIA #19 — BOP: MAXWELL TRANSFER AUTHORIZATION AND MEDICAL RECORDS
+## FOIA #19, BOP: MAXWELL TRANSFER AUTHORIZATION AND MEDICAL RECORDS
 
 **Agency:** Federal Bureau of Prisons
 
 **Records Requested:** All documents relating to the transfer of inmate Ghislaine Maxwell (BOP Register Number 02879-509) from FCI Tallahassee to Federal Prison Camp Bryan, Texas, in approximately August 2025, including: (a) the transfer request and authorization chain; (b) the identity of the official who approved the transfer; (c) the stated justification, including all threat assessments referenced by DAG Blanche's December 2025 statement about "numerous threats against her life"; (d) any communications between the BOP and the Deputy Attorney General's office regarding the transfer; (e) the timeline of the transfer relative to Maxwell's reported conversation with DAG Blanche about Jeffrey Epstein; (f) all medical records for Maxwell during her federal incarceration, including any surgical procedures performed or authorized, with specific attention to any ophthalmologic or dermatologic procedures.
 
-**Why it matters:** Senator Sheldon Whitehouse formally demanded documents on this transfer. The transfer from a low-security federal correctional institution to a minimum-security prison camp — for an inmate serving a 20-year sex trafficking sentence — occurred approximately one week after Maxwell reportedly spoke with DAG Todd Blanche about Epstein. The same DAG Blanche subsequently blocked the release of the unclassified Operation Chain Reaction memorandum to the Senate Finance Committee. Separately, a credentialed plastic surgeon has publicly stated that comparison photographs of Maxwell show apparent surgical alteration of the eyelids inconsistent with natural aging. Federal inmates do not have access to elective cosmetic surgery under standard BOP medical protocols.
+**Why it matters:** Senator Sheldon Whitehouse formally demanded documents on this transfer. The transfer from a low-security federal correctional institution to a minimum-security prison camp, for an inmate serving a 20-year sex trafficking sentence, occurred approximately one week after Maxwell reportedly spoke with DAG Todd Blanche about Epstein. The same DAG Blanche subsequently blocked the release of the unclassified Operation Chain Reaction memorandum to the Senate Finance Committee. Separately, a credentialed plastic surgeon has publicly stated that comparison photographs of Maxwell show apparent surgical alteration of the eyelids inconsistent with natural aging. Federal inmates do not have access to elective cosmetic surgery under standard BOP medical protocols.
 
 **Filed by any known party:** Senator Whitehouse requested transfer documents. Medical records have not been requested by any known party.
 
 ---
 
-## FOIA #20 — FAA: TOWER AUDIO RECORDINGS, KJRB AND KTEB, AUGUST 9-10, 2019
+## FOIA #20, FAA: TOWER AUDIO RECORDINGS, KJRB AND KTEB, AUGUST 9-10, 2019
 
 **Agency:** Federal Aviation Administration
 
 **Records Requested:** All air traffic control audio recordings (tower-to-aircraft, ground control, clearance delivery, and approach/departure frequencies) for the Downtown Manhattan Heliport (KJRB) and Teterboro Airport (KTEB) for the period 6:00 PM August 9, 2019 through 12:00 PM August 10, 2019. Diplomatic aircraft departures are cleared verbally on tower frequency with a State Department Diplomatic Clearance Number (DCN). The audio recordings would capture any diplomatic departure clearance issued during this window.
 
-**Why it matters:** This is distinct from FOIA #2 and #3 (tower logs). The audio recordings capture the actual voice communications between controllers and pilots, including diplomatic clearance callouts that may not appear in written logs. FAA tower recordings are maintained per FAA Order 7210.3 for a defined retention period. Whether the August 2019 recordings still exist — or have been destroyed — is itself a finding.
+**Why it matters:** This is distinct from FOIA #2 and #3 (tower logs). The audio recordings capture the actual voice communications between controllers and pilots, including diplomatic clearance callouts that may not appear in written logs. FAA tower recordings are maintained per FAA Order 7210.3 for a defined retention period. Whether the August 2019 recordings still exist, or have been destroyed, is itself a finding.
 
 **Filed by any known party:** No.

@@ -31,7 +31,7 @@ PHUNWARE (PHUN)
 └── "PHUN should have been shut down long ago"
 
 1MDB (Malaysia scandal)
-├── "AG Barr 1MDB waivers: Kirkland" — Barr issued waivers
+├── "AG Barr 1MDB waivers: Kirkland", Barr issued waivers
 ├── Rani Jarkas / Global Crown / EFG / BSI / Optima / Max Fang
 ├── Elliott Broidy (Trump fundraiser, convicted illegal 1MDB lobbying)
 ├── Khazanah Nasional (Malaysian sovereign wealth)
@@ -41,15 +41,15 @@ PHUNWARE (PHUN)
 CHINESE LAUNDERING SHELLS
 ├── Worry Free Holdings (fka iVoiceIdeas Inc)
 ├── Hong Kong Winalite Group
-├── Bang Holdings (BXNG) — "ties all frauds together"
+├── Bang Holdings (BXNG), "ties all frauds together"
 ├── "Several with Chinese Nationals"
 ├── 20+ shells identified as active
 └── Jaclin corporate services creating shells
 
 TRUMP CAMPAIGN STAFF IN LAUNDERING SHELLS
-├── Brad Parscale — Cloudcommerce/Phunware
-├── Steve Bannon — "OTCM money laundering shells"
-├── David Urban (PA Campaign Mgr) — sits on Knight (NITE) board + own shell (FSD Pharma)
+├── Brad Parscale, Cloudcommerce/Phunware
+├── Steve Bannon, "OTCM money laundering shells"
+├── David Urban (PA Campaign Mgr), sits on Knight (NITE) board + own shell (FSD Pharma)
 └── "Trump advisers/campaign staff involved in OTCM money laundering shells"
 ```
 
@@ -61,7 +61,7 @@ TRUMP CAMPAIGN STAFF IN LAUNDERING SHELLS
 
 William Barr came from Kirkland & Ellis. As AG, he allegedly issued waivers related to the 1MDB money laundering prosecution. Kirkland & Ellis is also connected to AQR (a firm involved in "blank check shell" laundering per the whistleblower).
 
-Elliott Broidy — major Trump fundraiser — was convicted of illegal lobbying related to 1MDB. The whistleblower connects Trump directly: "Trump: 1MDB money laundering."
+Elliott Broidy, major Trump fundraiser, was convicted of illegal lobbying related to 1MDB. The whistleblower connects Trump directly: "Trump: 1MDB money laundering."
 
 ## Key Allegation: SEC Deliberately Protecting Shells
 

@@ -38,11 +38,11 @@ For each clearance issued, I request the following fields as recorded in the DCN
 8. Crew information, if recorded
 9. The Diplomatic Clearance Number itself
 
-This request is made in the public interest. On August 10, 2019, Jeffrey Epstein — the highest-profile federal pretrial detainee in the United States — was removed from the Metropolitan Correctional Center in Lower Manhattan under circumstances that remain the subject of active congressional inquiry, including a documented decoy body operation disclosed in the February 2026 release of materials under the Epstein File Transparency Act (Public Law 119-38). The Downtown Manhattan Heliport is located 0.7 miles from MCC. No public record of diplomatic air traffic in the NYC metropolitan area on the night of August 9-10, 2019 has been produced by any federal agency.
+This request is made in the public interest. On August 10, 2019, Jeffrey Epstein, the highest-profile federal pretrial detainee in the United States, was removed from the Metropolitan Correctional Center in Lower Manhattan under circumstances that remain the subject of active congressional inquiry, including a documented decoy body operation disclosed in the February 2026 release of materials under the Epstein File Transparency Act (Public Law 119-38). The Downtown Manhattan Heliport is located 0.7 miles from MCC. No public record of diplomatic air traffic in the NYC metropolitan area on the night of August 9-10, 2019 has been produced by any federal agency.
 
 I am willing to pay fees for this request up to a maximum of $25.00. If the fees will exceed this amount, please contact me before processing.
 
-I request a waiver of all fees pursuant to 5 U.S.C. § 552(a)(4)(A)(iii), as disclosure of this information is in the public interest and will contribute significantly to public understanding of the operations of the federal government. The requested records relate to a matter of significant public concern — the documented anomalies surrounding the death of Jeffrey Epstein in federal custody — and will be disseminated broadly through public research publication.
+I request a waiver of all fees pursuant to 5 U.S.C. § 552(a)(4)(A)(iii), as disclosure of this information is in the public interest and will contribute significantly to public understanding of the operations of the federal government. The requested records relate to a matter of significant public concern, the documented anomalies surrounding the death of Jeffrey Epstein in federal custody, and will be disseminated broadly through public research publication.
 
 If any portion of this request is denied, I ask that you cite the specific exemption(s) relied upon for each withheld record or portion thereof, as required by 5 U.S.C. § 552(a)(6).
 

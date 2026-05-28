@@ -18,7 +18,7 @@ Source: 868 native media files from VOL00010 and VOL00011 (phone extractions)
 | EFTA01621018.mov | 36°29'50"N, 121°45'10"W | **Big Sur/Carmel Valley, CA** | Feb 8, 2018 |
 | EFTA01619211.mov | 42°4'15"N, 74°7'25"W | **Catskill Mountains, NY** | June 23, 2018 |
 
-### Marstrand, Sweden — Repeated Visits
+### Marstrand, Sweden, Repeated Visits
 - Wealthy coastal resort island off Gothenburg
 - Known for sailing and high-end tourism
 - **5 videos** from the same GPS coordinates
@@ -36,7 +36,7 @@ Source: 868 native media files from VOL00010 and VOL00011 (phone extractions)
 | EFTA01621007.mov | Jan 26, 2013 8:31 PM | 25 min | Long evening recording |
 | EFTA01619495.m4a | Sept 21, 2016 | 12 min 44 sec | Audio recording |
 | EFTA01612352.m4a | Dec 17, 2010 | 9 sec | Earliest dated file |
-| EFTA01621169.mov | Jun 27, 2019 | unknown | **Latest dated — 9 days before arrest** |
+| EFTA01621169.mov | Jun 27, 2019 | unknown | **Latest dated, 9 days before arrest** |
 
 ---
 
@@ -53,7 +53,7 @@ Source: 868 native media files from VOL00010 and VOL00011 (phone extractions)
 | Apple iPhone 6s Plus | 3 | 2015-2016 |
 | Apple iPhone 7 | 2 | 2016-2017 |
 
-All Apple devices — consistent with one person's phone upgrades over time (2014-2019).
+All Apple devices, consistent with one person's phone upgrades over time (2014-2019).
 
 ---
 
@@ -79,9 +79,9 @@ All Apple devices — consistent with one person's phone upgrades over time (201
 - [ ] What is the 3.5-hour video from 1:19 AM on Feb 16, 2013?
 - [ ] Why Marstrand, Sweden specifically? Who lives/vacations there?
 - [ ] What is in the Catskill Mountains video? (Near Woodstock/luxury retreats)
-- [ ] The California GPS points are near Pebble Beach and Big Sur — exclusive areas
+- [ ] The California GPS points are near Pebble Beach and Big Sur, exclusive areas
 
 ---
 
-*Metadata stripped from most files — only 257/868 retained creation dates, only 9 retained GPS*
+*Metadata stripped from most files, only 257/868 retained creation dates, only 9 retained GPS*
 *Last updated: 2026-05-25*

@@ -39,7 +39,7 @@ CAMBODIA (source)
 
 ## THE GPS CONNECTION
 
-EFTA01621033.mov — filmed at Koh Kong, Cambodia, December 25, 2016, 1:16 AM
+EFTA01621033.mov, filmed at Koh Kong, Cambodia, December 25, 2016, 1:16 AM
 
 Koh Kong province is:
 1. A documented trafficking corridor (US State Dept TIP reports)
@@ -71,7 +71,7 @@ If even a fraction of the $412.3M gap represents laundered art proceeds, this is
 - 2020: Died before trial
 - 2021: Family agreed to return collection (estimated hundreds of pieces)
 - Washington Post investigation: traced Latchford artifacts through Met and other museums
-- Latchford published books on Khmer art — used them to establish fake provenance
+- Latchford published books on Khmer art, used them to establish fake provenance
 - One bronze piece offered to Black after an Australian museum REJECTED it due to "insufficient documentation of provenance"
 
 ## BLACK'S DEFENSE
@@ -80,7 +80,7 @@ Black's spokesperson: "He never met nor acquired anything directly from Latchfor
 
 BUT:
 - Latchford's own correspondence discusses supplying works to Black through intermediary dealers
-- The inventory was in EPSTEIN'S files — not Black's
+- The inventory was in EPSTEIN'S files, not Black's
 - Black paid Epstein $158M + $62.5M during the period these works were being acquired
 - The Haze Trust (Epstein's vehicle) was liquidating art through auction houses
 
@@ -90,7 +90,7 @@ BUT:
 2. Through which auction houses? Christie's and Sotheby's are confirmed for Haze Trust liquidations
 3. Were any of these pieces flagged by provenance researchers?
 4. Did any proceeds from art sales flow through Southern Financial LLC?
-5. Does the $27.7M inventory value connect to the $27.7M Morocco palace wires? (Same number — coincidence?)
+5. Does the $27.7M inventory value connect to the $27.7M Morocco palace wires? (Same number, coincidence?)
 6. What was in the "shipment from Cambodia" referenced in the 2012 email?
 
 ---

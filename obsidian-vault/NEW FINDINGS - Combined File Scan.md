@@ -16,7 +16,7 @@ Pages 13890-13931 contain a research dossier mapping financial/political connect
 
 **Network map: Black ↔ Apollo ↔ Schwarzman ↔ Putin ↔ Lorber ↔ Trump ↔ Kushner ↔ Epstein**
 
-## 2. THE "MELVYN" LETTER — Intelligence Insider Warning
+## 2. THE "MELVYN" LETTER, Intelligence Insider Warning
 
 Pages 40379-40380 (EFTA00037222): Letter from "Melvyn" (claims US military intel background, TS+ family) to "Mark" (likely Mark Epstein) after Jeffrey's death.
 
@@ -24,24 +24,24 @@ Key revelations:
 - "many are rushing to say that he, and you and sometimes even all of us are **Mossad**"
 - "Jeffrey had some exposure to **North Korean/Chinese agents**, and was in the proximity of **arms dealers**"
 - **Gerald Bull** (assassinated Canadian arms dealer) and **Dr. Herman Erben** (Austrian spy) named
-- "**Humpty Dumpty charity**" — Epstein involved alongside **29 Congressmen** + "PRC Chinese execs"
-- "**GM**" (Ghislaine Maxwell) — "allies have ways of falling out. Or falling down dark stairs"
+- "**Humpty Dumpty charity**", Epstein involved alongside **29 Congressmen** + "PRC Chinese execs"
+- "**GM**" (Ghislaine Maxwell), "allies have ways of falling out. Or falling down dark stairs"
 - Warning to Mark: "When the #1 target was out of the equation. Now they can work down the list."
 - Writer claims intel background: "I was in US military intel... uncle was head of int'l relations at the Pentagon"
 
-## 3. DOOR LOG DISPUTE — FBI Seized the Records
+## 3. DOOR LOG DISPUTE, FBI Seized the Records
 
 Pages 31475-31485: Defense attorney email chain reveals:
-- Government produced "SHU Logs MW" and "SHU Logs" — but defense asks: "**Our requests were for SHU Watch Call Logs and SHU Control Center Logs**"
+- Government produced "SHU Logs MW" and "SHU Logs", but defense asks: "**Our requests were for SHU Watch Call Logs and SHU Control Center Logs**"
 - BOP agent confirmed: "**most of the control center paperwork was seized by FBI and/or OIG**"
 - Defense: "**Do you or FBI have that paperwork? Has it been provided to us?**"
 - The electronic door records were seized by FBI/OIG and what was produced may not be the actual records requested
 
-## 4. Clinical Nurse Report — Death Hours Before Discovery
+## 4. Clinical Nurse Report, Death Hours Before Discovery
 
 Page 15698 (SDNY_00008861): First responder found Epstein:
-- **"Cold"** — body temperature already dropped
-- **"posterior mottling"** — lividity (blood pooling) visible = death 1-2+ hours prior
+- **"Cold"**, body temperature already dropped
+- **"posterior mottling"**, lividity (blood pooling) visible = death 1-2+ hours prior
 - **"Pupils Fixed and dilated"**
 - AED: **"No shock advised"** = asystole (flatline)
 - Cardiac monitor: **asystole** confirmed by paramedics at 6:56 AM

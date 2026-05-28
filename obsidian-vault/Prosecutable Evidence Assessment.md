@@ -34,16 +34,16 @@
 ## TIER 2: Moderate Evidence (single victim source)
 
 ### Steve Case
-- Named on "flights of horror" — DC/AOL cluster
+- Named on "flights of horror", DC/AOL cluster
 - **Documents**: EFTA02731420
 - **Location**: DC / Warrenton, VA
 
 ### "Mr. Goodlatte" (possibly Bob Goodlatte)
-- "Not who they say" — identity not fully confirmed
+- "Not who they say", identity not fully confirmed
 - **Documents**: EFTA02731420
 
 ### "Mr. Colgan"
-- "Why did Mr. Colgan agree to this!" — facilitator role
+- "Why did Mr. Colgan agree to this!", facilitator role
 - Identity unknown
 
 ## TIER 3: Intelligence / Conspiracy
@@ -51,7 +51,7 @@
 ### Ehud Barak
 - Israeli government security installation documented; FBI: "trained as spy" under Barak; Carbyne investment
 - **Charges**: FARA (18 USC 951), conspiracy to commit espionage (794)
-- In Israel — extradition impossible
+- In Israel, extradition impossible
 
 ### Leslie Wexner
 - Funded entire operation; Foundation controlled by Epstein; Interlochen recruitment

@@ -21,7 +21,7 @@ Black testified and Dechert concluded that payments were for "tax, estate planni
 
 **Structure:** In 2006, Black created Grantor Retained Annuity Trusts (GRATs) funded with Apollo partnership interests valued at approximately **$585 million**. These were expected to grow to **$2+ billion**, creating an estimated **$1+ billion estate tax liability** if improperly structured.
 
-**The Problem:** Black improperly received excess income from Apollo partnership interests held in the trust — assets he had told the IRS he no longer owned. This created a potentially catastrophic tax exposure.
+**The Problem:** Black improperly received excess income from Apollo partnership interests held in the trust, assets he had told the IRS he no longer owned. This created a potentially catastrophic tax exposure.
 
 **Epstein's "Solution":** Epstein proposed that Black provide "consideration" to the trust to cure the defect. Black has refused to disclose:
 - The extent he was overpaid income from the trust
@@ -74,7 +74,7 @@ In 2012, Black acquired **Phaidon Press** (fine art book publisher). By October 
 | Personal "fixing" services | Unquantifiable |
 | **Total estimated savings** | **$1.3-2+ billion** |
 
-Against $170M in payments, Black received an estimated **8-12x return** on his Epstein investment — in tax savings alone.
+Against $170M in payments, Black received an estimated **8-12x return** on his Epstein investment, in tax savings alone.
 
 ---
 
@@ -166,18 +166,18 @@ Per an October 9, 2015 email from **Richard Kahn** to **Brad Wechsler**:
 
 ### Key Findings
 
-1. **The IRS Never Audited Epstein's Transactions for Black** — Despite Epstein lacking any professional credentials, none of the tax structures he devised for Black were audited by the IRS
-2. **$170M Total** — Senate investigators found an additional $12M missed by Dechert, bringing the total from $158M to $170M
-3. **Payment Rates Were 30x Normal** — Black paid Epstein 30 times higher than his actual licensed tax and estate advisors
-4. **Surveillance and Hush Money** — Evidence that Epstein and associates were surveilling and paying off women on Black's behalf
-5. **Russian Operative Connection** — Epstein provided locations of women on Black's payroll to a "well-connected Russian government operative"
+1. **The IRS Never Audited Epstein's Transactions for Black**, Despite Epstein lacking any professional credentials, none of the tax structures he devised for Black were audited by the IRS
+2. **$170M Total**, Senate investigators found an additional $12M missed by Dechert, bringing the total from $158M to $170M
+3. **Payment Rates Were 30x Normal**, Black paid Epstein 30 times higher than his actual licensed tax and estate advisors
+4. **Surveillance and Hush Money**, Evidence that Epstein and associates were surveilling and paying off women on Black's behalf
+5. **Russian Operative Connection**, Epstein provided locations of women on Black's payroll to a "well-connected Russian government operative"
 
 ### Banking Investigation Expansion
 
 **Bank of New York Mellon:**
 - Epstein moved **$378 million** in and out of BNY accounts through **270 wire transfers**
 - Bank failed to identify a legitimate business purpose for ANY of those transactions
-- BNY flagged 280 suspicious transfers only AFTER Epstein's 2019 arrest — more than a decade late
+- BNY flagged 280 suspicious transfers only AFTER Epstein's 2019 arrest, more than a decade late
 - Wyden: BNY may have broken the law by waiting years to report suspicious activity
 
 **Bank of America:**
@@ -205,7 +205,7 @@ Per an October 9, 2015 email from **Richard Kahn** to **Brad Wechsler**:
 
 ### The Core Problem
 
-Teachers' retirement savings — money that funds the retirements of public school educators across America — are invested in a firm whose leadership maintained undisclosed business relationships with a convicted sex trafficker and then lied about it to the SEC for five years.
+Teachers' retirement savings, money that funds the retirements of public school educators across America, are invested in a firm whose leadership maintained undisclosed business relationships with a convicted sex trafficker and then lied about it to the SEC for five years.
 
 ---
 
@@ -213,7 +213,7 @@ Teachers' retirement savings — money that funds the retirements of public scho
 
 ### The Emails That Ended a Career
 
-**Brad Karp** served as chairman of Paul, Weiss, Rifkind, Wharton & Garrison since 2008 — one of the most powerful law firms in America. He resigned abruptly on the evening of **February 4, 2026**, after DOJ released millions of pages of Epstein files.
+**Brad Karp** served as chairman of Paul, Weiss, Rifkind, Wharton & Garrison since 2008, one of the most powerful law firms in America. He resigned abruptly on the evening of **February 4, 2026**, after DOJ released millions of pages of Epstein files.
 
 ### What the Emails Showed
 
@@ -254,7 +254,7 @@ Teachers' retirement savings — money that funds the retirements of public scho
 
 ### The Inversion Plan (Never Executed)
 
-Epstein proposed Apollo use **Edmond de Rothschild** (Swiss private bank) to execute a tax inversion — redomiciling Apollo overseas to reduce its U.S. tax bill. The plan never materialized, but the emails prove:
+Epstein proposed Apollo use **Edmond de Rothschild** (Swiss private bank) to execute a tax inversion, redomiciling Apollo overseas to reduce its U.S. tax bill. The plan never materialized, but the emails prove:
 1. Rowan was in direct, substantive business communication with Epstein
 2. Epstein received confidential Apollo financial data
 3. Apollo's repeated public statements that it "never did business with Epstein" were false
@@ -265,7 +265,7 @@ Epstein proposed Apollo use **Edmond de Rothschild** (Swiss private bank) to exe
 - **Sarbanes-Oxley certifications** bearing his signature incorporated the Dechert Report's finding that Apollo had no business dealings with Epstein
 - AFT/AAUP SEC complaint specifically targets Rowan
 - No criminal charges filed as of May 2026
-- Rowan was appointed to Trump's **"Board of Peace"** for Gaza — creating additional political scrutiny
+- Rowan was appointed to Trump's **"Board of Peace"** for Gaza, creating additional political scrutiny
 
 ---
 
@@ -304,7 +304,7 @@ Epstein proposed Apollo use **Edmond de Rothschild** (Swiss private bank) to exe
 - Democrats called for his resignation or firing
 
 **Significance of the Courtside Meeting:**
-Two men with documented Epstein connections — one a major sports team owner under scrutiny, the other the sitting U.S. Commerce Secretary whose Epstein testimony was two weeks away — sitting together publicly at a nationally televised playoff game. This occurred during active federal investigations and class action litigation involving both men's Epstein ties.
+Two men with documented Epstein connections, one a major sports team owner under scrutiny, the other the sitting U.S. Commerce Secretary whose Epstein testimony was two weeks away, sitting together publicly at a nationally televised playoff game. This occurred during active federal investigations and class action litigation involving both men's Epstein ties.
 
 ---
 
@@ -327,11 +327,11 @@ Two men with documented Epstein connections — one a major sports team owner un
 1. In **2015**, Gratitude America received **$10 million from Leon Black** through a limited-liability company
 2. Gratitude America **claimed** to have contributed more than $1.8 million to charities in 2016 and 2017
 3. **Nonprofits reported as recipients claimed to have no record of receiving any money**
-4. As of December 2019, **$8.17 million sat in cash** — virtually the entire Black donation minus the phantom "charitable" distributions
+4. As of December 2019, **$8.17 million sat in cash**, virtually the entire Black donation minus the phantom "charitable" distributions
 
 ### Who Controls the Money?
 
-This is an open question. Epstein is dead. The foundation was Epstein's creation, operated through Deutsche Bank. The 990-PF filings would list current officers, directors, and trustees — but the foundation appears to be operating as a dormant shell with $8.17 million in essentially frozen assets.
+This is an open question. Epstein is dead. The foundation was Epstein's creation, operated through Deutsche Bank. The 990-PF filings would list current officers, directors, and trustees, but the foundation appears to be operating as a dormant shell with $8.17 million in essentially frozen assets.
 
 **Key Questions:**
 - Who are the current board members/trustees? (Requires review of most recent 990-PF)
@@ -378,17 +378,17 @@ This is an open question. Epstein is dead. The foundation was Epstein's creation
 
 ### What Dechert Missed or Understated
 
-1. **$12 million in additional transfers** — Wyden found $170M total, not $158M
-2. **Marc Rowan's direct business communications with Epstein** — TRA calculations, inversion talks, Rothschild meetings
-3. **The surveillance and hush money operation** — Karp-Epstein coordination on Ganieva
-4. **The "auto LLC" payment laundering structure** — payments routed through automobile LLCs to hide Black's identity
-5. **Gratitude America phantom charitable donations** — $10M from Black, claimed distributions never received by charities
-6. **The Russian operative connection** — Epstein sharing women's locations with Russian government figure
-7. **The true nature of the $170M** — framed as "tax advice" when substantial portion was for personal fixing services
+1. **$12 million in additional transfers**, Wyden found $170M total, not $158M
+2. **Marc Rowan's direct business communications with Epstein**, TRA calculations, inversion talks, Rothschild meetings
+3. **The surveillance and hush money operation**, Karp-Epstein coordination on Ganieva
+4. **The "auto LLC" payment laundering structure**, payments routed through automobile LLCs to hide Black's identity
+5. **Gratitude America phantom charitable donations**, $10M from Black, claimed distributions never received by charities
+6. **The Russian operative connection**, Epstein sharing women's locations with Russian government figure
+7. **The true nature of the $170M**, framed as "tax advice" when substantial portion was for personal fixing services
 
 ### Why Dechert's Conclusions Collapsed
 
-The Dechert Report became the cornerstone of Apollo's SEC filings and public statements. When DOJ files proved Epstein had substantive business involvement with Apollo (not just Black personally), the entire edifice of "Apollo never did business with Epstein" collapsed — triggering the class action, the stock crash, and the pension fund revolt.
+The Dechert Report became the cornerstone of Apollo's SEC filings and public statements. When DOJ files proved Epstein had substantive business involvement with Apollo (not just Black personally), the entire edifice of "Apollo never did business with Epstein" collapsed, triggering the class action, the stock crash, and the pension fund revolt.
 
 ---
 
@@ -429,16 +429,16 @@ The Dechert Report became the cornerstone of Apollo's SEC filings and public sta
 
 ## 13. OPEN INVESTIGATIVE THREADS
 
-1. **IRS/Treasury** — Why were none of Epstein's tax structures for Black ever audited?
-2. **DEA Mystery Investigation** — Wyden questioning DEA about unknown Epstein investigation; DAG Blanche intervening to conceal details
-3. **The Russian Operative** — Identity and purpose of the person Epstein shared women's locations with
-4. **Gratitude America** — Who controls $8.17M? Are there successor trustees? IRS oversight?
-5. **The Full Payment Breakdown** — Additional transfers beyond $170M still being discovered
-6. **Apollo Co-Founders** — Epstein "repeatedly tried to ingratiate himself" with other senior executives via Black introductions; full scope unknown
-7. **Sarbanes-Oxley Liability** — If Rowan signed SOX certifications on filings incorporating false Dechert conclusions, potential criminal exposure
-8. **Lutnick-Harris Nexus** — Both Epstein-connected, both in positions of power, publicly socializing during active investigations
-9. **Bank of America Settlement Terms** — Full terms not public
-10. **Brad Karp's Full Role** — Beyond Ganieva surveillance, what other "fixing" did Paul Weiss do for Black via Epstein?
+1. **IRS/Treasury**, Why were none of Epstein's tax structures for Black ever audited?
+2. **DEA Mystery Investigation**, Wyden questioning DEA about unknown Epstein investigation; DAG Blanche intervening to conceal details
+3. **The Russian Operative**, Identity and purpose of the person Epstein shared women's locations with
+4. **Gratitude America**, Who controls $8.17M? Are there successor trustees? IRS oversight?
+5. **The Full Payment Breakdown**, Additional transfers beyond $170M still being discovered
+6. **Apollo Co-Founders**, Epstein "repeatedly tried to ingratiate himself" with other senior executives via Black introductions; full scope unknown
+7. **Sarbanes-Oxley Liability**, If Rowan signed SOX certifications on filings incorporating false Dechert conclusions, potential criminal exposure
+8. **Lutnick-Harris Nexus**, Both Epstein-connected, both in positions of power, publicly socializing during active investigations
+9. **Bank of America Settlement Terms**, Full terms not public
+10. **Brad Karp's Full Role**, Beyond Ganieva surveillance, what other "fixing" did Paul Weiss do for Black via Epstein?
 
 ---
 
@@ -492,7 +492,7 @@ The Dechert Report became the cornerstone of Apollo's SEC filings and public sta
 - [Apollo: Client Letter (Feb 2026)](https://www.apollo.com/insights-news/pressreleases/2026/02/apollo-sent-the-following-letter-to-clients-and-partners-3240705)
 - [Apollo: Dechert Review Announcement (Jan 2021)](https://www.apollo.com/insights-news/pressreleases/2021/01/apollo-global-management-announces-conclusion-and-release-of-independent-review-211549270)
 - [David Lat: 5 Takeaways from Karp's Emails](https://davidlat.substack.com/p/paul-weiss-chair-brad-karp-emails-with-jeffrey-epstein)
-- [Epstein-data.com: Transaction Chain — Black Art Machine](https://epstein-data.com/reports/financial/TRANSACTION_CHAIN_BLACK_ART_MACHINE.html)
+- [Epstein-data.com: Transaction Chain, Black Art Machine](https://epstein-data.com/reports/financial/TRANSACTION_CHAIN_BLACK_ART_MACHINE.html)
 - [Redacted Report: Leon Black's $170M Machine](https://redactedreport.substack.com/p/leon-blacks-170-million-machine-how)
 - [Fox Business: Epstein Used Charity for Self](https://www.foxbusiness.com/business-leaders/jeffrey-epstein-used-charity-to-benefit-himself-report)
 - [Daily Beast: Gratitude America via Deutsche Bank](https://www.thedailybeast.com/jeffrey-epsteins-secret-charity-gratitude-america-operated-via-deutsche-bank-and-benefited-himself-report/)

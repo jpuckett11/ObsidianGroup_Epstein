@@ -37,10 +37,10 @@
 - Epstein invested through Financial Trust Company (confirmed in Dechert/Apollo investigation)
 - SEC whistleblower in FBI evidence files: "ESWW was a money laundering shell. The SEC knows it."
 
-## Apollo Global Management — Securities Fraud Class Action (Filed April 29, 2026)
+## Apollo Global Management, Securities Fraud Class Action (Filed April 29, 2026)
 
 **Case:** SDNY securities class action against Apollo and CEO Marc Rowan
-**Class period:** May 10, 2021 — February 21, 2026
+**Class period:** May 10, 2021, February 21, 2026
 **Key allegations:**
 - Apollo told markets it "never did any business with Epstein"
 - DOJ files show Rowan forwarded internal financial calculations TO Epstein (March 2016)
@@ -62,7 +62,7 @@ WEXNER ($4.7B)
 └── NYC mansion ($20M, worth $55-86M) + private jet
 
 LEON BLACK ($10B+)
-├── $158M direct to Epstein (2012-2017) — "tax advice"
+├── $158M direct to Epstein (2012-2017), "tax advice"
 ├── $62.5M to USVI entities
 ├── BV70 LLC → $10M → Gratitude America (charity with $768 expenses)
 ├── Apollo → Environmental Solutions Worldwide (SEC-confirmed fraud)

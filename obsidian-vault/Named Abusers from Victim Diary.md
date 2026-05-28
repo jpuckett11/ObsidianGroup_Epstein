@@ -1,7 +1,7 @@
 # Named Abusers: From Victim's Handwritten Diary
 
 ## Source: EFTA02731420.pdf, EFTA02731465.pdf (VOL00012)
-## Document type: Handwritten diary entries marked "CONFIDENTIAL FOR ATTORNEY'S EYES ONLY — DO NOT COPY"
+## Document type: Handwritten diary entries marked "CONFIDENTIAL FOR ATTORNEY'S EYES ONLY, DO NOT COPY"
 
 Note: The victim's own words are not reproduced here to protect their dignity. Only the names of accused abusers and the nature of the allegations are documented.
 
@@ -18,19 +18,19 @@ The victim describes all flights with these individuals as abusive:
 | Mr. Case | Steve Case (AOL founder) | "Flights of horror" |
 | Mr. Snyder | Dan Snyder (Washington Commanders) | Called "a pig" by victim |
 | the Gregorys | Unknown family | Named alongside others |
-| Mr. Colgan | Unknown | Appears to be facilitator — "Why did Mr. Colgan agree to this!" |
+| Mr. Colgan | Unknown | Appears to be facilitator, "Why did Mr. Colgan agree to this!" |
 | Federal worker | Unknown government employee | Victims "borrowed" and "rented" |
 
 ## Additional Names (EFTA02731420)
 
 | Name | Context |
 |------|---------|
-| George Mitchell | Former Senate Majority Leader — "like a grandpa are bad" |
-| Mr. Kimsey | Likely Jim Kimsey (AOL co-founder, deceased 2016) — "deranged" |
-| Mr. Goodlatte | Possibly Bob Goodlatte (House Judiciary Chair) — "not who they say" |
-| Mr. Atkins | Unknown — "not who they say" |
+| George Mitchell | Former Senate Majority Leader, "like a grandpa are bad" |
+| Mr. Kimsey | Likely Jim Kimsey (AOL co-founder, deceased 2016), "deranged" |
+| Mr. Goodlatte | Possibly Bob Goodlatte (House Judiciary Chair), "not who they say" |
+| Mr. Atkins | Unknown, "not who they say" |
 | Mr. Mody | Unknown |
-| Mr. Robert | Unknown — has "pretty wife Jill" |
+| Mr. Robert | Unknown, has "pretty wife Jill" |
 | Mr. Sant | Unknown |
 | Mr. Ludwig | Unknown |
 | Mr. Cecchi | Unknown |

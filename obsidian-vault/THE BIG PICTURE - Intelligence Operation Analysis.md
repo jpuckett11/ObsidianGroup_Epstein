@@ -6,7 +6,7 @@
 
 ## THE CENTRAL QUESTION: Where did the money come from?
 
-Jeffrey Epstein had no legitimate business that could generate hundreds of millions of dollars. The official story — "financial adviser to billionaires" — doesn't hold up:
+Jeffrey Epstein had no legitimate business that could generate hundreds of millions of dollars. The official story, "financial adviser to billionaires", doesn't hold up:
 
 ### The Money Pipeline (documented)
 
@@ -44,7 +44,7 @@ Despite being a registered sex offender:
 ### The Real Question: WHY did billionaires pay Epstein hundreds of millions?
 
 **The official answer:** Tax and estate planning advice.
-**The evidence suggests:** Payment for services rendered by an intelligence asset — Epstein provided:
+**The evidence suggests:** Payment for services rendered by an intelligence asset, Epstein provided:
 1. Access to powerful people (networking)
 2. Compromising material on those people (leverage)
 3. Tax avoidance schemes (financial value)
@@ -65,12 +65,12 @@ RECRUITMENT GROUNDS (documented):
 └── Schools/spas/hotels (Maxwell compiled lists of massage therapists)
 
 PERSONNEL:
-├── Ghislaine Maxwell — operational manager, recruiter, handler
-├── Sarah Kellen — scheduling assistant, named co-conspirator
-├── Lesley Groff — executive assistant (136,964 doc mentions)
-├── Jean-Luc Brunel — MC2 modeling agency, trafficking pipeline
-├── Nadia Marcinkova — live-in associate, "Terje's friend"
-├── Haley Robson — victim-turned-recruiter
+├── Ghislaine Maxwell, operational manager, recruiter, handler
+├── Sarah Kellen, scheduling assistant, named co-conspirator
+├── Lesley Groff, executive assistant (136,964 doc mentions)
+├── Jean-Luc Brunel, MC2 modeling agency, trafficking pipeline
+├── Nadia Marcinkova, live-in associate, "Terje's friend"
+├── Haley Robson, victim-turned-recruiter
 └── Multiple unnamed female recruiters (pyramid scheme model)
 ```
 
@@ -104,47 +104,47 @@ EVIDENCE OF RECORDING:
 CONFIRMED PARTICIPANTS/VISITORS (from documents + public record):
 
 POLITICAL:
-├── George Mitchell (Senate Majority Leader) — "like a grandpa are bad"
-├── Bill Clinton — flew to Africa on Epstein's jet with Spacey, Tucker
-├── Alexander Acosta — gave corrupt plea deal, became Trump Labor Sec.
-├── Bob Goodlatte (poss.) — House Judiciary Chair, "not who they say"
-├── Prince Andrew — named by Virginia Roberts
-├── Ehud Barak — former Israeli PM, dedicated apartment, ~30 visits
-├── "Old senators" — unnamed in victim diary
-└── "Federal worker" — "borrowed" and "rented" victims
+├── George Mitchell (Senate Majority Leader), "like a grandpa are bad"
+├── Bill Clinton, flew to Africa on Epstein's jet with Spacey, Tucker
+├── Alexander Acosta, gave corrupt plea deal, became Trump Labor Sec.
+├── Bob Goodlatte (poss.), House Judiciary Chair, "not who they say"
+├── Prince Andrew, named by Virginia Roberts
+├── Ehud Barak, former Israeli PM, dedicated apartment, ~30 visits
+├── "Old senators", unnamed in victim diary
+└── "Federal worker", "borrowed" and "rented" victims
 
 FINANCE/BUSINESS:
-├── Leon Black ($158M+$62.5M) — Apollo Global, flew with victim, RECORDED extortion
-├── Les Wexner — Mega Group, funded entire operation
-├── Jes Staley — JPMorgan executive
-├── Bill Gates — meetings via Boris Nikolic, "nudes" discussed
-├── Glenn/Eva Dubin — socialites, tickets on Epstein's AmEx
-└── Deutsche Bank (Oldfield/Morris) — maintained accounts despite conviction
+├── Leon Black ($158M+$62.5M), Apollo Global, flew with victim, RECORDED extortion
+├── Les Wexner, Mega Group, funded entire operation
+├── Jes Staley, JPMorgan executive
+├── Bill Gates, meetings via Boris Nikolic, "nudes" discussed
+├── Glenn/Eva Dubin, socialites, tickets on Epstein's AmEx
+└── Deutsche Bank (Oldfield/Morris), maintained accounts despite conviction
 
 TECH/MEDIA:
-├── Ted Leonsis — made VIDEO of abuse, "brought a friend"
-├── Steve Case — AOL founder, "flights of horror"
-├── Jim Kimsey (poss.) — AOL co-founder, "deranged"
-├── Dan Snyder — "a pig" (victim's words)
-├── Ronald Lauder — Mega Group, dinner at Epstein's
-├── Masha Drokova — Putin Youth → $450M US tech fund
-├── Joi Ito — MIT Media Lab
-├── Boris Nikolic — Gates adviser, discussed "nudes"
-└── Woody Allen — dinner guest with Lauder
+├── Ted Leonsis, made VIDEO of abuse, "brought a friend"
+├── Steve Case, AOL founder, "flights of horror"
+├── Jim Kimsey (poss.), AOL co-founder, "deranged"
+├── Dan Snyder, "a pig" (victim's words)
+├── Ronald Lauder, Mega Group, dinner at Epstein's
+├── Masha Drokova, Putin Youth → $450M US tech fund
+├── Joi Ito, MIT Media Lab
+├── Boris Nikolic, Gates adviser, discussed "nudes"
+└── Woody Allen, dinner guest with Lauder
 
 LEGAL/DIPLOMATIC:
-├── Kathy Ruemmler — Obama White House Counsel → Goldman Sachs CLO
-├── Brad Karp — Chairman of Paul Weiss (met with Ruemmler at Epstein's)
-├── Terje Rød-Larsen — Oslo Accords, $10M to his children in will
-├── Alan Dershowitz — defense attorney, accused by Virginia Roberts
-├── Douglas Wigdor — plaintiff attorney
-└── Sigrid McCawley — victims' attorney
+├── Kathy Ruemmler, Obama White House Counsel → Goldman Sachs CLO
+├── Brad Karp, Chairman of Paul Weiss (met with Ruemmler at Epstein's)
+├── Terje Rød-Larsen, Oslo Accords, $10M to his children in will
+├── Alan Dershowitz, defense attorney, accused by Virginia Roberts
+├── Douglas Wigdor, plaintiff attorney
+└── Sigrid McCawley, victims' attorney
 
 SCIENCE:
-├── Boris Nikolic — Gates science adviser
-├── Lawrence Krauss — physicist
-├── Joi Ito — MIT Media Lab
-├── Dr. Jim Watson — likely Nobel laureate (dinner guest)
+├── Boris Nikolic, Gates science adviser
+├── Lawrence Krauss, physicist
+├── Joi Ito, MIT Media Lab
+├── Dr. Jim Watson, likely Nobel laureate (dinner guest)
 └── Stephen Hawking (referenced in public record)
 ```
 
@@ -214,7 +214,7 @@ Epstein ──→ Russia (Sberbank wires - Irkutsk $10K, Moscow $20K)
 Epstein ──→ Lithuania, London, Paris (simultaneous wires)
 Epstein ──→ Charitable donations (Interlochen, Wexner Foundation)
 Epstein ──→ Trust beneficiaries ($210M+ in will)
-Epstein ──→ Rød-Larsen children ($4-10M — diplomatic access)
+Epstein ──→ Rød-Larsen children ($4-10M, diplomatic access)
 Epstein ──→ Carbyne investment (via Barak → Unit 8200 company)
 Epstein ──→ Masha Drokova (publicist → $450M tech fund seed)
 ```
@@ -252,7 +252,7 @@ Epstein ──→ Masha Drokova (publicist → $450M tech fund seed)
 
 ### ASSESSMENT:
 
-The weight of evidence — from FBI intelligence reports, physical security installations, financial flows, victim testimony, the Mega Group connection, the Carbyne/Unit 8200 pipeline, the Drokova/Russia pipeline, the forced abortions by an Israeli doctor, and the recorded blackmail of Leon Black — overwhelmingly supports the conclusion that **Epstein was operating as an intelligence asset serving primarily Israeli interests, with secondary Russian connections, running a sexual blackmail operation targeting powerful Western figures.**
+The weight of evidence, from FBI intelligence reports, physical security installations, financial flows, victim testimony, the Mega Group connection, the Carbyne/Unit 8200 pipeline, the Drokova/Russia pipeline, the forced abortions by an Israeli doctor, and the recorded blackmail of Leon Black, overwhelmingly supports the conclusion that **Epstein was operating as an intelligence asset serving primarily Israeli interests, with secondary Russian connections, running a sexual blackmail operation targeting powerful Western figures.**
 
 The operation was:
 - **Funded** by Wexner/Mega Group (and later by targets like Leon Black who were paying to avoid exposure)
@@ -262,7 +262,7 @@ The operation was:
 - **Connected** to both Israeli (Barak, Lauder, Wexner, Unit 8200) and Russian (Drokova, Churkin, Sberbank) intelligence interests
 - **Bridged** by diplomatic intermediaries (Rød-Larsen, Chabad)
 
-**The $158M from Leon Black wasn't for "tax advice." It was the price of silence — and even that wasn't enough, because the extortion was recorded, proving the blackmail mechanism existed at the operational level.**
+**The $158M from Leon Black wasn't for "tax advice." It was the price of silence, and even that wasn't enough, because the extortion was recorded, proving the blackmail mechanism existed at the operational level.**
 
 ---
 
@@ -275,7 +275,7 @@ The operation was:
 | Released video edited | Adobe Premiere Pro reconstruction, 62-second gap |
 | 10 of 11 cameras "malfunctioned" | Night of Epstein's death |
 | Dr. Imeri: Epstein "needed a cellmate" | Cellmate removed before death |
-| Guards arrested | Tova Noel + Michael Thomas (deferred prosecution — no jail) |
+| Guards arrested | Tova Noel + Michael Thomas (deferred prosecution, no jail) |
 | Documents heavily redacted | 1,376 redacted entries in FBI evidence log alone |
 | "Chabad" redacted from one version | Cross-referencing revealed it |
 | Threats against accuser | "Anonymous threat against VIRGINIA ROBERTS GUIFFRE" |
@@ -291,8 +291,8 @@ The operation was:
 | MCC surveillance video (master) | **DESTROYED** by FBI (June 2024) |
 | MCC surveillance hard drives (12+) | In FBI custody (not publicly released) |
 | LTO-6 tape archives | In FBI custody |
-| "Binders of nude photos" | Seized — current status unknown |
-| Sony camera | Seized — current status unknown |
+| "Binders of nude photos" | Seized, current status unknown |
+| Sony camera | Seized, current status unknown |
 | Massage room camera footage | Unknown |
 | Hotel abuse video | Allegedly circulating on "sex site" |
 | Leonsis video | Unknown |
@@ -336,15 +336,15 @@ Jeffrey Epstein was not a lone predator. He was the operational center of a mult
 - Chainalysis, Epstein Files Transparency Act releases
 
 ### Key Document References
-- EFTA02730486/02730741 — FBI evidence logs (cross-referenced to deredact)
-- EFTA02731082 — SDNY prosecution memo (86 pages)
-- EFTA02731420 — Victim diary ("flights of horror" naming abusers)
-- EFTA02731465 — Victim diary (Leonsis video)
-- EFTA02731361 — Victim diary (Israeli doctor, forced abortion)
-- EFTA02213080/118/120 — Barak/Priel apartment coordination
-- EFTA01266134/204 — Trust documents ($210M+ bequests)
-- EFTA01273102 — Wire transfers to Russia (Sberbank)
-- EFTA02213694 — Ronald Lauder dinner invitation
+- EFTA02730486/02730741, FBI evidence logs (cross-referenced to deredact)
+- EFTA02731082, SDNY prosecution memo (86 pages)
+- EFTA02731420, Victim diary ("flights of horror" naming abusers)
+- EFTA02731465, Victim diary (Leonsis video)
+- EFTA02731361, Victim diary (Israeli doctor, forced abortion)
+- EFTA02213080/118/120, Barak/Priel apartment coordination
+- EFTA01266134/204, Trust documents ($210M+ bequests)
+- EFTA01273102, Wire transfers to Russia (Sberbank)
+- EFTA02213694, Ronald Lauder dinner invitation
 
 ---
 

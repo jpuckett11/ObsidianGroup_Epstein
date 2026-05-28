@@ -1,6 +1,6 @@
 # Money Trail: Where Is Every Dollar Now?
 
-## Tracking all known Epstein assets — frozen, spent, accessible, and unaccounted for
+## Tracking all known Epstein assets, frozen, spent, accessible, and unaccounted for
 
 ---
 
@@ -23,13 +23,13 @@
 
 ## What's Still Accessible (The Key Question)
 
-### 1. THE 1953 TRUST — $127-145 Million
+### 1. THE 1953 TRUST, $127-145 Million
 
 **Status:** Active, controlled by Indyke and Kahn
 **Location:** USVI probate jurisdiction
 **Key fact:** Got a $112M IRS refund that went directly into the trust
 **Who controls it:** Darren Indyke and Richard Kahn (executors/trustees)
-**Terms:** "Will pay out the remainder upon resolution of all claims" — claims are STILL ongoing
+**Terms:** "Will pay out the remainder upon resolution of all claims", claims are STILL ongoing
 **Beneficiaries:** Never publicly disclosed (the trust document is sealed)
 **Critical:** The trust was "poorly drafted" and "unclear how Epstein wanted the remainder distributed"
 
@@ -37,9 +37,9 @@
 - 2001-2019: Epstein paid Indyke **$16M+** and Kahn **$10M+**
 - Will bequest: $20M each
 - Executor compensation: Ongoing (amount not publicly disclosed for 2020-2025)
-- They controlled the estate's depreciation from $600M to $127M — where did $473M go?
+- They controlled the estate's depreciation from $600M to $127M, where did $473M go?
 
-### 2. GRATITUDE AMERICA LTD — $8.17 Million
+### 2. GRATITUDE AMERICA LTD, $8.17 Million
 
 **Status:** Active 501(c)(3), filing 990PFs, zero activity since 2020
 **Location:** St. Thomas, USVI
@@ -47,7 +47,7 @@
 **Who controls it:** 
 - 2012-2019: Jeffrey Epstein (President), Darren Indyke (Treasurer), Erika Kellerhals (Secretary)
 - After 2019: Richard Kahn replaced Epstein as President; Indyke remained
-**Assets:** $8,175,884 (2022 filing — latest available)
+**Assets:** $8,175,884 (2022 filing, latest available)
 **Revenue:** $1 (2020, 2021, 2022)
 **Expenses:** $0 (2021, 2022)
 **Source of funds:** $10M from BV70 LLC (Leon Black) in 2015
@@ -56,32 +56,32 @@
 
 **THE MONEY IS JUST SITTING THERE.** $8.17M in a USVI tax shelter with Indyke and Kahn in control, zero expenses, zero distributions. It's not frozen by any court order we can find. Theoretically accessible by the officers at any time.
 
-### 3. OFFSHORE ENTITIES — Unknown Amounts
+### 3. OFFSHORE ENTITIES, Unknown Amounts
 
 **Liquid Funding Ltd (Bermuda)**
 - Chaired by Epstein from at least 2000-2007
 - Partially owned by Bear Stearns
-- Current status: Unknown — Bermuda has no public registry
+- Current status: Unknown, Bermuda has no public registry
 - ICIJ Paradise Papers traced it but current balances unreported
 
 **Various BVI/Cayman/Delaware entities**
 - From the 46 known shell companies
 - Many registered in jurisdictions with no public registries
 - Whether all were identified and seized in the estate proceedings is unclear
-- The USVI AG settlement covered "ten Epstein-created entities" — but Epstein had 46+
+- The USVI AG settlement covered "ten Epstein-created entities", but Epstein had 46+
 
 **Gap:** The USVI settlement named 10 entities. Epstein had 46+. What happened to the other 36+?
 
-### 4. CRYPTOCURRENCY — Potentially Accessible
+### 4. CRYPTOCURRENCY, Potentially Accessible
 
 - Someone tried to get Epstein to send $25K in Bitcoin (page 31477)
 - The SEC whistleblower dossier connects the network to Bitcoin mining in China, Russia, Belarus
 - No public record of any crypto wallet seizure
-- Private keys could be stored anywhere — memory, hardware wallet, offshore safe deposit box
+- Private keys could be stored anywhere, memory, hardware wallet, offshore safe deposit box
 - Crypto wallets don't freeze without specific seizure orders
 - **If Epstein or anyone in his circle held crypto, those wallets are still accessible with the keys**
 
-### 5. INSURANCE ANNUITIES — Potentially Active
+### 5. INSURANCE ANNUITIES, Potentially Active
 
 The trust document (EFTA01266134) specified:
 - $20M annuity for Karyna Shuliak (from "reputable financial institution")
@@ -94,7 +94,7 @@ The trust document (EFTA01266134) specified:
 
 **Key question:** Were the annuities actually purchased? If so, which insurance companies hold them? Are they still paying out?
 
-### 6. PARIS APARTMENT — Status Unclear
+### 6. PARIS APARTMENT, Status Unclear
 
 - Epstein owned property in Paris (mentioned in trust as "Paris Property")
 - French real estate is subject to French law, separate from US proceedings
@@ -103,10 +103,10 @@ The trust document (EFTA01266134) specified:
 
 ### 7. PROPERTY PROCEEDS NOT YET DISTRIBUTED
 
-- Zorro Ranch, NM — sale status unclear (valued conservatively in estate filings)
+- Zorro Ranch, NM, sale status unclear (valued conservatively in estate filings)
 - Islands sold for $60M but USVI gets half = $30M to estate
 - All proceeds flow into 1953 Trust under Indyke/Kahn control
-- **When do the beneficiaries get paid?** Only "upon resolution of all claims" — and new claims keep coming
+- **When do the beneficiaries get paid?** Only "upon resolution of all claims", and new claims keep coming
 
 ---
 
@@ -133,7 +133,7 @@ The trust document (EFTA01266134) specified:
 
 ## The $473 Million Question
 
-The estate went from **$600M to $127M** — a decline of $473M.
+The estate went from **$600M to $127M**, a decline of $473M.
 
 Known outflows:
 - Victim comp: $121M
@@ -143,21 +143,21 @@ Known outflows:
 - Property sales returned: ~$106M+ (but this is incoming, not outgoing)
 - **SUBTOTAL known outflows: ~$339M**
 
-That leaves roughly **$134M unaccounted for** between "known outflows" and the $473M decline. Where did it go? Legal fees, estate administration, property upkeep, executor compensation, and "depreciation" account for some — but tens of millions are opaque.
+That leaves roughly **$134M unaccounted for** between "known outflows" and the $473M decline. Where did it go? Legal fees, estate administration, property upkeep, executor compensation, and "depreciation" account for some, but tens of millions are opaque.
 
 The estate's own accountant (Kahn) and lawyer (Indyke) control the books. They've been paid $26M+ by Epstein historically, stand to receive $20M each from the will, and manage the remaining $127M. Congressional subpoenas were issued in January 2026.
 
-**UPDATE (May 2026):** Will actually allocates **$50M to Indyke and $25M to Kahn** — not $20M each as previously reported. Trust lists 40 names. Kahn testified March 11, 2026; Indyke testified March 19, 2026 — both in closed sessions. Senate Democrats revealed DOJ never questioned either of them in the 7 years since Epstein's death. Treasury Secretary Bessent actively withholding financial records from Senate investigation (Sep 2025).
+**UPDATE (May 2026):** Will actually allocates **$50M to Indyke and $25M to Kahn**, not $20M each as previously reported. Trust lists 40 names. Kahn testified March 11, 2026; Indyke testified March 19, 2026, both in closed sessions. Senate Democrats revealed DOJ never questioned either of them in the 7 years since Epstein's death. Treasury Secretary Bessent actively withholding financial records from Senate investigation (Sep 2025).
 
 ### NEW: THE $12.9 MILLION SOUTHERN COUNTRY MYSTERY
 
-**December 2019** — Four months after Epstein's death, the estate transferred **$15.5 million** in two checks to Southern Country International Bank — Epstein's private bank that **never commenced operations**. The bank sent back $2.6 million, leaving a net inflow of **$12.9 million**.
+**December 2019**, Four months after Epstein's death, the estate transferred **$15.5 million** in two checks to Southern Country International Bank, Epstein's private bank that **never commenced operations**. The bank sent back $2.6 million, leaving a net inflow of **$12.9 million**.
 
 - Before the transfer: bank had $693,157 in assets
 - After the transfer: bank's assets listed at $499,759
 - USVI magistrate judge questioned estate lawyers, said the explanation was **"not satisfactory"**
 - Estate lawyer claimed some of the payment was **"made in error"**
-- Bank license not renewed — estate told USVI it would not seek renewal
+- Bank license not renewed, estate told USVI it would not seek renewal
 
 **Where did $12.9M go?** The bank had less money AFTER receiving $15.5M than before. This suggests the money flowed THROUGH the bank to somewhere else. A private offshore bank with no customers, no operations, and no oversight was used to move $12.9M four months after the account holder's death.
 
@@ -226,11 +226,11 @@ FROZEN/SETTLED:
 
 ---
 
-*$12.9M moved through a bank that never opened. $8.17M sitting untouched in a USVI charity. $16.9M Gulfstream listed for sale. 35+ unidentified shell companies. Unsealed trust with 40 beneficiaries. Insurance annuities possibly paying out right now. And two men allocated $75M combined from the will — never questioned by any government investigator for 7 years.*
+*$12.9M moved through a bank that never opened. $8.17M sitting untouched in a USVI charity. $16.9M Gulfstream listed for sale. 35+ unidentified shell companies. Unsealed trust with 40 beneficiaries. Insurance annuities possibly paying out right now. And two men allocated $75M combined from the will, never questioned by any government investigator for 7 years.*
 
 ---
 
-## NEW: THE FIFTH BANK — CHARLES SCHWAB (April-July 2019)
+## NEW: THE FIFTH BANK, CHARLES SCHWAB (April-July 2019)
 
 ### Timeline of the Morocco Palace Attempt
 
@@ -242,11 +242,11 @@ FROZEN/SETTLED:
 | April 2019 | Deutsche Bank arranges €50K cash in "large bills" for Europe trip | €50,000 |
 | June 26, 2019 | Southern Trust instructs Schwab to wire to Marc Leon (realtor) via Julius Baer Switzerland | **~€11.15M (~$12.7M)** |
 | Late June | Transfer reversed / order cancelled | |
-| **July 4, 2019** | Second wire request signed by Epstein personally — **2 DAYS before arrest** | **$14.95M** |
+| **July 4, 2019** | Second wire request signed by Epstein personally, **2 DAYS before arrest** | **$14.95M** |
 | July 4 | Schwab sends wire despite INSUFFICIENT FUNDS in account | |
 | July 6, 2019 | Epstein arrested at Teterboro Airport | |
 | July 9, 2019 | Additional transfers processed | |
-| **July 13, 2019** | Schwab files SAR with FinCEN — 7 days AFTER arrest | |
+| **July 13, 2019** | Schwab files SAR with FinCEN, 7 days AFTER arrest | |
 | TOTAL | **$27.7 million** wired by Schwab for Epstein in 10 days | $27,700,000 |
 
 ### The Property: Bin Ennakhil Palace, Marrakech
@@ -259,11 +259,11 @@ FROZEN/SETTLED:
 - Transaction structure: buy Liechtenstein company shares through BVI trust → no direct real estate transfer
 
 ### The Bank Chain is Now FIVE
-1. **JPMorgan Chase** — 1998-2013 ($670.8M in transfers, $290M settlement)
-2. **Deutsche Bank** — 2013-2018 ($851.9M, $150M NYDFS fine + $75M victim settlement)
-3. **Bank of America** — dates unclear ($486.4M in transfers, Paul Morris now there)
-4. **Bank of New York Mellon** — dates unclear (Wyden investigating "hundreds of suspicious transactions")
-5. **Charles Schwab** — April-July 2019 ($27.7M in 10 days, opened accounts 3 months before arrest)
+1. **JPMorgan Chase**, 1998-2013 ($670.8M in transfers, $290M settlement)
+2. **Deutsche Bank**, 2013-2018 ($851.9M, $150M NYDFS fine + $75M victim settlement)
+3. **Bank of America**, dates unclear ($486.4M in transfers, Paul Morris now there)
+4. **Bank of New York Mellon**, dates unclear (Wyden investigating "hundreds of suspicious transactions")
+5. **Charles Schwab**, April-July 2019 ($27.7M in 10 days, opened accounts 3 months before arrest)
 
 Plus: **FirstBank Puerto Rico** (FEDWIRE transfers to Russia), **Julius Baer** (Switzerland, Morocco payment recipient), **LGT Bank Vaduz** (Liechtenstein, escrow for Pamur Anstalt)
 
@@ -273,11 +273,11 @@ Two possibilities:
 1. He didn't know he was about to be arrested → buying a luxury retreat in a non-extradition-friendly jurisdiction
 2. He DID know and was moving $27.7M out of the US through a real estate transaction that would convert liquid assets into hard-to-seize foreign property
 
-The fact that Schwab processed a $14.95M wire despite INSUFFICIENT FUNDS in the account suggests urgency. The SAR wasn't filed until 7 days after the arrest — Schwab flagged it retroactively, not proactively.
+The fact that Schwab processed a $14.95M wire despite INSUFFICIENT FUNDS in the account suggests urgency. The SAR wasn't filed until 7 days after the arrest, Schwab flagged it retroactively, not proactively.
 
 ### Pamur Anstalt (Liechtenstein)
 - Held the Moroccan property since 1990
 - Registration: FL-0001.115.138-1, Vaduz
-- **Dissolved June 12, 2023** — liquidation completed, deleted from register
-- Beneficial ownership UNKNOWN — Liechtenstein Anstalts are specifically designed to hide ownership
+- **Dissolved June 12, 2023**, liquidation completed, deleted from register
+- Beneficial ownership UNKNOWN, Liechtenstein Anstalts are specifically designed to hide ownership
 - The deal would have given Epstein control of the Liechtenstein entity (and the property) without his name appearing on any deed

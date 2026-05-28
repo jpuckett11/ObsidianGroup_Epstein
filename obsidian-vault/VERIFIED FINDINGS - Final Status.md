@@ -1,4 +1,4 @@
-# Verified Findings — Final Accuracy Check
+# Verified Findings, Final Accuracy Check
 
 ## Status: VERIFIED, DOWNGRADED, or NEEDS CORRECTION
 ## Date: May 25, 2026
@@ -10,11 +10,11 @@
 **Claim:** We cross-referenced EFTA02730486 vs EFTA02730741 to recover 965 redacted entries including "Chabad."
 
 **Verification:** 
-- The "Chabad" content in EFTA02730741 was NOT hidden by redaction that WE broke — it appears in the DOJ's own release as part of an FBI CHS (Confidential Human Source) memo. Multiple outlets (Middle East Eye, Times of Israel, Palestine Chronicle) reported the Chabad/Israel/Russia content from the released files.
-- HOWEVER: The general copy-paste redaction bypass was discovered by social media users (WION reported on it). Our SPECIFIC cross-reference technique (comparing two versions of the FBI evidence LOG — not the CHS memo) to recover witness names, wiretap numbers, and institutional details IS methodologically distinct.
+- The "Chabad" content in EFTA02730741 was NOT hidden by redaction that WE broke, it appears in the DOJ's own release as part of an FBI CHS (Confidential Human Source) memo. Multiple outlets (Middle East Eye, Times of Israel, Palestine Chronicle) reported the Chabad/Israel/Russia content from the released files.
+- HOWEVER: The general copy-paste redaction bypass was discovered by social media users (WION reported on it). Our SPECIFIC cross-reference technique (comparing two versions of the FBI evidence LOG, not the CHS memo) to recover witness names, wiretap numbers, and institutional details IS methodologically distinct.
 - The "965 of 1,704" count needs verification against our actual extraction data.
 
-**STATUS: PARTIALLY CORRECT — The Chabad content was in released docs, not our deredaction. Our technique for the FBI evidence LOG (witness names, wiretap numbers) IS distinct. Must separate these two claims.**
+**STATUS: PARTIALLY CORRECT, The Chabad content was in released docs, not our deredaction. Our technique for the FBI evidence LOG (witness names, wiretap numbers) IS distinct. Must separate these two claims.**
 
 ---
 
@@ -22,7 +22,7 @@
 
 **Claim:** We discovered the gap.
 **Verification:** R.S. Taylor's epstein-forensic-finance project published this first. We sourced it from their work.
-**STATUS: MUST CREDIT — "As documented by the independent forensic audit (R.S. Taylor, epstein-forensic-finance)"**
+**STATUS: MUST CREDIT, "As documented by the independent forensic audit (R.S. Taylor, epstein-forensic-finance)"**
 
 ---
 
@@ -30,7 +30,7 @@
 
 **Claim:** The art inventory AND Morocco palace wires are both exactly $27.7M.
 **Verification:** Bloomberg reported the art inventory at $27.7M. Reuters/US News reported the Morocco wires at $27.7M. NOBODY has connected these two identical numbers as potentially deliberate.
-**STATUS: VERIFIED NOVEL CONNECTION — Credit sources for individual numbers, claim the connection as ours**
+**STATUS: VERIFIED NOVEL CONNECTION, Credit sources for individual numbers, claim the connection as ours**
 
 ---
 
@@ -38,7 +38,7 @@
 
 **Claim:** We connected the Koh Kong GPS hit from Epstein's phone to the Latchford art pipeline.
 **Verification:** Bloomberg reported the art inventory (Feb 2026). Our GPS extraction from DOJ media files identified the Koh Kong coordinates. Nobody else has connected the phone GPS to the art sourcing geography.
-**STATUS: VERIFIED NOVEL — GPS extraction is our work, connection to art pipeline is our analysis**
+**STATUS: VERIFIED NOVEL, GPS extraction is our work, connection to art pipeline is our analysis**
 
 ---
 
@@ -46,7 +46,7 @@
 
 **Claim:** First systematic AIS vessel tracking of Little Saint James.
 **Verification:** WIRED tracked PHONE data near the island (location broker data, Dhruv Mehrotra). We used NOAA Marine Cadastre AIS data for SHIP movements. Completely different data source and methodology. No published AIS vessel analysis of LSJ found.
-**STATUS: VERIFIED NOVEL — Different data source, different methodology, different findings**
+**STATUS: VERIFIED NOVEL, Different data source, different methodology, different findings**
 
 ---
 
@@ -54,7 +54,7 @@
 
 **Claim:** We identified mouth/eye moisture inconsistencies with time of death.
 **Verification:** Dr. Baden raised neck fracture concerns. 60 Minutes analyzed cell photos. CT Examiner called for second look. But the SPECIFIC observation about closed mouth (gravity/rigor) and eye moisture (desiccation timeline) vs. the clinical nurse's "cold body/posterior mottling" does not appear in published forensic analyses.
-**STATUS: LIKELY NOVEL OBSERVATION — But note this is observational analysis, not dispositive forensic conclusion**
+**STATUS: LIKELY NOVEL OBSERVATION, But note this is observational analysis, not dispositive forensic conclusion**
 
 ---
 
@@ -70,7 +70,7 @@
 
 **Claim:** Brazilian girls could be the "foreign girls" at Zorro Ranch.
 **Verification:** BBC Brasil discovered the apartment (Feb 2026). Nobody has connected the São Paulo apartment → modeling pipeline → Zorro Ranch "foreign girls" tip → demographic invisibility in New Mexico.
-**STATUS: VERIFIED NOVEL HYPOTHESIS — Clearly labeled as analytical hypothesis, not proven fact**
+**STATUS: VERIFIED NOVEL HYPOTHESIS, Clearly labeled as analytical hypothesis, not proven fact**
 
 ---
 
@@ -78,25 +78,25 @@
 
 **Claim:** We mapped the complete Brunel → Ungaro → Zampolli → Trump → Melania → Special Envoy chain.
 **Verification:** Individual pieces widely reported (YAC News, Newsweek, American Prospect, Wikipedia). The COMPLETE chain as one narrative connecting Epstein's trafficking pipeline to the current First Lady's introduction and Zampolli's diplomatic appointment appears to be our synthesis.
-**STATUS: NOVEL SYNTHESIS — Credit individual reporters, claim the chain mapping as ours**
+**STATUS: NOVEL SYNTHESIS, Credit individual reporters, claim the chain mapping as ours**
 
 ---
 
 ## DATA ACCURACY VERIFICATION
 
 ### Numbers that need verification:
-- "876,000+ documents" — Based on our actual file counts across VOL00010-12. ✓ VERIFIED
-- "170,444 corpus sweep hits" — From our cluster search output. ✓ VERIFIED (output logged)
-- "37,657 AIS records" — From NOAA data processing. ✓ VERIFIED (4,540 + 33,117 = 37,657)
-- "153 vessels" — From AIS analysis. ✓ VERIFIED (logged output)
-- "43 countries" — Manually counted from our research. ✓ VERIFIED (list documented)
-- "63 novel findings" — Must be revised down after this verification to ~45 truly novel + original synthesis
-- "$2.146B" — From R.S. Taylor forensic audit. ✓ VERIFIED but MUST CREDIT SOURCE
-- "965 of 1,704 redactions" — From our own deredaction work on FBI evidence LOG (not CHS memo). NEEDS RE-VERIFICATION against actual extraction data
-- "$1.1B from single account" — From Sen. Wyden press release. ✓ VERIFIED, credited to Wyden/Senate Finance
+- "876,000+ documents", Based on our actual file counts across VOL00010-12. ✓ VERIFIED
+- "170,444 corpus sweep hits", From our cluster search output. ✓ VERIFIED (output logged)
+- "37,657 AIS records", From NOAA data processing. ✓ VERIFIED (4,540 + 33,117 = 37,657)
+- "153 vessels", From AIS analysis. ✓ VERIFIED (logged output)
+- "43 countries", Manually counted from our research. ✓ VERIFIED (list documented)
+- "63 novel findings", Must be revised down after this verification to ~45 truly novel + original synthesis
+- "$2.146B", From R.S. Taylor forensic audit. ✓ VERIFIED but MUST CREDIT SOURCE
+- "965 of 1,704 redactions", From our own deredaction work on FBI evidence LOG (not CHS memo). NEEDS RE-VERIFICATION against actual extraction data
+- "$1.1B from single account", From Sen. Wyden press release. ✓ VERIFIED, credited to Wyden/Senate Finance
 
 ### Claims to REMOVE or CORRECT:
-- Remove any implication that WE discovered the Chabad CHS memo content — it was in the DOJ release
+- Remove any implication that WE discovered the Chabad CHS memo content, it was in the DOJ release
 - Clarify that our deredaction technique applies to the FBI EVIDENCE LOG (witness names, wiretap numbers), not the CHS intelligence memo
 - Credit R.S. Taylor for the $412.3M gap and $2.146B audit
 - Credit NYT for first naming the NYDFS anonymized persons
@@ -138,7 +138,7 @@
 
 ---
 
-*Honest attribution makes the investigation stronger, not weaker. Our genuine original contributions — the deredaction technique, the GPS-to-art connection, the AIS vessel tracking, the São Paulo hypothesis, the network chain mapping — stand on their own merit without needing to claim what others found first.*
+*Honest attribution makes the investigation stronger, not weaker. Our genuine original contributions, the deredaction technique, the GPS-to-art connection, the AIS vessel tracking, the São Paulo hypothesis, the network chain mapping, stand on their own merit without needing to claim what others found first.*
 
 *Last verified: May 25, 2026*
 

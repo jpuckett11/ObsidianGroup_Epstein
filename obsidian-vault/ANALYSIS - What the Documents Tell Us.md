@@ -12,7 +12,7 @@ This was a state-level intelligence collection operation using child sexual abus
 
 ## 1. THE FUNDING DOESN'T FIT LEGITIMATE BUSINESS
 
-Wexner gave Epstein total control of his billions (1991) — the same year he co-founded the Mega Group. Epstein "stole" hundreds of millions, and Wexner's response was to let his wife take over — not prosecute. That pattern is consistent with an operational budget with plausible deniability.
+Wexner gave Epstein total control of his billions (1991), the same year he co-founded the Mega Group. Epstein "stole" hundreds of millions, and Wexner's response was to let his wife take over, not prosecute. That pattern is consistent with an operational budget with plausible deniability.
 
 **Documented financial flows:**
 - Wexner → Epstein: $100M+ stolen/diverted + NYC mansion ($20M, worth $55-86M) + private jet
@@ -31,7 +31,7 @@ Wexner gave Epstein total control of his billions (1991) — the same year he co
 
 ## 2. THE BLACKMAIL MECHANISM IS DOCUMENTED
 
-This is not theoretical — the FBI seized the physical evidence:
+This is not theoretical, the FBI seized the physical evidence:
 - Maxwell kept "binders of nude photos of women posing in Epstein's different residences" (prosecution memo)
 - "A camera in the corner of the massage room" (victim testimony)
 - "At least one video circulating on some disgusting sex site" (attorney communication)
@@ -48,7 +48,7 @@ This is not theoretical — the FBI seized the physical evidence:
 **From our deredacted FBI evidence log (EFTA02730741):**
 > "(U) Chabad's involvement in U.S. Presidential pardon petitions and influences from Russia and Israel on Pres[ident]"
 
-This is a U//FOUO classified FBI intelligence entry — not speculation.
+This is a U//FOUO classified FBI intelligence entry, not speculation.
 
 **Israeli state involvement documented:**
 - Government installed security equipment at 301 East 66th Street
@@ -79,7 +79,7 @@ Every safety system failed simultaneously:
 - FBI destroyed master recording (June 2024)
 - Released video reconstructed in Adobe Premiere Pro with 62-second gap
 - Three unprecedented neck fractures (hyoid + bilateral thyroid)
-- AED found no shockable rhythm — suggests death hours before discovery
+- AED found no shockable rhythm, suggests death hours before discovery
 - Guard Tova Noel had JPMorgan Suspicious Activity Report
 - 4 AM supervisor entered SHU, saw guards at desk, left without checking inmates
 - Control Center door log has never been released
@@ -96,10 +96,10 @@ Every safety system failed simultaneously:
 - DOJ released edited/reconstructed video, not raw DVR footage
 - Acosta immunized Epstein + "any potential co-conspirators"
 - Both MCC guards got deferred prosecution (no jail)
-- Evening Watch SHU Officer in Charge also falsified records — prosecution DECLINED
+- Evening Watch SHU Officer in Charge also falsified records, prosecution DECLINED
 - TRU-SCOPE electronic door logs produced to defense but never publicly released
 - Control Center buzz-in records never released
-- "Howard Lutnick alleged money laundering via BGC Financial" tip in FBI log — Lutnick is now Secretary of Commerce
+- "Howard Lutnick alleged money laundering via BGC Financial" tip in FBI log, Lutnick is now Secretary of Commerce
 
 ---
 
@@ -112,16 +112,16 @@ From a minor victim's own handwriting (EFTA02731420):
 - Steve Case (AOL)
 - Dan Snyder ("a pig")
 - George Mitchell ("like a grandpa are bad")
-- Mr. Kimsey (likely Jim Kimsey, AOL co-founder — "deranged")
+- Mr. Kimsey (likely Jim Kimsey, AOL co-founder, "deranged")
 - Mr. Colgan (facilitator)
 - "A federal worker" who "borrowed" and "rented" victims
 
 **Additional names:**
-- Mr. Goodlatte, Mr. Atkins — "are not who they say" (used aliases)
+- Mr. Goodlatte, Mr. Atkins, "are not who they say" (used aliases)
 - Mr. Mody, Mr. Robert, Mr. Sant, Mr. Ludwig, Mr. Cecchi, Mr. Mora
 
 **From victim diary (EFTA02731361):**
-- Israeli doctor — forced abortion on school-age girl
+- Israeli doctor, forced abortion on school-age girl
 - "I can't go to school like this. I can't stop shaking."
 
 ---
@@ -182,7 +182,7 @@ INTELLIGENCE SERVICES (Israel primary, Russia secondary)
 
 ## 9. BOTTOM LINE
 
-The question is not whether this happened — 834,961 documents prove the structure, the funding, the operations, the targets, the victims, and the intelligence connections.
+The question is not whether this happened, 834,961 documents prove the structure, the funding, the operations, the targets, the victims, and the intelligence connections.
 
 The question is why the people with the power to prosecute have not acted on evidence that names specific perpetrators, documents specific crimes, and traces specific money flows.
 
@@ -195,16 +195,16 @@ The victims named their abusers. The financial records show the money flows. The
 ## Document Sources
 
 ### From our extraction (834,961 PDFs across VOL00010, VOL00011, VOL00012 + DataSets 1-8 unredacted)
-- EFTA02730486/02730741 — FBI evidence logs (cross-referenced, 965 entries deredacted)
-- EFTA02731082 — SDNY prosecution memo (86 pages)
-- EFTA02731420 — Victim diary ("flights of horror")
-- EFTA02731465 — Victim diary (Leonsis video)
-- EFTA02731361 — Victim diary (Israeli doctor)
-- EFTA02213080/118/120/422/518/528 — Barak/Priel apartment emails
-- EFTA02213694 — Ronald Lauder dinner invitation
-- EFTA01266134/204 — Trust documents ($210M+)
-- EFTA01273102 — Wire transfers to Russia
-- DataSet 8 unredacted — 19,565 pages including OIG report, criminal complaint, BOP timeline
+- EFTA02730486/02730741, FBI evidence logs (cross-referenced, 965 entries deredacted)
+- EFTA02731082, SDNY prosecution memo (86 pages)
+- EFTA02731420, Victim diary ("flights of horror")
+- EFTA02731465, Victim diary (Leonsis video)
+- EFTA02731361, Victim diary (Israeli doctor)
+- EFTA02213080/118/120/422/518/528, Barak/Priel apartment emails
+- EFTA02213694, Ronald Lauder dinner invitation
+- EFTA01266134/204, Trust documents ($210M+)
+- EFTA01273102, Wire transfers to Russia
+- DataSet 8 unredacted, 19,565 pages including OIG report, criminal complaint, BOP timeline
 
 ### Public record sources
 - DOJ document releases (12 data sets, 3.5M pages)

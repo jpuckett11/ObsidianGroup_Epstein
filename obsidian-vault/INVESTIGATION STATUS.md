@@ -1,4 +1,4 @@
-# Investigation Status — 2026-05-25
+# Investigation Status, 2026-05-25
 
 ## Data Sources Acquired
 
@@ -15,18 +15,18 @@
 | Flight log OCR text | 1.2 MB | Full text | Searched |
 | 1332-16 (Clinton/Trump filing) | 668 KB | 10 pages | Extracted + analyzed |
 | Native media files | ~2 GB | 873 files (mp4/mov/m4v/audio) | Metadata extracted + GPS mapped |
-| DataSet 9 | 181 GB | Unknown | NOT ACQUIRED — mirrors blocked |
+| DataSet 9 | 181 GB | Unknown | NOT ACQUIRED, mirrors blocked |
 | **TOTAL PROCESSED** | **~120 GB** | **~876,000+ documents** | |
 
 ## Processing Completed
 
 | Task | Result |
 |------|--------|
-| Full 835K document sweep (64 workers) | Complete — all names, connections, hits cataloged |
+| Full 835K document sweep (64 workers) | Complete, all names, connections, hits cataloged |
 | Deredaction (cross-reference) | 965 of 1,704 redactions broken (57%) |
-| 42K COMBINED file scan | Complete — Apollo/Kremlin, Melvyn letter, door log dispute |
-| 19.5K DataSet 8 scan | Complete — OIG report, criminal complaint, BOP timeline |
-| Virus scanning (ClamAV) | All files clean — 0 infected across all sources |
+| 42K COMBINED file scan | Complete, Apollo/Kremlin, Melvyn letter, door log dispute |
+| 19.5K DataSet 8 scan | Complete, OIG report, criminal complaint, BOP timeline |
+| Virus scanning (ClamAV) | All files clean, 0 infected across all sources |
 | Media metadata extraction | GPS locations, device IDs, creation dates extracted |
 | Corporate entity mapping | 46+ entities identified, SEC whistleblower dossier found |
 
@@ -77,10 +77,10 @@ Ted Leonsis (VIDEO), Dan Snyder, Steve Case, George Mitchell, Jim Kimsey, Mr. Co
 
 ### Death Night
 - Body "Cold" + "posterior mottling" at 6:33 AM = death hours before discovery
-- Control Center door logs seized by FBI/OIG — defense challenged what was produced
-- Watch Call Logs (phone records) — government couldn't confirm they have them
-- Cellmate Reyes died "in his sleep" before trial — sealed proceedings
-- 12+ watch calls missed — Control Center raised no alarm
+- Control Center door logs seized by FBI/OIG, defense challenged what was produced
+- Watch Call Logs (phone records), government couldn't confirm they have them
+- Cellmate Reyes died "in his sleep" before trial, sealed proceedings
+- 12+ watch calls missed, Control Center raised no alarm
 - Camera system upgrade installed WEEK AFTER death
 
 ### Deredacted Content (unique to our investigation)
@@ -90,15 +90,15 @@ Ted Leonsis (VIDEO), Dan Snyder, Steve Case, George Mitchell, Jim Kimsey, Mr. Co
 - Evidence items including "six binders" search warrant location
 - "Alleged Money Laundering by Howard Lutnick via BGC Financial" (current Commerce Secretary)
 
-## Shell Company Trace — May 2026 Update
+## Shell Company Trace, May 2026 Update
 
 ### Resolved Entities (public records trace):
 | Entity | Status | Key Finding |
 |--------|--------|-------------|
 | Liquid Funding Ltd (Bermuda) | Wound down 2008 | Moody's confirmed liabilities paid |
-| Plan D LLC | Active — USVI | Gulfstream G550 N415LM, listed for sale $16.9M |
+| Plan D LLC | Active, USVI | Gulfstream G550 N415LM, listed for sale $16.9M |
 | Hyperion Air LLC | Under USVI AG action | Bell 430 helicopter N331JE, Indyke as secretary |
-| JEGE LLC | Active — asset in storage | Boeing 727 N908JE, Brunswick GA, 10 years parked |
+| JEGE LLC | Active, asset in storage | Boeing 727 N908JE, Brunswick GA, 10 years parked |
 | Southern Country Intl Bank | License lapsed | **$12.9M transferred post-death, destination unknown** |
 | IGY-AYH St. Thomas | Sold 2022-23 | MarineMax bought IGY for $480M |
 | Zorro entities | Sold 2023 | **NM DOJ active criminal investigation + March 2026 search warrants** |
@@ -117,9 +117,9 @@ Ted Leonsis (VIDEO), Dan Snyder, Steve Case, George Mitchell, Jim Kimsey, Mr. Co
 
 ## What's Still Missing
 
-1. DataSet 9 (181GB) — Musk emails likely here
-2. SDNY_00008596-08670 (Control Center door logs) — in FBI custody, never publicly released
-3. SDNY_00003701-04098 (TRU-SCOPE electronic logs) — produced to defense under protective order
+1. DataSet 9 (181GB), Musk emails likely here
+2. SDNY_00008596-08670 (Control Center door logs), in FBI custody, never publicly released
+3. SDNY_00003701-04098 (TRU-SCOPE electronic logs), produced to defense under protective order
 4. Watch Call phone records from Control Center #333
 5. 568 remaining unresolved redactions
 6. The "handheld video" the OIG acknowledged but didn't address
@@ -135,18 +135,18 @@ Ted Leonsis (VIDEO), Dan Snyder, Steve Case, George Mitchell, Jim Kimsey, Mr. Co
 *Investigation ongoing. 876,000+ documents processed. 22+ research files in vault. Corporate entity trace expanded from 46 to 56+ entities (KPMG count). 11 entities resolved. 35+ still unaccounted.*
 *The victims deserve justice. The truth is in the documents.*
 
-## Full Corpus Sweep v2 — May 25, 2026
+## Full Corpus Sweep v2, May 25, 2026
 
 ### 834,961 documents | 114 search terms | 170,444 total hits
 
 ### TOP UNIDENTIFIED PERSONS (require research)
 | Name | Hits | Notes |
 |------|------|-------|
-| Amanda Kirby | 5,990 | One of most mentioned people in entire corpus — WHO IS SHE? |
-| Barbro | 1,555 | Appears on "People To See" lists — identity unknown |
-| Joscha Bach | 2,141 | AI researcher — far more connected than expected |
-| Bobby Slayton | 1,413 | Comedian, stayed at Epstein apt 7J — why 1,413 doc appearances? |
-| Nay Gupta | 291 | In email chains with Paul Morris — unidentified |
+| Amanda Kirby | 5,990 | One of most mentioned people in entire corpus, WHO IS SHE? |
+| Barbro | 1,555 | Appears on "People To See" lists, identity unknown |
+| Joscha Bach | 2,141 | AI researcher, far more connected than expected |
+| Bobby Slayton | 1,413 | Comedian, stayed at Epstein apt 7J, why 1,413 doc appearances? |
+| Nay Gupta | 291 | In email chains with Paul Morris, unidentified |
 | Dick Merkin | 275 | Identity unclear |
 | Ben Sosenko | 72 | Unknown |
 | Christian Glauser | 159 | Unknown |

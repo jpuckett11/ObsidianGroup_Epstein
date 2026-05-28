@@ -21,7 +21,7 @@ Re: Freedom of Information Act Request
 
 Dear FOIA Officers:
 
-Under the Freedom of Information Act, 5 U.S.C. § 552, I hereby request all documents, memoranda, communications, and briefing materials held by the Department of State or the Department of Justice relating to any characterization of Jeffrey Epstein as an intelligence asset, intelligence source, or person affiliated with any intelligence service — domestic or foreign — including but not limited to:
+Under the Freedom of Information Act, 5 U.S.C. § 552, I hereby request all documents, memoranda, communications, and briefing materials held by the Department of State or the Department of Justice relating to any characterization of Jeffrey Epstein as an intelligence asset, intelligence source, or person affiliated with any intelligence service, domestic or foreign, including but not limited to:
 
 (a) Any document recording, referencing, or contextualizing the statement attributed to Alexander Acosta that he was told Jeffrey Epstein "belonged to intelligence" and to "leave it alone," as first reported by Vicky Ward in The Daily Beast on July 9, 2019, sourced to an anonymous former senior White House official;
 

@@ -15,7 +15,7 @@ Re: Freedom of Information Act Request
 
 Dear FOIA Officer:
 
-Under the Freedom of Information Act, 5 U.S.C. § 552, I hereby request copies of all documents relating to the authorization to destroy evidence item 1B60 — the master recording of archived video images from the Metropolitan Correctional Center in New York City — including:
+Under the Freedom of Information Act, 5 U.S.C. § 552, I hereby request copies of all documents relating to the authorization to destroy evidence item 1B60, the master recording of archived video images from the Metropolitan Correctional Center in New York City, including:
 
 (a) The identity of the FBI agent who requested destruction authorization;
 (b) The identity of the supervisor who approved the request;

@@ -1,4 +1,4 @@
-# THE REAL NUMBER — Why $690M Is a Lie
+# THE REAL NUMBER, Why $690M Is a Lie
 
 ## The Question
 
@@ -6,9 +6,9 @@ Elon Musk: $200B+. Owns a private island? No.
 Bill Gates: $130B+. Owns a private island? No.
 Jeff Bezos: $200B+. Bought one island for $78M in 2024.
 
-Jeffrey Epstein — NO verified clients, NO audited financials, NO regulatory filings — owned:
+Jeffrey Epstein, NO verified clients, NO audited financials, NO regulatory filings, owned:
 - $77M+ Manhattan mansion (7 stories, 21,000 sq ft)
-- TWO Caribbean islands (Little St. James + Great St. James — $18M)
+- TWO Caribbean islands (Little St. James + Great St. James, $18M)
 - 8,000-acre New Mexico ranch
 - Paris apartment on Avenue Foch
 - 301 E 66th Street apartment complex
@@ -29,8 +29,8 @@ Estate valued at $690M? With no verified income source?
 | Wexner Children's Trust II | $18M single wire (Nov 2007) | Email: Kahn to Peg Ugland |
 | Tommy Mottola | $25M stock + cash (Dec 2005) | Email corpus |
 | FTC to Bear Stearns fund | $15M (Jan 2004) | Email: Harry Beller |
-| Coinbase investment | $3M (2015) — worth $300-500M at IPO | Pierce emails, public filings |
-| Wexner total | UNKNOWN — power of attorney over $4.6B fortune | 14 EFTA references |
+| Coinbase investment | $3M (2015), worth $300-500M at IPO | Pierce emails, public filings |
+| Wexner total | UNKNOWN, power of attorney over $4.6B fortune | 14 EFTA references |
 
 ### Banking Flows
 | Bank | Documented Volume | Issue |
@@ -66,15 +66,15 @@ Estate valued at $690M? With no verified income source?
 
 ## WHAT'S NOT COUNTED
 
-1. **Wexner POA period** — power of attorney over $4.6B fortune for years. Even 5% = $230M
-2. **Crypto** — Coinbase stake alone worth $300-500M at IPO. Blockstream. BitFury. Unknown BTC wallets
-3. **35 unsettled entities** — contents unknown
-4. **Sberbank receiving accounts** — never subpoenaed
-5. **Cash operations** — $300/visit x hundreds of victims x years = millions in cash alone
-6. **Art collection** — mansion full of valuable works, never publicly inventoried
-7. **BNY Mellon's $378M** — where did it go? 270 wires, zero explained
-8. **The $170M from Black** — $100M without a contract. For what?
-9. **2005 computer** — 16 EnCase DVDs, never searched in 21 years
+1. **Wexner POA period**, power of attorney over $4.6B fortune for years. Even 5% = $230M
+2. **Crypto**, Coinbase stake alone worth $300-500M at IPO. Blockstream. BitFury. Unknown BTC wallets
+3. **35 unsettled entities**, contents unknown
+4. **Sberbank receiving accounts**, never subpoenaed
+5. **Cash operations**, $300/visit x hundreds of victims x years = millions in cash alone
+6. **Art collection**, mansion full of valuable works, never publicly inventoried
+7. **BNY Mellon's $378M**, where did it go? 270 wires, zero explained
+8. **The $170M from Black**, $100M without a contract. For what?
+9. **2005 computer**, 16 EnCase DVDs, never searched in 21 years
 
 ## THE REAL NUMBER
 
@@ -118,11 +118,11 @@ From Epstein's own financial staff emails (Kahn, Klein, Indyke, Ugland, Kellerha
 - August 6, 2014 alone: $830M+ moved in ONE DAY ($227M + $220M + $207M + $175M)
 - October 21, 2016: Two $300M transactions on one day
 
-### Property Empire — Liquidation Values
+### Property Empire, Liquidation Values
 | Property | Listed/Valued | Sold For | Loss |
 |----------|--------------|----------|------|
 | 9 E 71st Manhattan | $88M listing | $51M (Mar 2021) | -$37M |
-| Palm Beach estate | ~$25M | $18.5M (Jan 2021), lot flipped to $26M | — |
+| Palm Beach estate | ~$25M | $18.5M (Jan 2021), lot flipped to $26M |, |
 | LSJ + GSJ islands | $125M listing | $60M (May 2023) | -$65M |
 | Zorro Ranch NM | $27.5M listing | Undisclosed (Aug 2023) | Unknown |
 | Paris apartment | €8.7M valued | ~€10M (2022) | +€1.3M |
@@ -130,7 +130,7 @@ From Epstein's own financial staff emails (Kahn, Klein, Indyke, Ugland, Kellerha
 
 Properties sold for $160M. Listed at $265M+. The estate lost $100M+ on liquidation.
 
-### Crypto Holdings — The Black Box
+### Crypto Holdings, The Black Box
 - Coinbase: $3M invested (2015). Sold $15M to Blockchain Capital (2018). Still held equity at death.
 - Blockstream: $500K invested (confirmed). Current value unknown.
 - No Bitcoin wallet addresses found in corpus OR in DOJ releases
@@ -140,7 +140,7 @@ Properties sold for $160M. Listed at $265M+. The estate lost $100M+ on liquidati
 ### The IRS Refund
 The estate received a **$112 MILLION IRS TAX REFUND**.
 As of March 2025, the estate still held $131M including this refund.
-The IRS gave $112M BACK to a sex trafficking estate — while never having audited the transactions.
+The IRS gave $112M BACK to a sex trafficking estate, while never having audited the transactions.
 
 ### The Complete Picture
 

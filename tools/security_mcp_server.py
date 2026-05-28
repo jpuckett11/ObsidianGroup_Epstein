@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-security-mcp — Reverse-engineering MCP for malware and connected-device analysis.
+security-mcp, Reverse-engineering MCP for malware and connected-device analysis.
 
 Built 2026-05-21 for the Atoto/Suding investigation workflow. Tools are designed
 for ANALYSIS of devices the operator owns and authorizes themselves to study,
@@ -275,7 +275,7 @@ def lpunpack_super(super_img: str, partition: str | None = None, out_dir: str | 
     s = _require_path(super_img)
     lpunpack = Path("/tmp/lpunpack/lpunpack.py")
     if not lpunpack.exists():
-        return {"error": "lpunpack.py not found at /tmp/lpunpack/lpunpack.py — download from github.com/unix3dgforce/lpunpack"}
+        return {"error": "lpunpack.py not found at /tmp/lpunpack/lpunpack.py, download from github.com/unix3dgforce/lpunpack"}
     if info_only:
         res = _run(["python3", str(lpunpack), "--info", str(s)], timeout=LONG_TIMEOUT)
         return {"info": _truncate(res["stdout"])}
@@ -540,7 +540,7 @@ def nmap_script_scan(target: str, script: str = "default", ports: str = "1-1000"
 @mcp.tool()
 def masscan_scan(target: str, ports: str = "0-65535", rate: int = 1000, timeout: int = 600) -> str:
     """Fast wide-port scan via masscan. Requires root. Authorized targets only.
-    Rate above 10000 can saturate links — start low."""
+    Rate above 10000 can saturate links, start low."""
     if not _have("masscan"):
         return "masscan not installed"
     return _truncate(_run(["sudo", "masscan", "-p", ports, "--rate", str(rate), target], timeout=timeout)["stdout"])
@@ -568,7 +568,7 @@ def traceroute_to(target: str, max_hops: int = 30) -> str:
 
 @mcp.tool()
 def httpx_probe(targets: list[str], timeout: int = 60) -> str:
-    """HTTP probe via projectdiscovery httpx — fast check of which targets respond on HTTP/S."""
+    """HTTP probe via projectdiscovery httpx, fast check of which targets respond on HTTP/S."""
     if not _have("httpx"):
         return "httpx not installed"
     with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, dir=str(SCRATCH)) as f:
@@ -787,7 +787,7 @@ def ssdeep_compare(file1: str, file2: str) -> str:
 
 @mcp.tool()
 def pdf_extract_text(pdf_path: str) -> str:
-    """Extract plaintext from a PDF (pdftotext) — useful for analyzing suspicious PDFs without rendering."""
+    """Extract plaintext from a PDF (pdftotext), useful for analyzing suspicious PDFs without rendering."""
     if not _have("pdftotext"):
         return "pdftotext not installed (apt install poppler-utils)"
     p = _require_path(pdf_path)

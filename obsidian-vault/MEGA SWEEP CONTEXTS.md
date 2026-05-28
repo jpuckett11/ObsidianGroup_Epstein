@@ -1,4 +1,4 @@
-# Mega Sweep Final — Key Contexts
+# Mega Sweep Final, Key Contexts
 
 
 === Peter Mandelson (2849 hits) ===
@@ -157,23 +157,23 @@
 ### "CREAM CHEESE" IS NOT A CODE WORD
 Multiple occurrences are LITERAL food orders: "from barney greengrass get 1000 dollars worth of stuff, chopped liver smoked salmon etc bagels cream cheese and send to noam and valeria chomsky fed ex"
 - Epstein was FedEx'ing $1,000 deli orders to Chomsky
-- REMOVE from code word list — at least partially. Some contexts may still be code but the majority are food orders.
+- REMOVE from code word list, at least partially. Some contexts may still be code but the majority are food orders.
 
 ### CORINA TARNITA IS A HARVARD ACADEMIC
 - NOT just a "Romanian payment facilitator"
 - She's a professor connected to Martin Nowak (Harvard evolutionary dynamics)
-- The €10,000 to "a girl in Romania" needs re-examination — was this academic funding or exploitation?
+- The €10,000 to "a girl in Romania" needs re-examination, was this academic funding or exploitation?
 - Connected to Epstein through the Harvard science network, not trafficking
 
 ---
 
 ## KEY NEW FINDINGS
 
-### VICTIM'S VOICE — "I AM NOT A MASSAGE GIRL"
+### VICTIM'S VOICE, "I AM NOT A MASSAGE GIRL"
 "I am so disappointed in people.. I am not a massage girl, for that you call a special number.. I dont want to live in this dirty world."
 - Appears 4 times across different documents
 - A woman in anguish about being categorized as a "massage girl"
-- "I dont want to live in this dirty world" — suicidal ideation from a victim/associate
+- "I dont want to live in this dirty world", suicidal ideation from a victim/associate
 
 ### CROWN PRINCESS OF NORWAY AT CERN WITH EPSTEIN NETWORK
 "the beautiful young crown princess of norway wishes you were here"
@@ -206,10 +206,10 @@ EFTA01595652: "DEBIT CARD PAYMENT, GLOBAL GIRL $152.43"
 
 ---
 
-## PETER MANDELSON — 2,849 HITS — DEEP DIVE
+## PETER MANDELSON, 2,849 HITS, DEEP DIVE
 
 - Former UK Cabinet minister, EU Trade Commissioner
-- Called Epstein "my best pal" — "wherever he is in the world"
+- Called Epstein "my best pal", "wherever he is in the world"
 - $75,000 in wire transfers to Mandelson accounts (2003-2004)
 - £10,000 for husband's osteopathy course
 - LEAKED market-sensitive UK government info to Epstein during 2008 financial crisis
@@ -228,24 +228,24 @@ EFTA01595652: "DEBIT CARD PAYMENT, GLOBAL GIRL $152.43"
 - The €10,000 "to a girl in Romania" needs re-examination
 - This may be academic funding routed through Epstein's network
 - We MUST correct any implication that she facilitated trafficking
-- She received legitimate research funding — connected through Harvard, not exploitation
+- She received legitimate research funding, connected through Harvard, not exploitation
 - Our reputation depends on this kind of accuracy
 
-## MARTIN NOWAK — $11.5M TOTAL
+## MARTIN NOWAK, $11.5M TOTAL
 - $6.5M to Program for Evolutionary Dynamics
 - $5M in Epstein's trust/will
 - Program permanently closed (2021)
 - Nowak placed on leave TWICE (2021, Feb 2026)
-- Epstein deeply involved in the center — not just a donor
+- Epstein deeply involved in the center, not just a donor
 
 ---
 
-## MANDELSON — €500 BILLION INSIDER TIP
+## MANDELSON, €500 BILLION INSIDER TIP
 
 ### The Specific Leaks (from Wikipedia, NPR, CNN):
 1. Government asset sale internal report (post-crisis fundraising plans)
-2. €500 BILLION euro bailout — tipped Epstein HOURS before announcement (May 2010)
-3. Banker bonus tax details — told Epstein associates to "mildly threaten" UK Chancellor
+2. €500 BILLION euro bailout, tipped Epstein HOURS before announcement (May 2010)
+3. Banker bonus tax details, told Epstein associates to "mildly threaten" UK Chancellor
 4. Government assessed: documents contained "likely market-sensitive information"
 
 ### Significance:
@@ -256,20 +256,20 @@ EFTA01595652: "DEBIT CARD PAYMENT, GLOBAL GIRL $152.43"
 - 2,849 document hits = one of deepest relationships in entire corpus
 - Arrested Feb 2026 alongside Prince Andrew
 
-## MELANIE SPINELLA — IDENTIFIED
+## MELANIE SPINELLA, IDENTIFIED
 
 - Leon Black's executive assistant
-- 9,659 document mentions — interface between Black and Epstein
+- 9,659 document mentions, interface between Black and Epstein
 - Coordinated: tax planning, art deals, business restructuring
 - Phaidon + Art Space = $96M combined basis restructuring through Epstein
 - Phaidon = major art book publisher
 - This connects to the Haze Trust art liquidation pipeline
 - Art businesses being restructured through a sex trafficker's advisory
 
-## PHAIDON + ART SPACE — NEW ENTITIES
+## PHAIDON + ART SPACE, NEW ENTITIES
 - Phaidon Press: major international publisher of books on art, architecture, design, photography
 - Art Space: online art marketplace
 - $96M combined basis = substantial art business holdings
-- Restructured through Epstein's "advisory" — why does art restructuring need a sex trafficker?
+- Restructured through Epstein's "advisory", why does art restructuring need a sex trafficker?
 - Connected to: Haze Trust ($49.5M), Giacometti storage, Christie's/Sotheby's liquidation, Latchford Cambodia pipeline
 - Leon Black's entire art empire was intertwined with Epstein

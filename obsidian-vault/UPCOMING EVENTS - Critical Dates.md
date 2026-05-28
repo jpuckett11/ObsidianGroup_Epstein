@@ -1,4 +1,4 @@
-# Upcoming Critical Events — Epstein Investigation
+# Upcoming Critical Events, Epstein Investigation
 ## Last Updated: May 25, 2026
 
 ---
@@ -7,7 +7,7 @@
 
 | Date | Event | Significance |
 |------|-------|-------------|
-| **Jun 9, 2026** | Lesley Groff testimony (House Oversight) | Epstein's gatekeeper — coordinated ALL meetings, travel, scheduling for decades. Knows who went where and when. |
+| **Jun 9, 2026** | Lesley Groff testimony (House Oversight) | Epstein's gatekeeper, coordinated ALL meetings, travel, scheduling for decades. Knows who went where and when. |
 | **Jun 10, 2026** | Bill Gates testimony (House Oversight) | 2017 "pandemic" investment emails with Epstein + Nikolic. Mila Antonova blackmail. $2M donation to MIT via Epstein. |
 | Imminent | Sarah Kellen transcript release | Named 3 abusers (Fekkai, Levine, Demarchelier). Her own abuse testimony. Victim names to be redacted first. |
 | Ongoing | Peter Mandelson bail conditions (UK) | Arrested Feb 23, 2026. OLAF investigation into €500B insider tip. Flight risk flagged. |

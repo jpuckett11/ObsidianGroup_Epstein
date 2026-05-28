@@ -13,7 +13,7 @@ Masha Drokova (now Masha Bucher) is mentioned **1,627 times** in the Epstein fil
 | "1:00pm Appt w/Masha Drokova (Yury is her assistant)" | EFTA02212936 |
 | "May 16th at 1pm with Masha. Jeffrey's home address is 9 East 71st" | EFTA02213269 |
 | "Thank you for Masha's cell...we will see her tomorrow" | EFTA02213288 |
-| "Direct flights only—Change dates to May 17 return 18 Moscow/Paris" | EFTA02213034 |
+| "Direct flights only, Change dates to May 17 return 18 Moscow/Paris" | EFTA02213034 |
 | "She has Russian passport, correct?" | EFTA02213071 |
 | "send me please, new ticket back to Moscow?" | EFTA02213073 |
 | "from Vladivostok to Moscow tomorrow and after Moscow - NY" | EFTA02213027 |
@@ -57,7 +57,7 @@ Epstein's assistant (Lesley Groff) coordinated:
 
 > "He made me feel I could be safe from the regime, someone with power and connections who could shield me from those threats"
 
-(Claims she sought protection from Russian government — but was a Putin Youth activist)
+(Claims she sought protection from Russian government, but was a Putin Youth activist)
 
 ---
 
@@ -83,7 +83,7 @@ These are among the most sensitive, strategically important technology sectors i
 | Epstein's money funded it | Epstein's connections enabled it |
 | Surveillance of Americans | Access to sensitive US technology |
 
-FBI documentation: **"influences from Russia and Israel on [Presidential pardons]"** — confirming the dual nature of the operation.
+FBI documentation: **"influences from Russia and Israel on [Presidential pardons]"**, confirming the dual nature of the operation.
 
 ---
 
@@ -124,7 +124,7 @@ From scheduling: "Can Nadia see JE today or tomorrow? **Terje's friend**"
 
 Actual bank wire transfer records from Epstein's FirstBank Puerto Rico account:
 
-### Wire 1: Irkutsk, Siberia — $10,000
+### Wire 1: Irkutsk, Siberia, $10,000
 | Field | Value |
 |-------|-------|
 | Date | February 11, 2016 |
@@ -139,7 +139,7 @@ Actual bank wire transfer records from Epstein's FirstBank Puerto Rico account:
 
 Note: "Badmaevich" is a Buryat patronymic. Buryatia is in eastern Siberia. The scheduling docs show travel "from Ulan-Ude" (capital of Buryatia) to Moscow to NY.
 
-### Wire 2: Moscow — $20,000
+### Wire 2: Moscow, $20,000
 | Field | Value |
 |-------|-------|
 | Date | February 11, 2016 |
@@ -151,7 +151,7 @@ Note: "Badmaevich" is a Buryat patronymic. Buryatia is in eastern Siberia. The s
 | SWIFT | SABRRUM3XXX |
 | Purpose | "EXPENSE REIMBURSEMENT" |
 
-### Wire 3: Vilnius, Lithuania — $1,089
+### Wire 3: Vilnius, Lithuania, $1,089
 | Field | Value |
 |-------|-------|
 | Date | March 1, 2016 |
@@ -159,7 +159,7 @@ Note: "Badmaevich" is a Buryat patronymic. Buryatia is in eastern Siberia. The s
 | Bank | SWEDBANK AB, VILNIUS |
 | Purpose | "EXPENSE REIMBURSEMENT" |
 
-### Wire 4: London, UK — $4,355
+### Wire 4: London, UK, $4,355
 | Field | Value |
 |-------|-------|
 | Date | March 1, 2016 |
@@ -172,7 +172,7 @@ Note: "Badmaevich" is a Buryat patronymic. Buryatia is in eastern Siberia. The s
 - All routed through: Bank of New York Mellon, NYC
 - All labeled: "EXPENSE REIMBURSEMENT" (vague justification)
 - The Irkutsk/Buryatia wire connects directly to the scheduling docs showing travel from "Ulan-Ude to Moscow to NY"
-- Epstein was paying people in remote eastern Siberia — either recruiting, paying operatives, or reimbursing travel
+- Epstein was paying people in remote eastern Siberia, either recruiting, paying operatives, or reimbursing travel
 - The pattern: **Russia (Siberia) → Moscow → Paris → New York** matches Masha Drokova's documented travel path
 
 ---

@@ -1,6 +1,6 @@
 # Israeli Document Corroboration: Independent Sources Confirm Our Findings
 
-## Multiple independent sources — including hacked Israeli emails, FBI memos from separate offices, and investigative journalism — corroborate findings from our 834,961-document extraction.
+## Multiple independent sources, including hacked Israeli emails, FBI memos from separate offices, and investigative journalism, corroborate findings from our 834,961-document extraction.
 
 ---
 
@@ -43,24 +43,24 @@
 
 1. **Rafi Shlomo fully identified**: Director of Protective Services, Israeli Mission to the UN, head of Barak's security detail
 
-2. **Remote deactivation capability**: The alarm system could "**neutralize the system from far, before you need somebody to enter the apartment**" — meaning Israeli officials could remotely disarm security from the consulate
+2. **Remote deactivation capability**: The alarm system could "**neutralize the system from far, before you need somebody to enter the apartment**", meaning Israeli officials could remotely disarm security from the consulate
 
-3. **Background checks on Epstein's staff**: Shlomo "conducted background checks on Epstein's employees and cleaning staff" — Israeli intelligence was vetting who had access to the building
+3. **Background checks on Epstein's staff**: Shlomo "conducted background checks on Epstein's employees and cleaning staff", Israeli intelligence was vetting who had access to the building
 
-4. **Institutional succession**: "By November 2017, Shlomo had been **replaced by another Israeli official** who managed security and surveillance for Barak" — when one officer rotated out, another took over the SAME function. This proves it was an institutional government operation, not a personal arrangement.
+4. **Institutional succession**: "By November 2017, Shlomo had been **replaced by another Israeli official** who managed security and surveillance for Barak", when one officer rotated out, another took over the SAME function. This proves it was an institutional government operation, not a personal arrangement.
 
 5. **Two-year minimum operation**: "The security operation at 'Ehud's apartment' was in place for **at least two years**"
 
 | Our Finding | Drop Site Expansion |
 |-------------|-------------------|
 | "call Rafi to disarm" (EFTA02213518) | Rafi Shlomo = Israeli Mission security director; system had REMOTE deactivation |
-| Apartment 11J identified | "Ehud's apartment" — staff referred to it by Barak's name |
+| Apartment 11J identified | "Ehud's apartment", staff referred to it by Barak's name |
 | Israeli security inferred | Confirmed: equipment installation, background checks, access control |
-| One officer (Rafi) identified | Institutional rotation: Shlomo replaced by successor — proves government operation |
+| One officer (Rafi) identified | Institutional rotation: Shlomo replaced by successor, proves government operation |
 
 ---
 
-## Source 4: Leaked Emails — Israel-Russia Backchannel
+## Source 4: Leaked Emails, Israel-Russia Backchannel
 
 **What**: Middle East Monitor (November 2025) reported leaked emails
 **Content**: "Epstein helped Israel build a backchannel to Russia"
@@ -80,7 +80,7 @@
 
 | Our Finding | Jmail Archive |
 |-------------|---------------|
-| EFTA02731082: Epstein had "power of attorney" for Wexner | "Please ask Jeffrey if I can transfer" — controlled all finances |
+| EFTA02731082: Epstein had "power of attorney" for Wexner | "Please ask Jeffrey if I can transfer", controlled all finances |
 | FBI log: "WEXNER FOUNDATION - financial connection to JEFFREY EPSTEIN" | Eight-figure transfers required Epstein's approval |
 | Wexner Foundation $185K to Interlochen (EFTA01265496) | Foundation funded multiple Israel-connected initiatives |
 
@@ -88,14 +88,14 @@
 
 ## The Critical Corroboration: Institutional Operation
 
-The single most important finding from external sources is the **Rafi Shlomo succession**. Our documents show "call Rafi to disarm" — suggesting one individual's involvement. But Drop Site's investigation reveals that when Shlomo rotated out, **another Israeli official took over the same security function**.
+The single most important finding from external sources is the **Rafi Shlomo succession**. Our documents show "call Rafi to disarm", suggesting one individual's involvement. But Drop Site's investigation reveals that when Shlomo rotated out, **another Israeli official took over the same security function**.
 
 This proves:
 1. It was NOT a personal favor from one officer
 2. It was an **institutional Israeli government operation**
 3. The Israeli Mission to the UN formally managed security at an Epstein property
 4. The operation persisted regardless of which individual was assigned
-5. This is how intelligence services operate — roles transfer with the institution, not the person
+5. This is how intelligence services operate, roles transfer with the institution, not the person
 
 ---
 
@@ -120,6 +120,6 @@ This proves:
 
 ---
 
-*Five independent sources — DOJ production, hacked Israeli emails, FBI LA field office, investigative journalism, and whistleblower email archives — all corroborate the same conclusion: this was an institutional Israeli government intelligence operation managed through Epstein's properties.*
+*Five independent sources, DOJ production, hacked Israeli emails, FBI LA field office, investigative journalism, and whistleblower email archives, all corroborate the same conclusion: this was an institutional Israeli government intelligence operation managed through Epstein's properties.*
 
 *Last updated: 2026-05-25*

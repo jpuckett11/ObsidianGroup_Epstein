@@ -1,6 +1,6 @@
 # Peter Thiel: The $170 Million Connection
 
-## Epstein's Largest Estate Asset — and the Bridge to Palantir's Israeli Military Partnership
+## Epstein's Largest Estate Asset, and the Bridge to Palantir's Israeli Military Partnership
 
 ---
 
@@ -21,9 +21,9 @@
 
 ```
 EPSTEIN (intelligence-linked financier)
-  ├── 2013: Audio recording — advises Barak to look into Thiel and Palantir
-  ├── 2014: June dinner at Epstein's Manhattan apartment — Epstein + Thiel + Barak
-  ├── 2014: Nov — Thiel emails Epstein soliciting $10-20M for Valar Ventures
+  ├── 2013: Audio recording, advises Barak to look into Thiel and Palantir
+  ├── 2014: June dinner at Epstein's Manhattan apartment, Epstein + Thiel + Barak
+  ├── 2014: Nov, Thiel emails Epstein soliciting $10-20M for Valar Ventures
   ├── 2015-2016: Epstein invests $40M in Valar Ventures
   ├── Arranged AT LEAST 6 separate meetings between Thiel and Barak
   │
@@ -33,7 +33,7 @@ EPSTEIN (intelligence-linked financier)
   │   └── Claimed Epstein "co-owned" Thiel fund
   │
   └── THIEL (Palantir founder, Founders Fund)
-      ├── Founders Fund invested $15M in Carbyne (2018) — arranged by Epstein
+      ├── Founders Fund invested $15M in Carbyne (2018), arranged by Epstein
       ├── Palantir → Israel Ministry of Defense partnership
       │   └── BEGAN WITH EPSTEIN'S INTRODUCTIONS
       ├── Palantir now supplies AI targeting tools to Israeli military
@@ -45,7 +45,7 @@ EPSTEIN (intelligence-linked financier)
 
 Epstein's introductions between Thiel and Barak directly resulted in:
 1. **Palantir's strategic partnership with Israel's Ministry of Defense**
-2. **Palantir AI targeting tools supplied to Israeli military** — currently used in Gaza and Iran
+2. **Palantir AI targeting tools supplied to Israeli military**, currently used in Gaza and Iran
 3. **Founders Fund investing in Carbyne** (Unit 8200 911 surveillance)
 4. **$170 million of Epstein's estate money** sitting in Thiel's fund
 
@@ -63,7 +63,7 @@ The $170M is in a venture fund with lockup periods. The estate has been paying o
 
 ## THE AUDIO RECORDING
 
-A February 2013 audio recording exists of Epstein advising Barak to look into Thiel and Palantir. This is Epstein functioning as an intelligence broker — connecting a former Israeli PM with the founder of America's most powerful surveillance company. The recording was released as part of the DOJ Epstein files.
+A February 2013 audio recording exists of Epstein advising Barak to look into Thiel and Palantir. This is Epstein functioning as an intelligence broker, connecting a former Israeli PM with the founder of America's most powerful surveillance company. The recording was released as part of the DOJ Epstein files.
 
 ## PETER THIEL'S CURRENT INFLUENCE
 
@@ -74,10 +74,10 @@ A February 2013 audio recording exists of Epstein advising Barak to look into Th
 - UK government: Palantir NHS contracts (£330M)
 - Former Israeli PM Barak claimed co-ownership of venture fund
 
-## ANDREW FARKAS — ANOTHER THIEL-TIER CONNECTION
+## ANDREW FARKAS, ANOTHER THIEL-TIER CONNECTION
 
 From the "People To See" lists and scheduling:
-- **Andrew Farkas** — $2.34B real estate billionaire (Island Capital Group)
+- **Andrew Farkas**, $2.34B real estate billionaire (Island Capital Group)
 - Called Epstein "one of the blessings in my life" and "one of the bravest men I've ever known"
 - **Owned 50% of American Yacht Harbor with Epstein** (the other 50%)
 - Nearly 2,000 emails between them in DOJ files
@@ -87,7 +87,7 @@ From the "People To See" lists and scheduling:
 ## THE SWISS BANKING LAYER
 
 Epstein's connections to Swiss banking:
-- **Julius Baer** — received $27.7M Morocco wire transfers via Marc Leon
+- **Julius Baer**, received $27.7M Morocco wire transfers via Marc Leon
 - Epstein encouraged **de Rothschild to explore mergers with Julius Baer** (post-2015)
 - The Morocco palace funds routed: US (Schwab) → Switzerland (Julius Baer) → Morocco (Leon)
 - Multi-jurisdictional layering to obscure the money trail
@@ -112,6 +112,6 @@ Epstein's connections to Swiss banking:
 
 ---
 
-*$40M invested. $170M returned. Palantir now powers Israeli military targeting in Gaza — a partnership that began at a sex trafficker's dinner table. The largest asset in Epstein's estate is profit from the surveillance-industrial complex he helped build.*
+*$40M invested. $170M returned. Palantir now powers Israeli military targeting in Gaza, a partnership that began at a sex trafficker's dinner table. The largest asset in Epstein's estate is profit from the surveillance-industrial complex he helped build.*
 
 *Last updated: 2026-05-25*

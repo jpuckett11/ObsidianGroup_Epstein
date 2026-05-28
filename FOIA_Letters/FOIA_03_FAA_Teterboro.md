@@ -27,7 +27,7 @@ Specifically, I request:
 4. Any notations of diplomatic clearance, law enforcement priority, or special handling for any aircraft operating at KTEB during this period
 5. Records of all international flight plans filed from KTEB during this period, including destination countries
 
-This request is made in the public interest. Teterboro Airport is the primary general aviation and diplomatic aviation facility serving the New York City metropolitan area. Jeffrey Epstein was arrested at Teterboro on July 6, 2019 upon arrival from Paris. The airport is located approximately 12 miles from the Metropolitan Correctional Center. Teterboro's traffic during the night of August 9-10, 2019 — the night of the documented anomalies at MCC — has not been the subject of any public disclosure.
+This request is made in the public interest. Teterboro Airport is the primary general aviation and diplomatic aviation facility serving the New York City metropolitan area. Jeffrey Epstein was arrested at Teterboro on July 6, 2019 upon arrival from Paris. The airport is located approximately 12 miles from the Metropolitan Correctional Center. Teterboro's traffic during the night of August 9-10, 2019, the night of the documented anomalies at MCC, has not been the subject of any public disclosure.
 
 I am willing to pay fees for this request up to a maximum of $25.00. If the fees will exceed this amount, please contact me before processing.
 

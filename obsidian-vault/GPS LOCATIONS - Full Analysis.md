@@ -1,4 +1,4 @@
-# GPS Locations from Epstein Phone Media — Full Analysis
+# GPS Locations from Epstein Phone Media, Full Analysis
 
 ## 11 geotagged videos from 850 media files (all Apple iPhones, 2014-2019)
 
@@ -14,14 +14,14 @@
 | EFTA01621168.mov | 58.2495, 11.4593 | Jun 26, 2019 10:37 | **10 DAYS before arrest** |
 | EFTA01621169.mov | 58.2479, 11.4579 | Jun 27, 2019 23:14 | **9 DAYS before arrest** |
 
-**Assessment:** Marstrand is a wealthy Swedish coastal resort island near Gothenburg. Ehnbom ran her BBB network from Sweden, sending photos of young women to Epstein for "review." Princess Sofia met Epstein. The June 2019 visits — 9-13 days before arrest — suggest Epstein was actively recruiting/operating in Sweden up to the very end. Lawyer John Ray became suspicious of BBB after seeing "the number of young women present among significantly older men" at an Ehnbom conference.
+**Assessment:** Marstrand is a wealthy Swedish coastal resort island near Gothenburg. Ehnbom ran her BBB network from Sweden, sending photos of young women to Epstein for "review." Princess Sofia met Epstein. The June 2019 visits, 9-13 days before arrest, suggest Epstein was actively recruiting/operating in Sweden up to the very end. Lawyer John Ray became suspicious of BBB after seeing "the number of young women present among significantly older men" at an Ehnbom conference.
 
 ## LOCATION 2: KOH KONG, CAMBODIA (1 video)
 | File | GPS | Date | Significance |
 |------|-----|------|-------------|
 | EFTA01621033.mov | 10.7560, 103.2621 | **Dec 25, 2016 01:16** | **Christmas Day, 1 AM** |
 
-**Assessment:** Koh Kong province is documented as a trafficking corridor (US State Dept TIP reports). BUT — the Epstein files also reveal a **Leon Black/Douglas Latchford looted Cambodian antiquities pipeline**. A spreadsheet titled "Leon Black / Narrows South East Asian Art Inventory" lists $27.7M in bronze/stone statues from Cambodia/Thailand/Vietnam. Latchford was convicted of looting Cambodian national treasures. The Cardamom Mountains near Koh Kong contain major archaeological sites. The video may document an antiquities sourcing trip. The 1 AM timestamp on Christmas suggests activity done when nobody's looking.
+**Assessment:** Koh Kong province is documented as a trafficking corridor (US State Dept TIP reports). BUT, the Epstein files also reveal a **Leon Black/Douglas Latchford looted Cambodian antiquities pipeline**. A spreadsheet titled "Leon Black / Narrows South East Asian Art Inventory" lists $27.7M in bronze/stone statues from Cambodia/Thailand/Vietnam. Latchford was convicted of looting Cambodian national treasures. The Cardamom Mountains near Koh Kong contain major archaeological sites. The video may document an antiquities sourcing trip. The 1 AM timestamp on Christmas suggests activity done when nobody's looking.
 
 **Dual purpose:** Koh Kong is BOTH a trafficking corridor AND near archaeological sites. The Epstein network operated in both.
 
@@ -30,7 +30,7 @@
 |------|-----|------|-------------|
 | EFTA01621018.mov | 36.4972, -121.7527 | Feb 8, 2018 00:00 | Near Pebble Beach |
 
-**Assessment:** Extremely wealthy enclave. Home to Pebble Beach, Carmel-by-the-Sea. Tech billionaire territory — close to Silicon Valley. Peter Thiel, Epstein's $40M investor, operates from this region. The midnight timestamp is notable.
+**Assessment:** Extremely wealthy enclave. Home to Pebble Beach, Carmel-by-the-Sea. Tech billionaire territory, close to Silicon Valley. Peter Thiel, Epstein's $40M investor, operates from this region. The midnight timestamp is notable.
 
 ## LOCATION 4: MONTEREY / PACIFIC GROVE, CALIFORNIA (1 video)
 | File | GPS | Date | Significance |
@@ -44,7 +44,7 @@
 |------|-----|------|-------------|
 | EFTA01619211.mov | 42.0707, -74.1237 | Jun 23, 2018 19:03 | Near Woodstock |
 
-**Assessment:** Luxury retreat area 2 hours north of NYC. Historic Borscht Belt. Modern luxury resorts. Near Woodstock. Specific GPS coordinates place this near Tannersville/Hunter Mountain area — high-end vacation territory.
+**Assessment:** Luxury retreat area 2 hours north of NYC. Historic Borscht Belt. Modern luxury resorts. Near Woodstock. Specific GPS coordinates place this near Tannersville/Hunter Mountain area, high-end vacation territory.
 
 ## LOCATION 6: TULUM / RIVIERA MAYA, MEXICO (1 video)
 | File | GPS | Date | Significance |
@@ -59,14 +59,14 @@
 
 | File | Date | Duration | Notes |
 |------|------|----------|-------|
-| EFTA01621008.mov | Feb 16, 2013 01:19 AM | **3 hrs 27 min** | Extremely long late-night recording — NO GPS |
+| EFTA01621008.mov | Feb 16, 2013 01:19 AM | **3 hrs 27 min** | Extremely long late-night recording, NO GPS |
 | EFTA01621007.mov | Jan 26, 2013 8:31 PM | 25 min | Long evening recording |
-| EFTA01619495.m4a | Sept 21, 2016 | 12 min 44 sec | Audio only — conversation recording? |
+| EFTA01619495.m4a | Sept 21, 2016 | 12 min 44 sec | Audio only, conversation recording? |
 
 The 3-hour-27-minute video at 1:19 AM could be surveillance footage, a recorded encounter, or documentation. Without GPS or content access, its purpose is unknown.
 
 ## SOFTWARE FOUND IN METADATA
-**Adobe Premiere Pro CC 2018.0 (Windows)** — The same software platform used to reconstruct the MCC death video. Found in the metadata of Epstein-related media files. This doesn't prove the same instance was used, but it confirms the tool was in the Epstein media ecosystem.
+**Adobe Premiere Pro CC 2018.0 (Windows)**, The same software platform used to reconstruct the MCC death video. Found in the metadata of Epstein-related media files. This doesn't prove the same instance was used, but it confirms the tool was in the Epstein media ecosystem.
 
 ## DEVICE CHAIN (single person's phone upgrades)
 | Device | Count | Era |
@@ -80,7 +80,7 @@ The 3-hour-27-minute video at 1:19 AM could be surveillance footage, a recorded 
 | Apple iPhone X | 15 | 2017-2018 |
 | Apple iPhone XS | 65 | Sept 2018+ |
 
-Consistent with one person upgrading iPhones annually. The XS (65 files) being most common matches the 2019 arrest — that was the active phone when seized.
+Consistent with one person upgrading iPhones annually. The XS (65 files) being most common matches the 2019 arrest, that was the active phone when seized.
 
 ---
 

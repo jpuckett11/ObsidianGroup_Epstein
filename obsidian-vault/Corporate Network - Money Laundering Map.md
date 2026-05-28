@@ -11,7 +11,7 @@
 APOLLO GLOBAL MANAGEMENT (Leon Black / Marc Rowan)
 ├── Moscow/Kremlin "development" deals
 ├── Black "shares platform with Putin" at sovereign wealth fund
-├── Environmental Solutions Worldwide (Epstein investment — "money laundering shell")
+├── Environmental Solutions Worldwide (Epstein investment, "money laundering shell")
 ├── 666 Fifth Avenue financing (Kushner bailout via Brookfield)
 ├── Insurance industry takeover (using policy float as capital)
 ├── Knight Capital connection ("Russian/US Mafia/money laundering shell")
@@ -118,7 +118,7 @@ Per smw.ai/Bloomberg/ICIJ research:
 - FT Real Estate Inc.
 
 **Offshore/Financial:**
-- Liquid Funding Ltd. (Bermuda — Bear Stearns connection)
+- Liquid Funding Ltd. (Bermuda, Bear Stearns connection)
 - Financial Trust Company Inc.
 - 1953 Trust (final repository, created days before death)
 - Butterfly Trust (main trust vehicle)
@@ -146,14 +146,14 @@ The SEC whistleblower's dossier in the FBI evidence files maps:
 6. **Environmental Solutions** was an Epstein investment AND a confirmed laundering shell
 7. **Knight Capital** connected to both Blackstone and Russian/US Mafia laundering
 
-**This means the $158M that Black paid to Epstein may not have been "tax advice" OR "blackmail payments" — it may have been the cost of maintaining access to the laundering network itself.**
+**This means the $158M that Black paid to Epstein may not have been "tax advice" OR "blackmail payments", it may have been the cost of maintaining access to the laundering network itself.**
 
 ---
 
 ## Sources
 
 - COMBINED file pages 13886-13935 (SEC whistleblower dossier)
-- EFTA02731082 (prosecution memo — Environmental Solutions, Financial Trust Company)
+- EFTA02731082 (prosecution memo, Environmental Solutions, Financial Trust Company)
 - EFTA01273102 (wire transfers to Russia)
 - smw.ai/epstein-files/companies (full 46-entity list)
 - Bloomberg Tax: "The Shell Game: Untangling Jeffrey Epstein's Offshore Money Web"
@@ -162,4 +162,4 @@ The SEC whistleblower's dossier in the FBI evidence files maps:
 
 ---
 
-*The money laundering network connects private equity (Apollo/Blackstone), Russian state finance (Putin's sovereign wealth fund), real estate (Kushner/666 Fifth), and Epstein's offshore vehicles — all through the same group of individuals.*
+*The money laundering network connects private equity (Apollo/Blackstone), Russian state finance (Putin's sovereign wealth fund), real estate (Kushner/666 Fifth), and Epstein's offshore vehicles, all through the same group of individuals.*

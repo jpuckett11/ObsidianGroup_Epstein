@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Multiple independent evidence threads — FBI documents from our extraction, public reporting, witness testimony, and the operational structure itself — point to Jeffrey Epstein being part of an Israeli intelligence-linked influence/blackmail operation. This is not speculation: our document extraction contains FBI intelligence reports referencing "influences from Russia and Israel," and the Israeli government literally installed surveillance equipment at Epstein's apartment.
+Multiple independent evidence threads, FBI documents from our extraction, public reporting, witness testimony, and the operational structure itself, point to Jeffrey Epstein being part of an Israeli intelligence-linked influence/blackmail operation. This is not speculation: our document extraction contains FBI intelligence reports referencing "influences from Russia and Israel," and the Israeli government literally installed surveillance equipment at Epstein's apartment.
 
 ---
 
@@ -54,10 +54,10 @@ From our document extraction AND public record:
 
 ### 4. FBI Intelligence Reports (From Our Extraction)
 
-**EFTA02730486.pdf** — FBI evidence inventory includes:
+**EFTA02730486.pdf**, FBI evidence inventory includes:
 > "(U) [REDACTED] involvement in U.S. Presidential pardon petitions and influences from Russia and Israel on [REDACTED] and [REDACTED]"
 
-**EFTA02730741.pdf** — Master FBI case file includes:
+**EFTA02730741.pdf**, Master FBI case file includes:
 > "(U) Chabad's involvement in U.S. Presidential pardon petitions and influences from Russia and Israel on Pres[ident]"
 > "U WEXNER FOUNDATION - financial connection to JEFFREY EPSTEIN"
 
@@ -86,7 +86,7 @@ From our extraction (EFTA02730486.pdf, EFTA02730741.pdf):
 - Staff roster for 8/9/2019 and 8/10/2019 (the night of death)
 - Interviews of inmates including **Christopher Santos Felix**
 - "Canvass for Surveillance Cameras in the Vicinity of MCC"
-- **MCC SHU Video Reviews** — the cameras that allegedly "malfunctioned"
+- **MCC SHU Video Reviews**, the cameras that allegedly "malfunctioned"
 
 ---
 
@@ -236,7 +236,7 @@ By comparing EFTA02730486.pdf (heavily redacted) with EFTA02730741.pdf (less red
 - Deployed across US emergency services
 
 ### Who Runs It
-- **Pinchas Buchris** — cofounder, **former Director of Unit 8200** (Israel's NSA)
+- **Pinchas Buchris**, cofounder, **former Director of Unit 8200** (Israel's NSA)
 - Staffed "almost entirely by former Unit 8200 operatives"
 - **Peter Thiel's Founders Fund** joined $15M Series B (2018)
 
@@ -273,7 +273,7 @@ Sources:
 **EFTA02730486.pdf / EFTA02730741.pdf** (FBI evidence log):
 > "(U//FOUO) JUDGE RULES EPSTEIN ATTORNEYS CAN SUBPOENA ABORTION RECORDS"
 
-This confirms that abortion records were legally relevant to the case — corroborating the victim diary account of forced abortions.
+This confirms that abortion records were legally relevant to the case, corroborating the victim diary account of forced abortions.
 
 ---
 
@@ -290,7 +290,7 @@ A victim's handwritten diary/journal entry describes a **forced abortion** with 
 > "I can't stop shaking and it's been a week"
 > "I can't go to school like this" ← VICTIM IS A MINOR
 
-This connects an **Israeli medical professional** to the trafficking operation — specifically performing forced abortions on underage victims to destroy evidence of pregnancy. Maxwell was present supervising.
+This connects an **Israeli medical professional** to the trafficking operation, specifically performing forced abortions on underage victims to destroy evidence of pregnancy. Maxwell was present supervising.
 
 The document also includes what appears to be a poem titled "A Short Life" about stillbirth/infant death.
 
@@ -311,12 +311,12 @@ The document also includes what appears to be a poem titled "A Short Life" about
 The bequests were **increased from $2M to $5M per child** between trust versions. Total: up to $10 million to a UN diplomat's family.
 
 ### Operational Activity
-- "Terje suggested the two of you should meet" — Terje actively introduced people to Epstein
-- "6:30pm Doors Open for Terje's Opening of: Oslo" — Terje hosted events Epstein attended
+- "Terje suggested the two of you should meet", Terje actively introduced people to Epstein
+- "6:30pm Doors Open for Terje's Opening of: Oslo", Terje hosted events Epstein attended
 - "tickets to Oslo from Terje's office for Eva [Dubin] 4 tix?"
-- "Reference letter for Terje ron Larsen/ IPI" — Epstein wrote reference letters for Terje
-- "yes please! Three letters: Terje, Krauss, Novak" — Letters for Terje, Lawrence Krauss (physicist), and "Novak"
-- "Can Nadia see JE today or tomorrow? Terje's friend" — Nadia Marcinkova described as "Terje's friend"
+- "Reference letter for Terje ron Larsen/ IPI", Epstein wrote reference letters for Terje
+- "yes please! Three letters: Terje, Krauss, Novak", Letters for Terje, Lawrence Krauss (physicist), and "Novak"
+- "Can Nadia see JE today or tomorrow? Terje's friend", Nadia Marcinkova described as "Terje's friend"
 
 ### Significance
 Terje Rød-Larsen:
@@ -327,7 +327,7 @@ Terje Rød-Larsen:
 - He was actively introducing people to Epstein and arranging meetings
 - His social circle overlapped with Nadia Marcinkova (Epstein's live-in associate)
 
-This represents one of the deepest embeddings of a diplomatic figure in the Epstein network — far beyond what the "$130K loan" reporting suggested.
+This represents one of the deepest embeddings of a diplomatic figure in the Epstein network, far beyond what the "$130K loan" reporting suggested.
 
 ---
 
@@ -349,10 +349,10 @@ This directly places a Mega Group billionaire with intelligence-community ties a
 
 ## Additional VOL00010 Findings
 
-- **301 EAST 66TH ST APT 14G** — yet another apartment in the Epstein/Barak building
+- **301 EAST 66TH ST APT 14G**, yet another apartment in the Epstein/Barak building
 - **Wexner Foundation $185,000 donation 07/25/1994** to Interlochen Center for the Arts (a performing arts camp for young people)
-- **"265 East 66th Street"** — another Epstein-controlled address on the same block
-- **"Wertz 165E Israel"** — financial reference to Israel in banking records
+- **"265 East 66th Street"**, another Epstein-controlled address on the same block
+- **"Wertz 165E Israel"**, financial reference to Israel in banking records
 
 ---
 
@@ -361,16 +361,16 @@ This directly places a Mega Group billionaire with intelligence-community ties a
 | Evidence | Source | Significance |
 |----------|--------|-------------|
 | FBI: "Chabad's involvement in Presidential pardon petitions and influences from Russia and Israel" | EFTA02730741 | FBI investigating Chabad as Israel/Russia intermediary |
-| Ehud Barak — apartment 11J, ~30 visits | EFTA02213xxx series | Former Israeli PM had dedicated apartment |
-| Rafi Shlomo — Israeli security controlling apartment alarm | EFTA02213518 | Israeli government security apparatus |
-| Nili Priell Barak — direct email coordination | Multiple VOL11 docs | Barak's wife managing logistics |
-| Israeli doctor — forced abortion on minor victim | EFTA02731361 | Israeli medical professional in operation |
-| Ronald Lauder — dinner invitation | EFTA02213694 | Mega Group/IDC Herzliya funder at Epstein's |
-| Wexner Foundation — FBI flagged financial connection | EFTA02730741 | Mega Group primary funder of Epstein |
-| Wexner — power of attorney since 1991, $100M+ stolen | EFTA02731069/82 | Full financial control pipeline |
-| Robert Maxwell — Ghislaine's father, confirmed Mossad | Background | Origin of the intelligence network |
-| 301 East 66th Street — multiple apartments, Israeli security | Multiple docs | Operational base with state security |
-| FBI DOJ document — Epstein "trained as spy" under Barak | Public record 2026 | Direct intelligence recruitment claim |
+| Ehud Barak, apartment 11J, ~30 visits | EFTA02213xxx series | Former Israeli PM had dedicated apartment |
+| Rafi Shlomo, Israeli security controlling apartment alarm | EFTA02213518 | Israeli government security apparatus |
+| Nili Priell Barak, direct email coordination | Multiple VOL11 docs | Barak's wife managing logistics |
+| Israeli doctor, forced abortion on minor victim | EFTA02731361 | Israeli medical professional in operation |
+| Ronald Lauder, dinner invitation | EFTA02213694 | Mega Group/IDC Herzliya funder at Epstein's |
+| Wexner Foundation, FBI flagged financial connection | EFTA02730741 | Mega Group primary funder of Epstein |
+| Wexner, power of attorney since 1991, $100M+ stolen | EFTA02731069/82 | Full financial control pipeline |
+| Robert Maxwell, Ghislaine's father, confirmed Mossad | Background | Origin of the intelligence network |
+| 301 East 66th Street, multiple apartments, Israeli security | Multiple docs | Operational base with state security |
+| FBI DOJ document, Epstein "trained as spy" under Barak | Public record 2026 | Direct intelligence recruitment claim |
 
 ---
 

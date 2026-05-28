@@ -8,12 +8,12 @@
 
 ```
 DEVELOPMENT (Israel/Palestine)
-├── Basel System (OTI) — deployed at Erez/Gaza crossing 2003
+├── Basel System (OTI), deployed at Erez/Gaza crossing 2003
 │   ├── Facial + hand biometrics + contactless chip
 │   ├── 4-9 seconds per scan, 120,000 daily Palestinian workers monitored
 │   └── Expanded to 11+ checkpoints by 2011 (Bethlehem, Jenin, Nablus, Hebron, etc.)
 │
-├── FST Biometrics — IMID (In Motion Identification)
+├── FST Biometrics, IMID (In Motion Identification)
 │   ├── Founded by Maj. Gen. Aharon Ze'evi Farkash (FORMER DIRECTOR OF IDF MILITARY INTELLIGENCE)
 │   ├── Facial recognition + behavioral analytics + voice recognition
 │   ├── Identifies targets at distance while in-motion, no stop required
@@ -25,9 +25,9 @@ DEVELOPMENT (Israel/Palestine)
 │   ├── AI facial recognition scanning Palestinians at checkpoints
 │   ├── Scans faces without consent, adds to surveillance databases
 │   ├── Automatically determines who can pass checkpoint
-│   └── Powered by Oosto (formerly AnyVision) — 100,000 cameras, 40+ countries
+│   └── Powered by Oosto (formerly AnyVision), 100,000 cameras, 40+ countries
 │
-├── Elbit Systems — WISE Intelligence Technology (WIT)
+├── Elbit Systems, WISE Intelligence Technology (WIT)
 │   ├── Internet surveillance / telecommunications monitoring
 │   ├── $40 million Nigeria contract to monitor ALL internet communications
 │   ├── 20 Nigerian intelligence officers trained at Elbit HQ in Haifa
@@ -117,7 +117,7 @@ A sex trafficking blackmail operation funded surveillance technology development
 5. **Deployed** across 23 American states monitoring 250 million people's 911 calls
 6. **Acquired** by America's largest police technology company for $625 million
 
-The technology now captures: precise GPS location, live video from your phone camera, audio, text messages, behavioral analysis, smart car data, and caller metadata — every time anyone in those 23 states calls 911. And it was built by the same intelligence apparatus that installed surveillance at Epstein's Manhattan apartment building.
+The technology now captures: precise GPS location, live video from your phone camera, audio, text messages, behavioral analysis, smart car data, and caller metadata, every time anyone in those 23 states calls 911. And it was built by the same intelligence apparatus that installed surveillance at Epstein's Manhattan apartment building.
 
 ---
 
