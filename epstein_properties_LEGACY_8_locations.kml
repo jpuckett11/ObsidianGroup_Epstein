@@ -14,56 +14,56 @@
     <name>PRIMARY PROPERTIES (Owned)</name>
 
     <Placemark>
-      <name>THE HUB — 9 East 71st Street, Manhattan</name>
+      <name>THE HUB, 9 East 71st Street, Manhattan</name>
       <description>Primary operational HQ. Hidden cameras. Blackmail production. Surveillance infrastructure. Where heads of state met and victims were abused. The 5yo Israeli victim remembered the door.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>-73.9647,40.7710,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>THE AIRLOCK — 301 East 66th Street, Manhattan</name>
-      <description>Staging facility. Women arrived from Russia, Slovakia, Brazil — placed here before being moved to mansion. Israeli surveillance equipment. 4 blocks from HQ.</description>
+      <name>THE AIRLOCK, 301 East 66th Street, Manhattan</name>
+      <description>Staging facility. Women arrived from Russia, Slovakia, Brazil, placed here before being moved to mansion. Israeli surveillance equipment. 4 blocks from HQ.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>-73.9590,40.7638,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>RECRUITMENT CENTER — 358 El Brillo Way, Palm Beach</name>
+      <name>RECRUITMENT CENTER, 358 El Brillo Way, Palm Beach</name>
       <description>3,008 email references. Near Mar-a-Lago (Virginia Roberts recruited there at 16). Palm Beach PD investigation started here. Work release destination. Most-referenced property in corpus.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>-80.0374,26.6930,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>ISOLATION CHAMBER — Little St. James Island</name>
+      <name>ISOLATION CHAMBER, Little St. James Island</name>
       <description>72 acres. 4,292 flights. Maxwell 1,040 times. Clinton 25. Dershowitz 12. Spacey 11. No escape by land. Construction never stopped. USVI First Lady on payroll.</description>
       <styleUrl>#island</styleUrl>
       <Point><coordinates>-64.8251,18.3000,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>THE EXPANSION — Great St. James Island</name>
-      <description>165 acres. Purchased 2016 for $18-22.5M — AFTER conviction. Twice the size of LSJ. Adjacent — 1,100m boat ride. Helipad under construction. The machine was GROWING.</description>
+      <name>THE EXPANSION, Great St. James Island</name>
+      <description>165 acres. Purchased 2016 for $18-22.5M, AFTER conviction. Twice the size of LSJ. Adjacent, 1,100m boat ride. Helipad under construction. The machine was GROWING.</description>
       <styleUrl>#island</styleUrl>
       <Point><coordinates>-64.8289,18.3097,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>THE LABORATORY — Zorro Ranch, Stanley NM</name>
+      <name>THE LABORATORY, Zorro Ranch, Stanley NM</name>
       <description>8,000 acres. Genetics obsession. "Seeding the human race." Converting to Christian retreat (same pattern as ZSS). Glenn Dubin coordinated here. FBI victim allegations.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>-105.7600,35.1400,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>EUROPEAN GATEWAY — 22 Avenue Foch, Paris</name>
+      <name>EUROPEAN GATEWAY, 22 Avenue Foch, Paris</name>
       <description>685 sq meters. Entry point for Novosibirsk pipeline. "How many can we bring to Paris this time?" Brunel/MC2 operated from France. Near Arc de Triomphe.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>2.2850,48.8720,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>ESCAPE HATCH — Bin Ennakhil, Marrakech</name>
+      <name>ESCAPE HATCH, Bin Ennakhil, Marrakech</name>
       <description>$14.9M wired DAY BEFORE ARREST (Jul 5, 2019). Negotiated since 2011. No US extradition for citizens. Shuliak handling Morocco tax negotiations. One day too late.</description>
       <styleUrl>#escape</styleUrl>
       <Point><coordinates>-8.0100,31.6700,0</coordinates></Point>
@@ -74,77 +74,77 @@
     <name>OPERATIONAL LOCATIONS (Used, not owned)</name>
 
     <Placemark>
-      <name>MAXWELL BASE — 69 Stanhope Mews East, London SW7</name>
+      <name>MAXWELL BASE, 69 Stanhope Mews East, London SW7</name>
       <description>Maxwell's London residence. UK operations. Prince Andrew connection. Robert Maxwell MI6 connections.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>-0.1770,51.4950,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>NADIA PIPELINE — Prague, Czech Republic</name>
+      <name>NADIA PIPELINE, Prague, Czech Republic</name>
       <description>Nadia's father (architect) scouting properties 2007-2008. Multiple apartments. Hradčany, Vodičkova, river apartments. Eastern European staging.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>14.4180,50.0880,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>RUSSIAN PIPELINE — Novosibirsk, Russia</name>
+      <name>RUSSIAN PIPELINE, Novosibirsk, Russia</name>
       <description>227 email references. "Candidates.docx." "How many can we bring to Paris?" Aeroflot SU 1306 tracked in calendar. Sberbank FEDWIRE destination.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>82.9346,55.0084,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>MAR-A-LAGO — Palm Beach, FL</name>
+      <name>MAR-A-LAGO, Palm Beach, FL</name>
       <description>Virginia Roberts recruited here at 16. Epstein: "of course he knew about the girls as he asked ghislaine to stop." Trump's club.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>-80.0369,26.6773,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>ZEN STUDIES SOCIETY — Catskills, NY</name>
-      <description>1,400-acre Dai Bosatsu retreat. "Shall I bring her to temple?" — "yes." $1 asset transfers. Nadia's last known connection (2024). Religious infrastructure for financial opacity.</description>
+      <name>ZEN STUDIES SOCIETY, Catskills, NY</name>
+      <description>1,400-acre Dai Bosatsu retreat. "Shall I bring her to temple?", "yes." $1 asset transfers. Nadia's last known connection (2024). Religious infrastructure for financial opacity.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>-74.3550,41.8850,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>DUBAI — Bin Sulayem / DP World</name>
+      <name>DUBAI, Bin Sulayem / DP World</name>
       <description>Abraham Accords backchannel. "Torture video." Xtend drone docs on arrest day. Bin Sulayem resigned Feb 2026.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>55.2708,25.2048,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>TANGIER PROJECT — Morocco</name>
+      <name>TANGIER PROJECT, Morocco</name>
       <description>Palace project. Architect Erga. Nadia sending plans 2007. "Think tangier, formal, venetian plaster."</description>
       <styleUrl>#escape</styleUrl>
       <Point><coordinates>-5.8128,35.7595,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>MC2/BRUNEL — São Paulo, Brazil</name>
+      <name>MC2/BRUNEL, São Paulo, Brazil</name>
       <description>MC2 Model Management. Mega Model Florianópolis. "blond better but not very good." Ana Maria Macedo. Brazilian recruitment pipeline.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>-46.6333,-23.5505,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>MOUNT SINAI HOSPITAL — Manhattan</name>
+      <name>MOUNT SINAI HOSPITAL, Manhattan</name>
       <description>VIP 24/7 access. "The Epstein Floor for Women" proposed. $250K donated AFTER conviction. Plastic surgeon on dining table. Shuliak residency intervention.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>-73.9526,40.7900,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>MCC — Metropolitan Correctional Center</name>
+      <name>MCC, Metropolitan Correctional Center</name>
       <description>Where Epstein died/didn't die. Cameras not recording 6 months. Cellmate removed. "Above my pay grade." FBI case 90A-NY-3151227 closed Dec 2022.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>-74.0007,40.7127,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>TETERBORO AIRPORT — Arrest Site</name>
+      <name>TETERBORO AIRPORT, Arrest Site</name>
       <description>4:35 PM "Can we do late morning say 11." 4:37 PM "All canceled." Arrested on tarmac returning from Paris. Jul 6, 2019.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>-74.0608,40.8501,0</coordinates></Point>
@@ -155,50 +155,50 @@
     <name>GPS FROM SEIZED DEVICES (11 geotagged videos)</name>
 
     <Placemark>
-      <name>MARSTRAND, SWEDEN — Jul 3, 2016</name>
+      <name>MARSTRAND, SWEDEN, Jul 3, 2016</name>
       <description>BBB women's network. Swedish recruitment. Ehnbom sent photos of young women for "review." Princess Sofia met Epstein.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>11.4613,58.2475,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>MARSTRAND, SWEDEN — Jun 23, 2019 (13 DAYS BEFORE ARREST)</name>
+      <name>MARSTRAND, SWEDEN, Jun 23, 2019 (13 DAYS BEFORE ARREST)</name>
       <description>Still in Sweden 13 days before arrest. Still operating. Three videos Jun 23-27, 2019.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>11.4610,58.2474,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>KOH KONG, CAMBODIA — Dec 25, 2016 (CHRISTMAS DAY 1AM)</name>
+      <name>KOH KONG, CAMBODIA, Dec 25, 2016 (CHRISTMAS DAY 1AM)</name>
       <description>Trafficking corridor (US State Dept TIP). Leon Black/Latchford looted antiquities pipeline ($27.7M). Cardamom Mtns archaeological sites. Christmas 1AM = nobody watching.</description>
       <styleUrl>#escape</styleUrl>
       <Point><coordinates>103.2621,10.7560,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>BIG SUR / CARMEL, CA — Feb 8, 2018 (MIDNIGHT)</name>
+      <name>BIG SUR / CARMEL, CA, Feb 8, 2018 (MIDNIGHT)</name>
       <description>Near Pebble Beach. Tech billionaire territory. Close to Silicon Valley. Thiel operates from this region. Midnight timestamp.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>-121.7527,36.4972,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>MONTEREY, CA — Sep 2, 2018 (Labor Day)</name>
+      <name>MONTEREY, CA, Sep 2, 2018 (Labor Day)</name>
       <description>Adjacent to Big Sur. Tech events territory. Labor Day weekend.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>-121.9364,36.6208,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>CATSKILLS, NY — Jun 23, 2018</name>
+      <name>CATSKILLS, NY, Jun 23, 2018</name>
       <description>Near Tannersville/Hunter Mountain. 2 hrs north of NYC. NEAR ZEN STUDIES SOCIETY / DAI BOSATSU. "Shall I bring her to temple?"</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>-74.1237,42.0707,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>TULUM, MEXICO — Dec 30, 2018 (10:41 PM, 1 MONTH AFTER MIAMI HERALD)</name>
-      <description>Riviera Maya — documented sex trafficking territory. One month after "Perversion of Justice" broke. Late night. Mexico = weak extradition. Second escape option?</description>
+      <name>TULUM, MEXICO, Dec 30, 2018 (10:41 PM, 1 MONTH AFTER MIAMI HERALD)</name>
+      <description>Riviera Maya, documented sex trafficking territory. One month after "Perversion of Justice" broke. Late night. Mexico = weak extradition. Second escape option?</description>
       <styleUrl>#escape</styleUrl>
       <Point><coordinates>-87.3403,20.3798,0</coordinates></Point>
     </Placemark>
@@ -208,84 +208,84 @@
     <name>KEY ASSOCIATE LOCATIONS</name>
 
     <Placemark>
-      <name>BARAK / CARBYNE — Tel Aviv, Israel</name>
+      <name>BARAK / CARBYNE, Tel Aviv, Israel</name>
       <description>Ehud Barak. Carbyne HQ. Unit 8200 veterans. "Trained as spy under Barak." $625M sold to Axon Nov 2025.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>34.7818,32.0853,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>DP WORLD — Dubai, UAE</name>
+      <name>DP WORLD, Dubai, UAE</name>
       <description>Sultan Bin Sulayem. Abraham Accords backchannel since 2012. "Torture video." Xtend drone docs on arrest day. Resigned Feb 2026.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>55.2708,25.2048,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>SBERBANK — Moscow, Russia</name>
+      <name>SBERBANK, Moscow, Russia</name>
       <description>19 Vavilova Street. FEDWIRE destination for Epstein transfers through Deutsche Bank. Novosibirsk pipeline financial terminus.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>37.5734,55.6997,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>NOVOSIBIRSK — Recruitment Pipeline Origin</name>
+      <name>NOVOSIBIRSK, Recruitment Pipeline Origin</name>
       <description>227 email references. "Candidates.docx." "Only very few are good enough." Aeroflot SU 1306 tracked in calendar. Sberbank money flowed here.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>82.9346,55.0084,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>KIEV/ODESSA — Pierce Scouting Territory</name>
+      <name>KIEV/ODESSA, Pierce Scouting Territory</name>
       <description>Brock Pierce: "take photos" in Moscow/Kiev/Odessa, "find him a present." Pozhidaeva recruited from former USSR.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>30.5234,50.4501,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>BRATISLAVA — Nadia's Origin</name>
+      <name>BRATISLAVA, Nadia's Origin</name>
       <description>Nadia Marcinkova from eastern Slovakia. H-1B visa expedited through Indyke 2005. "Purchased from her parents" per FBI.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>17.1077,48.1486,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>MC2 / FLORIANÓPOLIS — Brazil Pipeline</name>
+      <name>MC2 / FLORIANÓPOLIS, Brazil Pipeline</name>
       <description>Mega Model agency. Brunel recruitment. "blond better but not very good." Ana Maria Macedo.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>-48.5482,-27.5954,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>IPI / UNITED NATIONS — 1 UN Plaza, NYC</name>
+      <name>IPI / UNITED NATIONS, 1 UN Plaza, NYC</name>
       <description>Terje Rød-Larsen's International Peace Institute. Nadia placed here as "Alsaid." Visa letters for trafficked women. $5M to each Terje child in will.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>-73.9690,40.7489,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>SANDRINGHAM — Queen's Estate, Norfolk UK</name>
+      <name>SANDRINGHAM, Queen's Estate, Norfolk UK</name>
       <description>Dec 2000: Epstein, Maxwell, Tom Pritzker flew to RAF Marham. Prince Andrew hosted "shooting weekend." Maxwell surprise birthday. Virginia Giuffre allegations.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>0.5100,52.8267,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>MIT MEDIA LAB — Cambridge, MA</name>
+      <name>MIT MEDIA LAB, Cambridge, MA</name>
       <description>$525K to Digital Currency Initiative. Bitcoin Core dev salaries funded by Epstein. Joi Ito resigned. Epstein: $850K total to MIT.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>-71.0875,42.3601,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>HARVARD — Cambridge, MA</name>
+      <name>HARVARD, Cambridge, MA</name>
       <description>$9M+ in donations 1998-2008. Dershowitz. Summers. Nowak. Krauss connections. Science philanthropy as cover.</description>
       <styleUrl>#station</styleUrl>
       <Point><coordinates>-71.1167,42.3770,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
-      <name>DALTON SCHOOL — NYC (Where It Started)</name>
+      <name>DALTON SCHOOL, NYC (Where It Started)</name>
       <description>Epstein taught here 1973-1976. Headmaster: Donald Barr (father of AG William Barr). Where the machine operator was born.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>-73.9551,40.7803,0</coordinates></Point>

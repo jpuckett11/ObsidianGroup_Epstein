@@ -1,4 +1,4 @@
-# === RAW DATA — NEVER COMMIT ===
+# === RAW DATA, NEVER COMMIT ===
 *.pdf
 !The_Chronological_Case_Study_of_J_Epstein.pdf
 !The_Chronological_Case_Study_of_J_Epstein_Evidence.pdf
@@ -14,7 +14,7 @@
 *.dd
 *.pcap
 
-# === MEDIA — NEVER COMMIT ===
+# === MEDIA, NEVER COMMIT ===
 *.mp4
 *.mov
 *.m4v
@@ -46,7 +46,7 @@ __pycache__/
 Thumbs.db
 desktop.ini
 
-# === SENSITIVE — NEVER COMMIT ===
+# === SENSITIVE, NEVER COMMIT ===
 *REFERRAL*
 *referral*
 /private/

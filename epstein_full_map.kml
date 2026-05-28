@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-  <name>Epstein Investigation — Complete Map (15 Layers)</name>
+  <open>1</open>
+  <name>Epstein Investigation, Complete Map (15 Layers)</name>
   <description>Every property, flight, person, meeting, and event from 3.5M items</description>
 
   <Style id="hub"><IconStyle><color>ff0000ff</color><scale>1.6</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href></Icon></IconStyle></Style>
@@ -19,21 +20,21 @@
   <Style id="flightPath"><LineStyle><color>50ff0000</color><width>1</width></LineStyle></Style>
   <Style id="top25Path"><LineStyle><color>aaff00ff</color><width>2</width></LineStyle></Style>
   <Style id="allFlightPath"><LineStyle><color>30ffffff</color><width>1</width></LineStyle></Style>
-  <Folder><name>1. PROPERTIES (Owned)</name>
+  <Folder><name>1. PROPERTIES (Owned)</name><open>1</open><visibility>1</visibility>
     <Placemark>
-      <name>9 East 71st — THE HUB</name>
+      <name>9 East 71st, THE HUB</name>
       <description>Manhattan mansion. Wexner $20M transfer 1998. Hidden cameras every room.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>-73.9647,40.771,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>301 East 66th — AIRLOCK</name>
+      <name>301 East 66th, AIRLOCK</name>
       <description>Satellite building. Staging facility for trafficked women.</description>
       <styleUrl>#property</styleUrl>
       <Point><coordinates>-73.959,40.7638,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>358 El Brillo — Palm Beach</name>
+      <name>358 El Brillo, Palm Beach</name>
       <description>Recruitment center. 3,008 email references.</description>
       <styleUrl>#property</styleUrl>
       <Point><coordinates>-80.0374,26.693,0</coordinates></Point>
@@ -51,27 +52,27 @@
       <Point><coordinates>-64.8289,18.3097,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Zorro Ranch — NM</name>
+      <name>Zorro Ranch, NM</name>
       <description>8,000 acres. Desert shooting range with AR-15s.</description>
       <styleUrl>#property</styleUrl>
       <Point><coordinates>-105.76,35.14,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>22 Avenue Foch — Paris</name>
+      <name>22 Avenue Foch, Paris</name>
       <description>685 sq m. European gateway.</description>
       <styleUrl>#property</styleUrl>
       <Point><coordinates>2.285,48.872,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Bin Ennakhil — Marrakech</name>
+      <name>Bin Ennakhil, Marrakech</name>
       <description>$14.9M wired DAY BEFORE ARREST. Morocco escape hatch.</description>
       <styleUrl>#property</styleUrl>
       <Point><coordinates>-8.01,31.67,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>2. OPERATIONAL LOCATIONS</name>
+  <Folder><name>2. OPERATIONAL LOCATIONS</name><open>1</open><visibility>1</visibility>
     <Placemark>
-      <name>Maxwell London — Stanhope Mews</name>
+      <name>Maxwell London, Stanhope Mews</name>
       <description>Maxwell's London residence.</description>
       <styleUrl>#property</styleUrl>
       <Point><coordinates>-0.177,51.495,0</coordinates></Point>
@@ -95,25 +96,25 @@
       <Point><coordinates>-73.9526,40.79,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>MCC — Death Site</name>
+      <name>MCC, Death Site</name>
       <description>Cameras not recording 6 months.</description>
       <styleUrl>#death</styleUrl>
       <Point><coordinates>-74.0007,40.7127,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Teterboro — Arrest Site</name>
+      <name>Teterboro, Arrest Site</name>
       <description>Jul 6, 2019. 4:37 PM 'All canceled.'</description>
       <styleUrl>#event</styleUrl>
       <Point><coordinates>-74.0608,40.8501,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>ZSS Dai Bosatsu — Catskills</name>
+      <name>ZSS Dai Bosatsu, Catskills</name>
       <description>Zen Studies Society. 'Shall I bring her to temple?'</description>
       <styleUrl>#intel</styleUrl>
       <Point><coordinates>-74.55,41.909,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Sandringham — Queen's Estate</name>
+      <name>Sandringham, Queen's Estate</name>
       <description>Dec 2000. Epstein/Maxwell/Pritzker. Prince Andrew hosted.</description>
       <styleUrl>#event</styleUrl>
       <Point><coordinates>0.51,52.8267,0</coordinates></Point>
@@ -125,7 +126,7 @@
       <Point><coordinates>-74.644,40.6776,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>3. ALL FLIGHT AIRPORTS (354)</name>
+  <Folder><name>3. ALL FLIGHT AIRPORTS (354)</name><open>1</open><visibility>1</visibility>
     <Placemark>
       <name>Washington, DC (USA)</name>
       <description>Airport: Ronald Reagan Washington National</description>
@@ -182,7 +183,7 @@
     </Placemark>
     <Placemark>
       <name>Rome (Italy)</name>
-      <description>Airport: Leonardo da Vinci–Fiumicino Airport</description>
+      <description>Airport: Leonardo da Vinci, Fiumicino Airport</description>
       <styleUrl>#airport</styleUrl>
       <Point><coordinates>12.2389,41.8003,0</coordinates></Point>
     </Placemark>
@@ -1315,7 +1316,7 @@
       <Point><coordinates>-93.3886,37.2457,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>4. TOP 100 FLIGHT ROUTES (most flown)</name>
+  <Folder><name>4. TOP 100 FLIGHT ROUTES (most flown)</name><open>1</open><visibility>1</visibility>
     <Placemark>
       <name>Teterboro, NJ → St. Thomas, USVI (172x)</name>
       <description>Flown 172 times</description>
@@ -2117,7 +2118,7 @@
       </LineString>
     </Placemark>
   </Folder>
-  <Folder><name>5. ALL 3,437 FLIGHT ROUTES</name>
+  <Folder><name>5. ALL 3,437 FLIGHT ROUTES</name><open>1</open><visibility>1</visibility>
     <Placemark>
       <name>New York → Paris</name>
       <description>Date: 2013-09-26
@@ -33052,9 +33053,9 @@ Pax: ["Jeffrey Epstein"]</description>
       </LineString>
     </Placemark>
   </Folder>
-  <Folder><name>6. RECRUITMENT CITIES</name>
+  <Folder><name>6. RECRUITMENT CITIES</name><open>1</open><visibility>1</visibility>
     <Placemark>
-      <name>Novosibirsk — Russian Pipeline</name>
+      <name>Novosibirsk, Russian Pipeline</name>
       <description>227 email refs. 'Candidates.docx.' Aeroflot SU 1306.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>82.9346,55.0084,0</coordinates></Point>
@@ -33066,69 +33067,69 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>30.5234,50.4501,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Bratislava — Nadia origin</name>
+      <name>Bratislava, Nadia origin</name>
       <description>Nadia Marcinkova born here. FBI: 'purchased from her parents.'</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>17.1077,48.1486,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>MC2 Florianópolis — Brazil</name>
+      <name>MC2 Florianópolis, Brazil</name>
       <description>Brunel/MC2. Ana Maria Macedo.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>-48.5482,-27.5954,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>MGIMO Moscow — Pozhidaeva</name>
+      <name>MGIMO Moscow, Pozhidaeva</name>
       <description>FSB officer's daughter trained here.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>37.5189,55.6996,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Marstrand, Sweden — BBB</name>
+      <name>Marstrand, Sweden, BBB</name>
       <description>Ehnbom BBB network. Princess Sofia connection.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>11.4613,58.2475,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Prague — Marcinko Father</name>
+      <name>Prague, Marcinko Father</name>
       <description>Nadia's father scouting Prague apartments.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>14.418,50.088,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Tambov, Russia — Drokova origin</name>
+      <name>Tambov, Russia, Drokova origin</name>
       <description>Masha Drokova/Bucher birthplace.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>41.4523,52.7211,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>São Paulo — Brunel network</name>
+      <name>São Paulo, Brunel network</name>
       <description>MC2 Model Management.</description>
       <styleUrl>#recruit</styleUrl>
       <Point><coordinates>-46.6333,-23.5505,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>7. BANKING NODES</name>
+  <Folder><name>7. BANKING NODES</name><open>1</open><visibility>1</visibility>
     <Placemark>
-      <name>Deutsche Bank HQ — NYC</name>
+      <name>Deutsche Bank HQ, NYC</name>
       <description>Primary banking 2013-2019. $75M settlement.</description>
       <styleUrl>#bank</styleUrl>
       <Point><coordinates>-73.9707,40.7549,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>JPMorgan HQ — NYC</name>
+      <name>JPMorgan HQ, NYC</name>
       <description>$365M settlement. Jes Staley.</description>
       <styleUrl>#bank</styleUrl>
       <Point><coordinates>-73.9756,40.7549,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Sberbank Moscow — 19 Vavilova</name>
+      <name>Sberbank Moscow, 19 Vavilova</name>
       <description>FEDWIRE destination.</description>
       <styleUrl>#bank</styleUrl>
       <Point><coordinates>37.5734,55.6997,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>BNY Mellon — NYC</name>
+      <name>BNY Mellon, NYC</name>
       <description>$378M in 270 wire transfers. No legitimate purpose.</description>
       <styleUrl>#bank</styleUrl>
       <Point><coordinates>-74.0085,40.7053,0</coordinates></Point>
@@ -33140,7 +33141,7 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>-66.1057,18.4655,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Merrill Lynch — NYC</name>
+      <name>Merrill Lynch, NYC</name>
       <description>Edward Spector private banking.</description>
       <styleUrl>#bank</styleUrl>
       <Point><coordinates>-73.9826,40.7549,0</coordinates></Point>
@@ -33152,21 +33153,21 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>8.6821,50.1109,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Bank of NY Mellon — UK</name>
+      <name>Bank of NY Mellon, UK</name>
       <description>London office. International wire chain.</description>
       <styleUrl>#bank</styleUrl>
       <Point><coordinates>-0.085,51.5135,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>8. INTELLIGENCE SITES</name>
+  <Folder><name>8. INTELLIGENCE SITES</name><open>1</open><visibility>1</visibility>
     <Placemark>
-      <name>Carbyne HQ — Tel Aviv</name>
+      <name>Carbyne HQ, Tel Aviv</name>
       <description>8200 vets. Sold to Axon $625M Nov 2025.</description>
       <styleUrl>#intel</styleUrl>
       <Point><coordinates>34.7818,32.0853,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Unit 8200 — Base 042</name>
+      <name>Unit 8200, Base 042</name>
       <description>Rosh HaAyin. Israel's NSA. Iran Desk exposed by Handala.</description>
       <styleUrl>#intel</styleUrl>
       <Point><coordinates>34.955,32.1006,0</coordinates></Point>
@@ -33184,19 +33185,19 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>-71.1167,42.377,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>DP World HQ — Dubai</name>
+      <name>DP World HQ, Dubai</name>
       <description>Bin Sulayem. Abraham Accords backchannel.</description>
       <styleUrl>#intel</styleUrl>
       <Point><coordinates>55.2708,25.2048,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>IPI — UN Plaza</name>
+      <name>IPI, UN Plaza</name>
       <description>Terje. Nadia placed here as 'Alsaid.'</description>
       <styleUrl>#intel</styleUrl>
       <Point><coordinates>-73.969,40.7489,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Kissinger Associates — NYC</name>
+      <name>Kissinger Associates, NYC</name>
       <description>Joshua Cooper Ramo. 12+ meetings at townhouse.</description>
       <styleUrl>#intel</styleUrl>
       <Point><coordinates>-73.9742,40.7595,0</coordinates></Point>
@@ -33208,131 +33209,131 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>-73.469,40.8617,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>CIA HQ — Langley</name>
+      <name>CIA HQ, Langley</name>
       <description>Burns now CIA Director. Aug 2014 meeting.</description>
       <styleUrl>#intel</styleUrl>
       <Point><coordinates>-77.1456,38.9519,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>US Treasury — DC</name>
+      <name>US Treasury, DC</name>
       <description>Aug 2014 crypto sanctions evasion meeting.</description>
       <styleUrl>#intel</styleUrl>
       <Point><coordinates>-77.0337,38.8983,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>9. KEY ASSOCIATE OFFICES</name>
+  <Folder><name>9. KEY ASSOCIATE OFFICES</name><open>1</open><visibility>1</visibility>
     <Placemark>
-      <name>Wexner — L Brands Columbus</name>
+      <name>Wexner, L Brands Columbus</name>
       <description>$4.6B fortune. POA to Epstein.</description>
       <styleUrl>#person</styleUrl>
       <Point><coordinates>-82.9988,39.9612,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Apollo HQ — Leon Black</name>
+      <name>Apollo HQ, Leon Black</name>
       <description>$170M to Epstein. Hush money + surveillance.</description>
       <styleUrl>#person</styleUrl>
       <Point><coordinates>-73.9776,40.7614,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Day One Ventures — Sand Hill Rd</name>
+      <name>Day One Ventures, Sand Hill Rd</name>
       <description>Masha Bucher. $450M AUM.</description>
       <styleUrl>#person</styleUrl>
       <Point><coordinates>-122.143,37.4419,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Blockstream — London</name>
+      <name>Blockstream, London</name>
       <description>Adam Back (Satoshi candidate).</description>
       <styleUrl>#person</styleUrl>
       <Point><coordinates>-0.1278,51.5074,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Coinbase HQ — SF</name>
+      <name>Coinbase HQ, SF</name>
       <description>Epstein $3M via IGO Company LLC.</description>
       <styleUrl>#person</styleUrl>
       <Point><coordinates>-122.4194,37.7749,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Tether — co-founded by Pierce</name>
+      <name>Tether, co-founded by Pierce</name>
       <description>Puerto Rico/USVI ops.</description>
       <styleUrl>#person</styleUrl>
       <Point><coordinates>-66.5901,18.2208,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Founders Fund — SF</name>
+      <name>Founders Fund, SF</name>
       <description>Peter Thiel. Valar Ventures. Carbyne investor.</description>
       <styleUrl>#person</styleUrl>
       <Point><coordinates>-122.4039,37.7749,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Bitcoin Foundation — DC</name>
+      <name>Bitcoin Foundation, DC</name>
       <description>Pierce was chairman.</description>
       <styleUrl>#person</styleUrl>
       <Point><coordinates>-77.0369,38.9072,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Reid Hoffman — Greylock</name>
+      <name>Reid Hoffman, Greylock</name>
       <description>LinkedIn co-founder. Stayed at island + townhouse.</description>
       <styleUrl>#person</styleUrl>
       <Point><coordinates>-122.1551,37.4467,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Hyatt HQ — Pritzker</name>
+      <name>Hyatt HQ, Pritzker</name>
       <description>Tom Pritzker. Resigned Feb 2026 over Epstein ties.</description>
       <styleUrl>#person</styleUrl>
       <Point><coordinates>-87.6191,41.8868,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>10. DEATHS / SUSPICIOUS LOCATIONS</name>
+  <Folder><name>10. DEATHS / SUSPICIOUS LOCATIONS</name><open>1</open><visibility>1</visibility>
     <Placemark>
-      <name>Epstein — MCC death</name>
+      <name>Epstein, MCC death</name>
       <description>Aug 10, 2019.</description>
       <styleUrl>#death</styleUrl>
       <Point><coordinates>-74.0007,40.7127,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Brunel — Paris jail</name>
+      <name>Brunel, Paris jail</name>
       <description>Feb 19, 2022. Hanging.</description>
       <styleUrl>#death</styleUrl>
       <Point><coordinates>2.3525,48.8467,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Al Seckel — France cliff</name>
+      <name>Al Seckel, France cliff</name>
       <description>Jul 2015. Death unconfirmed by French authorities.</description>
       <styleUrl>#death</styleUrl>
       <Point><coordinates>4.8055,43.9352,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Hal Finney — California</name>
+      <name>Hal Finney, California</name>
       <description>Aug 28, 2014. ALS. Possible Satoshi.</description>
       <styleUrl>#death</styleUrl>
       <Point><coordinates>-117.9298,33.6189,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Len Sassaman — Belgium</name>
+      <name>Len Sassaman, Belgium</name>
       <description>Jul 3, 2011. Possible Satoshi co-creator.</description>
       <styleUrl>#death</styleUrl>
       <Point><coordinates>4.3517,50.8503,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Dan Kaminsky — California</name>
+      <name>Dan Kaminsky, California</name>
       <description>Apr 23, 2021. Age 42. Embedded Sassaman memorial in blockchain.</description>
       <styleUrl>#death</styleUrl>
       <Point><coordinates>-122.4194,37.7749,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Robert Maxwell — Canary Islands</name>
+      <name>Robert Maxwell, Canary Islands</name>
       <description>Nov 5, 1991. Yacht death. MI6/Mossad connections.</description>
       <styleUrl>#death</styleUrl>
       <Point><coordinates>-16.5113,28.3389,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Khashoggi — Saudi Istanbul Consulate</name>
+      <name>Khashoggi, Saudi Istanbul Consulate</name>
       <description>Oct 2, 2018. 20 days after MBS-Epstein meeting.</description>
       <styleUrl>#death</styleUrl>
       <Point><coordinates>29.0107,41.0867,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>11. POLITICAL / GOVERNMENT</name>
+  <Folder><name>11. POLITICAL / GOVERNMENT</name><open>1</open><visibility>1</visibility>
     <Placemark>
       <name>White House</name>
       <description>Trump in files 1,000+ times.</description>
@@ -33340,45 +33341,45 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>-77.0365,38.8977,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Capitol — Massie defeat</name>
+      <name>Capitol, Massie defeat</name>
       <description>AIPAC $15M+ to defeat him May 2026.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>-77.0091,38.8899,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Wyden's Office — Senate</name>
+      <name>Wyden's Office, Senate</name>
       <description>Active investigation. Black hush money. BNY Mellon.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>-77.0046,38.8929,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Kremlin — Putin</name>
+      <name>Kremlin, Putin</name>
       <description>Nashi → Drokova → Epstein PR pipeline.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>37.6175,55.752,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Knesset — Israel</name>
+      <name>Knesset, Israel</name>
       <description>Barak political base.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>35.2055,31.7767,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>US Embassy Israel — Jerusalem</name>
+      <name>US Embassy Israel, Jerusalem</name>
       <description>Diplomatic node.</description>
       <styleUrl>#hub</styleUrl>
       <Point><coordinates>35.2186,31.7672,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>12. WEXNER NETWORK PROPERTIES</name>
+  <Folder><name>12. WEXNER NETWORK PROPERTIES</name><open>1</open><visibility>1</visibility>
     <Placemark>
-      <name>Wexner Estate — New Albany OH</name>
+      <name>Wexner Estate, New Albany OH</name>
       <description>Wexner primary residence.</description>
       <styleUrl>#property</styleUrl>
       <Point><coordinates>-82.8088,40.0812,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>L Brands HQ — Columbus</name>
+      <name>L Brands HQ, Columbus</name>
       <description>Wexner's empire.</description>
       <styleUrl>#property</styleUrl>
       <Point><coordinates>-82.9988,39.9612,0</coordinates></Point>
@@ -33390,13 +33391,13 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>-82.8088,40.0812,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Mega Group origin — NYC</name>
+      <name>Mega Group origin, NYC</name>
       <description>Founded 1991. Same year Robert Maxwell died.</description>
       <styleUrl>#property</styleUrl>
       <Point><coordinates>-73.9756,40.7549,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>13. GPS FROM SEIZED PHONE VIDEOS</name>
+  <Folder><name>13. GPS FROM SEIZED PHONE VIDEOS</name><open>1</open><visibility>1</visibility>
     <Placemark>
       <name>Sweden Jul 3 2016</name>
       <description>EFTA01622052.mov BBB network.</description>
@@ -33404,19 +33405,19 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>11.4613,58.2475,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Sweden Jun 23 2019 — 13 DAYS BEFORE ARREST</name>
+      <name>Sweden Jun 23 2019, 13 DAYS BEFORE ARREST</name>
       <description>Still operating in Sweden.</description>
       <styleUrl>#event</styleUrl>
       <Point><coordinates>11.461,58.2474,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Koh Kong, Cambodia — Christmas 1AM</name>
+      <name>Koh Kong, Cambodia, Christmas 1AM</name>
       <description>Trafficking corridor + Latchford antiquities.</description>
       <styleUrl>#event</styleUrl>
       <Point><coordinates>103.2621,10.756,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Big Sur — Midnight</name>
+      <name>Big Sur, Midnight</name>
       <description>Thiel region. Feb 8 2018.</description>
       <styleUrl>#event</styleUrl>
       <Point><coordinates>-121.7527,36.4972,0</coordinates></Point>
@@ -33435,164 +33436,164 @@ Pax: ["Jeffrey Epstein"]</description>
     </Placemark>
     <Placemark>
       <name>Tulum, Mexico</name>
-      <description>Dec 30 2018 — 1 month after Miami Herald.</description>
+      <description>Dec 30 2018, 1 month after Miami Herald.</description>
       <styleUrl>#event</styleUrl>
       <Point><coordinates>-87.3403,20.3798,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>14. ★★★ TOP 25 PEOPLE — Most Case-Critical</name>
+  <Folder><name>14. ★★★ TOP 25 PEOPLE, Most Case-Critical</name><open>1</open><visibility>1</visibility>
     <Placemark>
-      <name>1. Ghislaine Maxwell — Tallahassee FCI</name>
+      <name>1. Ghislaine Maxwell, Tallahassee FCI</name>
       <description>Currently incarcerated. Jul 2025 proffer. 1,040 flights with Epstein.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-84.2807,30.4383,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>2. Bill Clinton — Chappaqua NY</name>
+      <name>2. Bill Clinton, Chappaqua NY</name>
       <description>26 flight legs documented. Africa trip 2002. 'He should have been thinking of Chelsea.'</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-73.7654,41.1568,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>3. Donald Trump — Mar-a-Lago</name>
+      <name>3. Donald Trump, Mar-a-Lago</name>
       <description>Files 1,000+ times. 'He knew about the girls as he asked ghislaine to stop.'</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-80.0369,26.6773,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>4. Prince Andrew — Royal Lodge UK</name>
+      <name>4. Prince Andrew, Royal Lodge UK</name>
       <description>Roberts allegations. Sandringham 2000.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-0.6075,51.4233,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>5. Ehud Barak — Israel</name>
+      <name>5. Ehud Barak, Israel</name>
       <description>Carbyne chairman. 1,047 emails. 'Trained as spy under Barak.'</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>34.7818,32.0853,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>6. Les Wexner — Columbus OH</name>
+      <name>6. Les Wexner, Columbus OH</name>
       <description>$4.6B POA. Mansion transfer 1998. 'No excuse.'</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-82.9988,39.9612,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>7. Leon Black — NYC Apollo</name>
+      <name>7. Leon Black, NYC Apollo</name>
       <description>$170M to Epstein. Hush money + surveillance of women.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-73.9776,40.7614,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>8. Bill Gates — Medina WA</name>
+      <name>8. Bill Gates, Medina WA</name>
       <description>Separation agreement w/ Nikolic via Epstein.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-122.2348,47.6263,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>9. Jes Staley — UK</name>
+      <name>9. Jes Staley, UK</name>
       <description>Barclays former CEO. 'Bloody marks from his belt.'</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-0.089,51.5136,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>10. Steve Bannon — DC</name>
+      <name>10. Steve Bannon, DC</name>
       <description>3,356 iMessages. 'All canceled.' Bannon list of 80+.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-77.0369,38.9072,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>11. Larry Summers — Cambridge MA</name>
+      <name>11. Larry Summers, Cambridge MA</name>
       <description>72 iMessages. 'I think you meant Buddha.'</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-71.1167,42.377,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>12. Anthony Scaramucci — NYC</name>
+      <name>12. Anthony Scaramucci, NYC</name>
       <description>107 iMessages. 'Cohen was wearing a wire!'</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-73.9851,40.7589,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>13. Stacey Plaskett — USVI</name>
+      <name>13. Stacey Plaskett, USVI</name>
       <description>32 iMessages. Live-texted during Cohen hearing.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-64.8963,18.3358,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>14. Reid Hoffman — Palo Alto</name>
+      <name>14. Reid Hoffman, Palo Alto</name>
       <description>Stayed island + townhouse. Lied about last meeting.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-122.1551,37.4467,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>15. Peter Thiel — SF</name>
+      <name>15. Peter Thiel, SF</name>
       <description>Founders Fund. Valar. Carbyne investor.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-122.4039,37.7749,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>16. Brock Pierce — Puerto Rico</name>
+      <name>16. Brock Pierce, Puerto Rico</name>
       <description>Tether co-founder. Scouted Moscow/Kiev/Odessa.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-66.5901,18.2208,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>17. Tom Pritzker — Chicago Hyatt</name>
+      <name>17. Tom Pritzker, Chicago Hyatt</name>
       <description>Resigned Feb 2026. Sandringham. Girlfriend procurement.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-87.6191,41.8868,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>18. Nicole Junkermann — London</name>
+      <name>18. Nicole Junkermann, London</name>
       <description>NJF Capital. Carbyne co-investor. Terminated Lancaster Feb 2026.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-0.1278,51.5074,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>19. Sultan Bin Sulayem — Dubai</name>
+      <name>19. Sultan Bin Sulayem, Dubai</name>
       <description>DP World. Torture video. Resigned Feb 2026.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>55.2708,25.2048,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>20. Alan Dershowitz — Cambridge MA</name>
+      <name>20. Alan Dershowitz, Cambridge MA</name>
       <description>'Allen Douschewitz' per diary. Declaration of war letter.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-71.1167,42.377,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>21. Joi Ito — Cambridge MA</name>
+      <name>21. Joi Ito, Cambridge MA</name>
       <description>MIT Media Lab. Kyara Investments III with Epstein.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-71.0875,42.3601,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>22. Michael Wolff — NYC</name>
+      <name>22. Michael Wolff, NYC</name>
       <description>WH intelligence pipeline through Bannon.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-73.9756,40.7549,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>23. Terje Rød-Larsen — Oslo</name>
+      <name>23. Terje Rød-Larsen, Oslo</name>
       <description>IPI. $5M to each child in Epstein's will.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>10.7522,59.9139,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>24. Nicholas Ribis — NJ</name>
+      <name>24. Nicholas Ribis, NJ</name>
       <description>Trump casino chief. $1,382 emails. Black-Apollo conduit.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-74.4057,40.0583,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>25. Karyna Shuliak — Belarus/St Thomas</name>
+      <name>25. Karyna Shuliak, Belarus/St Thomas</name>
       <description>Girlfriend. Moscow trips. Mar-a-Lago dental residency.</description>
       <styleUrl>#top25</styleUrl>
       <Point><coordinates>-64.9307,18.3419,0</coordinates></Point>
     </Placemark>
   </Folder>
-  <Folder><name>15. MEETING LOCATIONS FROM EMAIL CORPUS</name>
+  <Folder><name>15. MEETING LOCATIONS FROM EMAIL CORPUS</name><open>1</open><visibility>1</visibility>
     <Placemark>
       <name>Davos World Economic Forum</name>
       <description>Summers, Barak, Wolff. Multiple years.</description>
@@ -33606,7 +33607,7 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>-106.8175,39.19,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Cannes — Cap d'Antibes</name>
+      <name>Cannes, Cap d'Antibes</name>
       <description>Annual Mediterranean gatherings.</description>
       <styleUrl>#meeting</styleUrl>
       <Point><coordinates>7.0167,43.55,0</coordinates></Point>
@@ -33618,7 +33619,7 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>9.8333,46.4983,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Hamptons — East Hampton</name>
+      <name>Hamptons, East Hampton</name>
       <description>Summer compound meetings.</description>
       <styleUrl>#meeting</styleUrl>
       <Point><coordinates>-72.1848,40.9634,0</coordinates></Point>
@@ -33648,25 +33649,25 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>100.5018,13.7563,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Rwanda — Kigali</name>
+      <name>Rwanda, Kigali</name>
       <description>Clinton AIDS trip 2002. Spacey + Tucker on board.</description>
       <styleUrl>#meeting</styleUrl>
       <Point><coordinates>30.1044,-1.9706,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Tehran — Iran connections</name>
+      <name>Tehran, Iran connections</name>
       <description>Ittihadieh political intel.</description>
       <styleUrl>#meeting</styleUrl>
       <Point><coordinates>51.389,35.6892,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Vienna — IAEA</name>
+      <name>Vienna, IAEA</name>
       <description>Nuclear oversight. Iran deal connections.</description>
       <styleUrl>#meeting</styleUrl>
       <Point><coordinates>16.3171,48.2349,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Geneva — Swiss banking</name>
+      <name>Geneva, Swiss banking</name>
       <description>Rothschild Swiss. Private banking.</description>
       <styleUrl>#meeting</styleUrl>
       <Point><coordinates>6.1432,46.2044,0</coordinates></Point>
@@ -33684,25 +33685,25 @@ Pax: ["Jeffrey Epstein"]</description>
       <Point><coordinates>116.4074,39.9042,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Mongolia — Ulaanbaatar</name>
+      <name>Mongolia, Ulaanbaatar</name>
       <description>Israel-Mongolia security deal Epstein brokered.</description>
       <styleUrl>#meeting</styleUrl>
       <Point><coordinates>106.9057,47.8864,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Cap Ferrat — France</name>
+      <name>Cap Ferrat, France</name>
       <description>Mediterranean property network.</description>
       <styleUrl>#meeting</styleUrl>
       <Point><coordinates>7.3318,43.6943,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Tangier — Morocco</name>
+      <name>Tangier, Morocco</name>
       <description>Pre-Bin Ennakhil project 2007.</description>
       <styleUrl>#meeting</styleUrl>
       <Point><coordinates>-5.8128,35.7595,0</coordinates></Point>
     </Placemark>
     <Placemark>
-      <name>Riyadh — Saudi Arabia</name>
+      <name>Riyadh, Saudi Arabia</name>
       <description>MBS connections. Anas Alrasheed.</description>
       <styleUrl>#meeting</styleUrl>
       <Point><coordinates>46.6753,24.7136,0</coordinates></Point>
