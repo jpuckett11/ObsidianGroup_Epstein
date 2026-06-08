@@ -54,6 +54,7 @@
 20. NEW FINDINGS - Combined File Scan.md
 21. Corporate Network - Money Laundering Map.md
 22. INVESTIGATION STATUS.md (this file)
+23. DAY ONE VENTURES - The Active Operation.md
 
 ## Key Findings Summary
 
@@ -65,7 +66,7 @@ Ted Leonsis (VIDEO), Dan Snyder, Steve Case, George Mitchell, Jim Kimsey, Mr. Co
 - Israeli government installed surveillance at Epstein's building (institutional, not personal)
 - Barak apartment with Rafi Shlomo security control
 - Carbyne: Epstein → Barak → Unit 8200 → US 911 surveillance
-- Drokova: Putin Youth → Epstein publicist → $450M US strategic tech fund
+- Drokova: Putin Youth → Epstein publicist → Day One Ventures: $91M EDGAR-disclosed vs $600M publicly claimed, Belousov (Acronis) FASCSA-excluded Sept 15 2025, three-fund Russian-orbit SF cluster (Day One + Longevity Vision Fund + Gagarin Capital), portfolio leads include Valar Atomics nuclear at DOE/DOD pilot
 
 ### Financial Network
 - Apollo/Black → Moscow/Kremlin development + Putin sovereign wealth fund
@@ -129,6 +130,13 @@ Ted Leonsis (VIDEO), Dan Snyder, Steve Case, George Mitchell, Jim Kimsey, Mr. Co
 10. **Who are the 3 co-conspirators named as Butterfly Trust beneficiaries?**
 11. **Were the $56M+ in trust annuities ever purchased? Are they paying out now?**
 12. **16+ unresolved shell companies** (Financial Ballistics, Air Ghislaine, SCI JEP, etc.)
+13. **Day One Ventures Form D AUM gap (~$509M)** between public $600M claim and EDGAR-disclosed $91M; LP composition behind Belltower nominee structure unknown
+14. **VA-0618 Fund I (16 LPs) and ST-0512 Fund I (11 LPs)** specific LP identities, the dedicated Valar Atomics and Starpath co-investment vehicle subscribers
+15. **Pre-MMDD SPVs PU, WO, LI** portfolio company identities not yet mapped
+16. **ZA-0724 Fund I** portfolio company identity unknown
+17. **Mika** (Joi Ito's MIT assistant who coached the visa fraud) full identity, and the specific Epstein company used as cover employer on Russian/Belarusian women's Japanese visa applications
+18. **"Another Paul Weiss attorney"** Epstein asked alongside Karp to have Ganieva arrested and possibly deported
+19. **Specific Russian bank names** in the sealed Treasury Suspicious Activity Reports underlying Wyden's "multiple now-sanctioned Russian banks" framing
 
 ---
 
