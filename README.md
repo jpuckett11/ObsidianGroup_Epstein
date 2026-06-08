@@ -4,17 +4,11 @@
 
 ---
 
-## Start Here: [When Lady Justice Was Truly Blind (PDF)](When_Lady_Justice_Was_Truly_Blind.pdf)
-
-**The documentary investigation.** Written as a book, not a report. Start with this.
-
-27,740 words. 85 pages. 13 chapters. From the victim diary to the Abraham Accords backchannel. Every email quoted exactly. Every finding cited to EFTA bates numbers. For a general audience who wants to understand what happened, who did it, and why no one has been held accountable.
-
----
-
-## Evidence Edition: [The Chronological Case Study of Jeffrey Epstein (PDF)](The_Chronological_Case_Study_of_J_Epstein_Evidence.pdf)
+## Start Here: [The Chronological Case Study of Jeffrey Epstein, Evidence Edition (PDF)](The_Chronological_Case_Study_of_J_Epstein_Evidence.pdf)
 
 **The legal reference.** 42 pages of dense, cited findings. Every claim backed by a specific EFTA bates number. Built to a three-tier evidentiary standard. For researchers, journalists, lawyers, and anyone who needs to verify a specific claim.
+
+Note: the prior narrative-style book edition ("When Lady Justice Was Truly Blind") is currently being rewritten and will return in a revised form. Until then, the Evidence Edition is the primary published artifact.
 
 ---
 
