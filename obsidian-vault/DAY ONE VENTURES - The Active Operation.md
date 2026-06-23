@@ -31,6 +31,9 @@ See [[Wexner - The Funding Pipeline]] and [[ANALYSIS - What the Documents Tell U
 - Met with Tatarstan President Rustam Minnikhanov in 2019 (Minnikhanov UK-sanctioned 2023)
 - **Obtained Kyrgyz citizenship December 31, 2022**, providing a Russia-aligned Central Asian passport
 - February 2026 X-post addressing Epstein revelations: claimed to have given up Russian passport, denounced Putin, met with some Epstein victims
+- February 10, 2026 TechCrunch profile explicitly framed her as "Epstein associate"; this represents establishment-Silicon-Valley-press alignment shift from the prior "VC profile" framing
+- February 13, 2026: Shawn Ryan publicly disclosed a 2017 interview he had conducted with her and then shelved. Quote: "I never released the interview because she didn't pass the sniff test. We found some [things]." Ryan posted a 3-minute explainer and a 15-minute segment; potential release of the full original 2017 interview pending. This is the first known case of a national-security-adjacent figure with intelligence-community connections publicly stating he ran diligence on her and the diligence failed
+- 2026 Day One Ventures portfolio addition: Merge Labs (described as "bridging biological and artificial intelligence to maximize human ability, agency and experience, starting out as a research lab"). The neuro/bio-AI bridging investment fits the strategic-sector pattern documented elsewhere in this file (nuclear, lunar mining, weather modification, quantum)
 - Currently named Executive Officer on Day One Fund III SEC filings (CIK 0002009720)
 
 EFTA citations for Drokova-Epstein operational coordination:
@@ -303,6 +306,55 @@ On September 15, 2025, the Office of the Director of National Intelligence issue
 
 This is the public-record validation of the December 2022 Washington Post reporting that Western intelligence agencies were investigating Belousov's network of Russian expatriate investors for sanctions evasion and Russian military assistance via US technology investments. The patron of Day One Ventures' founder has been formally designated by US intelligence as a supply-chain national-security threat severe enough to trigger the inaugural use of FASCSA's exclusion authority. The fund itself continues operating without comparable scrutiny.
 
+## February 2026 Public-Record Developments
+
+Multiple operational and disclosure events landed in the first quarter of 2026 that update the case file's evidentiary picture significantly. They are documented here because they are the moment when the operational pattern this file documents began moving from investigator-tracked territory into wider establishment-press and intelligence-community acknowledgment.
+
+### The Shawn Ryan disclosure timeline
+
+In February 2026, Shawn Ryan (former US Navy SEAL, host of the Shawn Ryan Show podcast, audience of approximately 4 million YouTube subscribers and 3 million across other platforms) publicly disclosed that he had interviewed Masha Drokova in 2017 and shelved the interview because she failed his team's diligence checks.
+
+Timeline of the disclosure:
+
+- **February 10, 2026**: TechCrunch publishes "VC Masha Bucher, Epstein associate and Day One founder, explains herself," shifting the trade press framing from prior "VC profile" coverage to explicit Epstein-associate framing. This is the establishment Silicon Valley press acknowledging the connection rather than ignoring it.
+- **February 13, 2026**: Ryan posts a 3-minute video explaining why he shelved the 2017 interview. Direct quote, partial: "I never released the interview because she didn't pass the sniff test. We found some [things]." The "sniff test" framing is intelligence-community vernacular indicating credibility checks identified operational anomalies sufficient to disqualify the interviewee from publication.
+- **Mid-February 2026**: A 15-minute segment of the unreleased interview circulates. The segment shows Ryan asking her directly about her Epstein connection.
+- **Q1-Q2 2026**: Potential release of the full original 2017 interview pending. Mario Nawfal and other independent media figures have amplified the situation to broader audiences.
+
+#### Significance
+
+A US national-security-adjacent media figure with documented intelligence-community connections (Ryan's SEAL background, Vigilance Elite organization, ongoing relationships with current and former intel personnel) interviewed Drokova in 2017, conducted vetting, and concluded that she failed credibility checks at a level requiring shelving the produced episode. This is the first documented case of a credible domain expert applying intelligence-community-style vetting standards to Drokova and finding her wanting.
+
+The shelving in 2017 was effectively private knowledge in Ryan's circle. The February 2026 public disclosure is a deliberate decision to make that knowledge public, occurring in the broader context of the Epstein file release and the 1,627 Drokova mentions documented elsewhere in this file. The timing suggests Ryan now considers the public interest in the disclosure to outweigh whatever reasons (legal exposure, network relationships, personal safety) led him to keep the shelving private for nine years.
+
+#### Operational implications
+
+The Ryan disclosure does not constitute proof of any specific operational claim about Drokova. It is one credible domain expert's vetting result becoming public. For case file purposes, it is corroborating evidence at the credibility-of-the-actor level, joining the structural evidence in this file (the EFTA citations, the Russian state-finance network connections, the FASCSA validation of her patron, the Wyden letters to Treasury, the Belousov sanctions exposure). The pattern accumulates.
+
+The TechCrunch coverage acknowledging her Epstein association is a separate operational marker indicating the establishment Silicon Valley trade press is no longer giving her the deferential framing she received through 2024-2025. Whether her LP base, portfolio companies, or institutional partners begin distancing in response to the press shift is the next operational marker to watch.
+
+### Continued operational expansion despite scrutiny
+
+Concurrent with the Ryan disclosure and the TechCrunch coverage, Day One Ventures has continued making investments. The most operationally significant recent addition is **Merge Labs**, described as "bridging biological and artificial intelligence to maximize human ability, agency and experience, starting out as a research lab."
+
+Merge Labs fits the strategic-sector portfolio pattern documented elsewhere in this file. Day One Ventures' portfolio composition has been weighted toward critical-infrastructure and dual-use-technology investments: nuclear (Valar Atomics, with DOE/DOD pilot involvement), lunar resource extraction (Starpath), weather modification (Rainmaker), quantum computing (QuEra), AI search infrastructure (You.com), and Israeli intelligence-adjacent surveillance (Carbyne). Adding biological-AI bridging to that portfolio extends the strategic-sector exposure into neurotechnology and human-augmentation research.
+
+The cumulative portfolio reads as a deliberate basket of strategically significant technology bets concentrated in areas where US national security interests, Russian-adjacent capital exposure, and long-horizon dual-use capability development converge. That concentration is not what a normal venture capital firm builds. It is what a strategically directed capital vehicle builds.
+
+### The "Silicon Valley keeps doing business" pattern
+
+The structurally important observation that emerges from the February 2026 developments:
+
+Drokova/Bucher has 1,627 mentions in the EFTA Epstein file release. She has documented business and travel ties to multiple Russian state-aligned figures. Her primary patron has been formally designated by US intelligence under FASCSA as a supply-chain national-security threat. A credible domain expert publicly stated she failed credibility checks nine years ago. The establishment Silicon Valley trade press has now acknowledged her Epstein association.
+
+Despite all of that, she continues operating as a public-facing venture capitalist with $450M assets under management, raising new funds, making new investments in strategically significant technology sectors, and being received by US technology founders, board members, and co-investors who continue doing business with her.
+
+That is the structural finding. The Silicon Valley ecosystem has not isolated her. There has been no LP base flight. No portfolio company has terminated the relationship. No co-investor has refused subsequent rounds. The institutional Silicon Valley response to the cumulative public-record evidence has been to keep doing business.
+
+This pattern is structurally similar to the broader containment dynamic documented in [[CONTAINMENT APPARATUS - Public Discourse Management]]. The apparatus that prevents serious investigation of the Epstein operation extends from the forensic-pathology layer (Baden) through the federal-investigative layer, the documentary-and-journalism layer, and into the financial-and-institutional layer where Drokova continues to operate. Each layer has different mechanisms but the cumulative effect is the same: the operation continues, the participants continue, and the investigation is structurally prevented from producing accountability.
+
+For the case file: this is the layer 6 of the containment apparatus that the CONTAINMENT APPARATUS file did not yet document. Silicon Valley capital continuing to flow to a credibly-flagged operative is the financial-institutional layer of the apparatus. The Drokova-Day One case is the documented exemplar of how it operates.
+
 ## Outstanding Investigative Questions
 
 1. Day One Ventures Fund I and Fund II LP composition. The 25 + 33 LPs are unnamed on Form D. The original commitment letters and capital call records exist with Belltower Fund Group and would surface under subpoena.
@@ -352,6 +404,15 @@ This is the public-record validation of the December 2022 Washington Post report
 - Wyden, July 23 2025, Follow the Money framework for DOJ: https://www.finance.senate.gov/ranking-members-news/as-trump-sits-on-key-epstein-files-wyden-lays-out-follow-the-money-investigation-for-doj
 - Wyden, July 17 2025, Treasury Epstein file details: https://www.finance.senate.gov/ranking-members-news/as-trump-downplays-epstein-wyden-unveils-details-of-treasurys-undisclosed-epstein-file
 
+### February 2026 disclosure events
+
+- TechCrunch, February 10 2026, "VC Masha Bucher, Epstein associate and Day One founder, explains herself": https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/
+- Shawn Ryan Show February 13 2026 explainer video on shelved 2017 Drokova interview: https://www.facebook.com/shawnryanshow/videos/why-shawn-ryan-never-released-his-interview-with-masha-drokova/2757019814637166/
+- Shawn Ryan Show February 2026 statement: https://www.facebook.com/shawnryanshow/posts/i-never-released-the-interview-because-she-didnt-pass-the-sniff-test-we-found-so/1611903943717260/
+- Mario Nawfal coverage of unreleased 2017 interview, February 2026: https://x.com/MarioNawfal/status/2021781306359664865
+- YouTube, Shawn Ryan unreleased episode with Epstein's publicist: https://www.youtube.com/watch?v=Fnh860lfDxw
+- Day One Ventures website, current portfolio including Merge Labs: https://www.dayoneventures.com/
+
 ### Major investigative journalism
 
 - Byline Times, October 20 2025, Inside Epstein's Russian Tech Web: https://bylinetimes.com/2025/10/20/inside-epsteins-russian-tech-web-how-oligarch-cash-and-three-women-connected-moscow-to-silicon-valley/
@@ -400,5 +461,5 @@ This is the public-record validation of the December 2022 Washington Post report
 
 ---
 
-*Last updated: 2026-06-07*
-*Investigator: Jay Puckett, Obsidian Watch Group*
+*Last updated: 2026-06-23 (added February 2026 Public-Record Developments section covering Shawn Ryan 2017 interview disclosure timeline, TechCrunch Epstein-associate framing shift, Merge Labs portfolio addition, and the Silicon Valley layer of the containment apparatus pattern)*
+*Investigator: Reckoner / Jay Puckett, Obsidian Watch Group*
