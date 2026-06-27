@@ -16,7 +16,7 @@ Note: the prior narrative-style book edition ("When Lady Justice Was Truly Blind
 
 | Metric | Value |
 |--------|-------|
-| Investigation hours | 688+ |
+| Investigation hours | 3188+ |
 | Items read line by line | 3,482,240 |
 | Emails read | 2,119,000+ |
 | EFTA document pages read | 1,333,541 |
