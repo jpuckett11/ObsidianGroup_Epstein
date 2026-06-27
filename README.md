@@ -1,6 +1,6 @@
 # The Obsidian Watch Group, Epstein Investigation
 
-**688+ hours | 3,482,240 documents read line by line | 40 countries | Every email. Every page. Every name.**
+**3188+ hours | 3,482,240 documents read line by line | 40 countries | Every email. Every page. Every name.**
 
 ---
 
