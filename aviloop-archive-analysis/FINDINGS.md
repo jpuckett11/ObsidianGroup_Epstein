@@ -518,6 +518,85 @@ Aviatri, Marcinko Holdings, or any entity with a publicly visible
 Marcinko connection. The post-Epstein disposition of the airframes
 removed them from this trace.
 
+## 10b. Federal trademark lawsuit: Gulfstream Aerospace v. Aviloop LLC and Nadia Marcinko (2013)
+
+Court: District Court, S.D. New York
+Case: 1:13-cv-08203-AT (Judge Analisa Torres)
+Filed: November 18, 2013
+Terminated: January 6, 2014 (settled in 7 weeks)
+Plaintiff's counsel: Roger Furey, Michael Justus, Alan Robert Friedman (Katten Muchin Rosenman LLP)
+Cause: 15 U.S.C. § 1114 — Trademark Infringement (Lanham Act), Cybersquatting, Unfair Competition
+
+Defendants:
+- Aviloop LLC, principal place of business at 909 Third Avenue, Fifth Floor, NY 10022 (2013 address — pre-dates the move to Mark Epstein's building)
+- Nadia Marcinko, founder and CEO, individual address 301 East 66th Street Apt 11E, NY 10065 (Mark Epstein's building — her personal residence since at least 2013)
+
+### What Marcinko's actual business looked like in 2013
+
+The Aviloop business model in 2013 was **a Groupon-style commission marketplace for the aviation industry.** Verbatim from the Aviloop website as reproduced in the federal complaint:
+
+> "Our collective buying model guarantees volume at your business... You get exposure for your company to thousands of pilots, aircraft owners and aviation enthusiasts with $0 upfront cost. Our members are your target audience: **licensed and aspiring pilots, aircraft owners and aviation enthusiasts with disposable income**."
+
+> "**Aviloop gets a commission from the proceeds of each deal.** We collect this share of revenue only if your promotion takes off. There is no other cost associated with running a promotion on Aviloop."
+
+Aviation businesses paid Aviloop a commission per "deal" purchased through the platform. Deals on offer in 2013: flight lessons, flight simulator rides, jet fuel, small aircraft, and other aviation-related goods or services.
+
+### Marcinko's marketing persona: "Gulfstream Girl"
+
+Marcinko self-styled as **"Gulfstream Girl"** across:
+
+- Facebook page `facebook.com/GulfstreamGirl` — **77,000+ likes by November 2013**, thousands of comments and shares
+- Twitter handle `@1GulfstreamGirl`
+- YouTube channel under the same brand
+- Domain `gulfstreamgirl.com` — registered through Domains By Proxy LLC with **"Aviloop, Inc." listed as the copyright holder** (cybersquatted)
+- Sticker, poster, and printed-material distribution at air shows and aviation trade shows
+- "GULFSTREAM GIRL LIKES THIS" branded airplane-design sticker she left at trade-show exhibits
+
+On the 2013 Aviloop "About" page, the "Who is Gulfstream Girl?" FAQ described her as a **"commercial Gulfstream pilot."** Per the FAA Airmen Inquiry, she did not earn her ATP certificate or her actual Gulfstream type ratings until **May 9, 2018** — five years after this Aviloop FAQ characterization. The "commercial Gulfstream pilot" claim in 2013 was false.
+
+### The settlement consequences
+
+Gulfstream specifically demanded in the prayer for relief:
+
+> "An Order directing Defendants to immediately destroy or permanently alter all web pages, social media pages and accounts, social media names, user names, posters, stickers, newsletters, videos, merchandise, displays, brochures, catalogs, manuals, forms, stationery, signage, advertising and promotional materials and items, and any other materials and things that bear or display the GULFSTREAM GIRL mark"
+
+The case settled in seven weeks. Marcinko was required to abandon the entire Gulfstream Girl public identity, transfer the cybersquatted domain, and destroy all branded materials.
+
+### What the lawsuit and settlement reveal about the operation
+
+1. **Aviloop's pre-2014 business was a different product entirely.** Not "aviation marketing services" but a commission-based daily-deal marketplace for aviation purchases. This is not the model the current Aviloop website portrays.
+
+2. **The current Aviloop service line of "match clients with social media influencers" is a recategorized version of what Marcinko was personally doing in 2013.** In 2013 she WAS the social media influencer (Gulfstream Girl, 77K Facebook followers). By 2026 she runs the agency that supplies social media influencers, conference booth staff, and pilots to clients. The personnel category did not change. Her role in it changed — from talent to broker.
+
+3. **Her 2013 false claim of being a "commercial Gulfstream pilot"** while marketing herself as the personification of Gulfstream-branded aviation indicates a willingness to assert credentials she did not hold for commercial advantage. The 2019 Aviloop site claim of "Gulfstream II, III, IV" type ratings, of which the III was false, fits the same pattern. Both were false credential claims aimed at commercial positioning.
+
+4. **The 2014 settlement explains the 2018 deliberate-offline window with additional context.** Beyond hiding from the Miami Herald press cycle, taking the entire Aviloop site offline during a period of public attention to Marcinkova also concealed the historical Gulfstream-Girl persona reset from any investigator who searched the live site during the news cycle. The site stayed offline through the entire period in which a journalist or investigator could most plausibly have wandered onto the post-settlement Aviloop site and asked questions about the pre-settlement Gulfstream Girl persona.
+
+5. **The "Nadia and the Aston" photograph link in the EFTA01795680 email** (Epstein's January 2015 receipt of the Negroni article) is consistent with surviving "Gulfstream Girl"-era branding content — luxury car, attractive woman, aviation context, on the blogspot CDN where she had hosted her personal content during the 2013 Gulfstream Girl period.
+
+### Recovered documents
+
+- Complaint, 23 pages, filed 11/18/2013 — `hidden_pages/court_records/GulfstreamVAviloop_complaint.pdf`
+- Order of dismissal upon settlement, filed 1/6/2014 — `hidden_pages/court_records/GulfstreamVAviloop_order_dismissing.pdf`
+- All PDF text extracted and committed.
+
+## 10c. Other CourtListener matches mentioning Nadia Marcinko / Marcinkova
+
+The following federal cases reference Marcinkova as a party, witness, or exhibit subject:
+
+| Case | Court | Date filed |
+|---|---|---|
+| Doe v. Epstein | S.D. Florida | 2008-02-06 |
+| Doe v. United States | S.D. Florida | 2008-07-07 |
+| Podhurst Orseck, P.A. v. Epstein | S.D. Florida | 2010-05-17 |
+| Giuffre v. Maxwell | S.D.N.Y. | 2015-09-21 |
+| Edwards v. Maxwell | S.D.N.Y. | 2017-01-25 |
+| Doe 3 v. Indyke | S.D.N.Y. | 2024-02-16 |
+| Government of the US Virgin Islands v. JPMorgan Chase Bank, N.A. | S.D.N.Y. | 2022-12-27 |
+| Giuffre v. Maxwell appellate proceedings | Second Circuit | 2018-09-28 |
+
+These are the Epstein-victim civil cases and the JPMorgan facilitation case where Marcinkova appears across documents as a participating actor in the trafficking organization. Pulling the Doe 3 v. Indyke (2024) and JPMorgan (2022) dockets specifically would surface what evidence has been put on the record about Marcinkova's continuing role in the post-Epstein operation. These are open threads for the next analysis pass.
+
 ## 11. What can and cannot be verified from public records
 
 **Verifiable today from public sources:**
