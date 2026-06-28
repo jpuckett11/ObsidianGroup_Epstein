@@ -1,0 +1,40 @@
+From:
+Sent:
+To:
+Subject:
+
+Monday, March 21, 2011 11:57 AM
+Jefffrey Epstein; lyn; Joiceich
+Today
+
+Barnett
+
+Scott will be meeting me at your house this morning to get me up and running on the new system.
+Sent via BlackBerry by AT&T
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>130O708618</integer>
+<key>flags</key>
+<integer>8590195713</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>22</integer>
+<integer>2</integer>
+</array>
+<key>remote-id</key>
+<string>143637</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00131092
+
+EFTA01795718
+
+

@@ -1,0 +1,33 @@
+From:
+Sent:
+To:
+
+jeffrey epstein <jeevacation@gmail.com>
+Thursday, May 19, 2011 4:51 PM
+
+Woody?
+Sorry for all the typos .Sent from my iPhone <?xml version="1.0" encoding="UTF-8"?> <IDOCTYPE plist PUBLIC "//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/Propertylist-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>1305823863</integer>
+<key>flags</key>
+<integer>8590195713</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>23</integer>
+</array>
+<key>remote-id</key>
+<string>156168</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00131038
+
+EFTA01795691
+
+

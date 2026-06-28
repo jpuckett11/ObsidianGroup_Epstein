@@ -1,0 +1,52 @@
+From:
+Sent:
+To:
+Subject:
+
+Wednesday, December 15, 2010 8:02 PM
+Jeevacation
+Re:
+
+Ok I'll see what I can do
+Original Message
+From: Jeevacation
+To:
+Subject: Re:
+Sent: Dec 15, 2010 3:01 PM
+Here until sun
+Sorry for all the typos .Sent from my iPhone
+On Dec 15, 2010, at 1:38 PM,
+
+wrote:
+
+> I got something. How is your schedule for the next 2 weeks?
+> Sent via BlackBerry by AT&T
+
+Sent via BlackBerry by AT&T
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.O.dtd">
+<plist version="1.0">
+<dict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>1292443595</integer>
+<key>flags</key>
+<integer>8590195713</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>13</integer>
+<integer>22</integer>
+</array>
+<key>remote-id</key>
+<string>122988</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00131014
+
+EFTA01795677
+
+

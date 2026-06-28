@@ -1,0 +1,36 @@
+From:
+Sent:
+To:
+
+Friday, March 11, 2011 9:45 PM
+JE Vacation
+
+From News of the World. Can I have her email me her questions?
+Sent via BlackBerry by AT&T
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PUST 1.0//EN" "http://www.apple.com/DTDs/Propertylist-1.0.dtd">
+<plist version="1.0">
+<clict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>1299879974</integer>
+<key>flags</key>
+<integer>859O195713</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>22</integer>
+<integer>2</integer>
+</array>
+<key>remote-id</key>
+<string>141696</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00131016
+
+EFTA01795678
+
+

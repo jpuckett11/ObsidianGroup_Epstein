@@ -317,22 +317,25 @@ Direct CDN fetch of the page JSON returns HTTP 403 (Wix forbids
 unauthenticated access to internal page JSONs). The content of the
 "Scrap page (invisible)" remains unrecovered through passive means.
 
-## 12. EFTA01795680: Epstein forwarded the Negroni article himself
+## 12. EFTA01795680: Someone sent Epstein the Negroni article with "you were right" as the subject line
 
-The bates EFTA01795680.pdf is recovered. It is a **one-page email** with
-"Sent from my iPhone" in the signature line. The email body reads:
+The bates EFTA01795680.pdf is a **one-page email screenshot** showing
+the email layout below. Image-level OCR of the embedded grayscale
+screenshot inside the PDF matches the text-layer extraction exactly:
 
 ```
-From: Jeffrey Epstein
-Sent: Thursday, January [year], [time] PM
-To: [redacted in recovered copy]
-Subject: Flying Lessons: Did Popular Aviatrix Right-Seat for Epstein
-         in Royal Sex Scandal?
+From:                              [blank]
+Sent:                              Thursday, January [22], 2015, PM
+To:                                Jeffrey Epstein
+Subject:                           you were right
 
-you were right
+Flying Lessons: Did Popular Aviatrix Right-Seat for Epstein
+in Royal Sex Scandal?
 
-[link to Nadia photo on blogspot CDN]
-[link to article on christinenegroni.blogspot.com]
+[link: blogspot photo "Nadia and the Aston"]
+[link: christinenegroni.blogspot.com/2015/01/did-popular-aviatrix-right-seat-for.html]
+
+Preview by Yahoo
 
 Sent from my iPhone
 
@@ -340,21 +343,91 @@ EFTA_R1_00131018
 EFTA01795680
 ```
 
-Two things make this email operationally significant:
+Three operational signals:
 
-1. **Epstein sent it himself**, from his iPhone, forwarding Christine
-   Negroni's January 22, 2015 article that publicly documents Marcinkova
-   as the "aviatrix" allegedly involved in the Andrew matter and
-   sourced to Philip Weiss's 2007 NY Magazine reporting that Epstein
-   trafficked Marcinkova at 14 from the Balkans.
-2. **The body reads "you were right"** — meaning the recipient had
-   previously warned Epstein that this story was coming or that
-   Marcinkova was an exposure point. The recipient was close enough to
-   receive this confirmation.
+1. **Epstein is the recipient**, not the sender. The `To:` field reads
+   "Jeffrey Epstein" plainly. The signature "Sent from my iPhone" is
+   the unidentified sender's, not Epstein's.
+2. **The subject line is "you were right"** — meaning Epstein had
+   previously had a conversation with the sender in which Epstein
+   warned them about Marcinkova's exposure to the Andrew matter, OR
+   the sender had warned Epstein and is now writing back to acknowledge
+   the prediction landed.
+3. **The body contains "Preview by Yahoo"** — this tag is
+   automatically inserted by Yahoo Mail when a user shares a link
+   through Yahoo Mail's article-share feature. The sender either used
+   a Yahoo Mail account or forwarded a Yahoo Mail message to Epstein.
 
-The email was preserved in the EFTA corpus and is now accessible at the
-public DOJ Epstein release portal (DataSet 10). A Wayback Machine copy
-is also archived from 2026-02-20.
+The `From:` field is **blank, not redaction-stamped**. This is
+consistent with the article having been shared via Yahoo Mail's
+share-link feature in a way that strips the originating From header
+from the rendered screenshot. It is not consistent with DOJ-applied
+redaction, which would typically show a black bar or "REDACTED" mark.
+
+The email was preserved in the EFTA corpus and is accessible at the
+public DOJ Epstein release portal (DataSet 10). A Wayback Machine
+copy is archived from 2026-02-20.
+
+## 12a. Adjacent bates window analysis
+
+A ±50 bates window pull around EFTA01795680 was performed via Wayback
+Machine. 51 of 101 attempted bates were recovered. The Wayback gaps
+appear to be uncrawled rather than withheld.
+
+The bates ordering is **not chronological by sent date**. Among 51
+recovered emails surrounding EFTA01795680, the date distribution is:
+
+| Year | Count |
+|------|-------|
+| 2009 | 1 |
+| 2010 | 9 |
+| 2011 | 25 |
+| 2012 | 2 |
+| 2013 | 5 |
+| 2014 | 3 |
+| 2015 | 4 |
+| 2016 | 7 |
+
+The 2010-2011 mail dominates the window. EFTA01795680 (January 2015)
+is one of only four 2015-dated messages in the recovered set, the
+others being unrelated to Marcinkova. The bates filing order appears
+to reflect DOJ processing order (likely OCR / scan ingest), not
+conversation thread order.
+
+Recipient identification is therefore not recoverable through bates
+adjacency alone. The sender must be inferred from independent context.
+
+## 12b. Sender candidate pool
+
+The sender is constrained by three observed facts:
+
+1. Used Yahoo Mail (or forwarded a Yahoo Mail message) on January 22,
+   2015
+2. Used an iPhone at the time of sending
+3. Was close enough to Epstein to begin a substantive email with
+   "you were right" — implying prior continuous correspondence about
+   Marcinkova's media exposure
+
+Candidates in descending order of fit:
+
+| Candidate | Yahoo Mail use? | iPhone? | "you were right" fit |
+|---|---|---|---|
+| **Ghislaine Maxwell ("Gmax")** | possible (older email era) | possible | strongest fit — she introduced Marcinkova-era operations, had longest historical knowledge of Marcinkova's exposure points |
+| **Lesley Groff** (assistant) | high (her email era + administrative role) | possible | strong fit — she filtered all media inputs to Epstein |
+| **Darren Indyke** (attorney) | low (would use law firm domain) | high | fit on the "warning came true" framing |
+| **Karyna Shuliak** | low (digital-native generation, gmail likely) | high | weaker fit — joined Epstein orbit too late for deep Marcinkova history |
+| **An unnamed PR/media consultant** | high (Yahoo era) | possible | strong fit on the warning structure |
+
+Across the surrounding bates window, observed Epstein correspondents
+in the same window include "Gmax" (named in a To: field), Richard
+Kahn, Larry Visoski, Karim Wade, Peter Attia, Kevin Law, "Jonathan,"
+and Karyna Shuliak (as sender once).
+
+The most operationally-natural fit is **Ghislaine Maxwell**, but this
+is inference, not proof. Documentary confirmation would require either
+the original full email header (likely sealed elsewhere in the DOJ
+archive) or a corroborating email from another bates referencing the
+same conversation.
 
 ## 13. Negroni's 2015 article: the FAA credentials that aren't there
 

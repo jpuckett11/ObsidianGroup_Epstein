@@ -1,0 +1,38 @@
+From:
+Sent:
+To:
+
+Gary Kerney <t=
+Monday, March 21, 2011 12:09 PM
+Jeffrey Epstein
+
+Big bedroom doors
+Standing in foyer right door is the operable leaf, left fixed Confirm
+Sent from my iPhone
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>130O709371</integer>
+<key>flags</key>
+<integer>859O195713</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>22</integer>
+<integer>24integer>
+</array>
+<key>remote-id</key>
+<string>143648</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00131040
+
+EFTA01795692
+
+

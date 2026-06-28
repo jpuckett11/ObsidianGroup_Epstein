@@ -1,0 +1,34 @@
+From:
+Sent:
+To:
+
+Jeevacation <jeevacation@gmail.com>
+Friday, November 5, 2010 6:53 PM
+Peggy Siegal
+
+Kings speech will not work,
+Sorry for all the typos .Sent from my iPhone <?xml version="1.0" encoding="UTF-8"?> <IDOCTYPE plist PUBLIC "//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/Propertylist-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>1288983242</integer>
+<key>flags</key>
+<integer>8590195713</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>23</integer>
+</array>
+<key>remote-id</key>
+<string>115095</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00130993
+
+EFTA01795666
+
+

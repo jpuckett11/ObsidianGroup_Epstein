@@ -1,0 +1,38 @@
+From:
+Sent:
+To:
+Subject:
+
+Friday, March 11, 2011 9:41 PM
+JE Vacation
+Fyi
+
+More press at the building, both entrances. I also got a note from one saying she wants to speak with me urgently..
+Sent via BlackBerry by AT&T
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>1299879727</integer>
+<key>flags</key>
+<integer>8590195713</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>22</integer>
+<integer>2</integer>
+</array>
+<key>remote-id</key>
+<string>141695</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00131097
+
+EFTA01795720
+
+

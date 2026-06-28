@@ -1,0 +1,36 @@
+From:
+Sent:
+To:
+
+Thursday, December 25, 2014 7:31 PM
+Jeffrey
+
+will get a definite response begging on January. Is it ok?
+Sent from my iPhone
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//0T0 PLIST 1.0//EN" "http://www.apple.com/DTDs/Propertylist-1.0.dtd">
+<plist version="1.0">
+alict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>1419535835</integer>
+<key>flags</key>
+<integer>859O195717</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>22</integer>
+<integer>2</integer>
+</array>
+<key>remote-id</key>
+<string>466595</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00131108
+
+EFTA01795730
+
+

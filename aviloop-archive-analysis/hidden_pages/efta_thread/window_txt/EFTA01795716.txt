@@ -1,0 +1,43 @@
+From:
+Sent:
+To:
+Subject:
+
+jeffrey epstein <jeevacation@gmail.com>
+Tuesda , Februa 15, 2011 2:29 PM
+Re:
+
+Yes
+Sorry for all the typos .Sent from my iPhone
+> wrote:
+
+On Feb 15, 2011, at 9:05 AM,
+
+> Good morning j:) yesterday was great.thank you I jusy wanted to ask can I c=me later durin the day??;)
+> Sent from my iPhone
+<?xml version=.0" encoding=TF-8"?>
+<IDOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.O.dtd">
+<plist version=.0">
+<clict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>1297780188</integer>
+<key>flags</key>
+<integer>8590195713</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>23</integer>
+</array>
+<key>remote-id</key>
+<string>135413</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00131089
+
+EFTA01795716
+
+

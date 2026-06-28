@@ -1,0 +1,48 @@
+From:
+Sent:
+To:
+Subject:
+
+Tuesday, March 19, 2013 4:43 PM
+Je vacation
+Dave
+
+Jeffrey,
+Do you have passenger list for Paris,.?
+1 JE
+2 Mrs. Sunyi
+3 Daughter Allen
+4 Mr Allen
+5 Sarah
+Is this correct list?
+Should I send Dave home now?
+Thx
+Larry
+Sent via BlackBerry by AT&T
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/Propertylist-1.O.dtd">
+<plist version="1.0">
+<dict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>1363711359</integer>
+<key>flags</key>
+<integer>8590195713</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>22</integer>
+<integer>2</integer>
+</array>
+<key>remote-id</key>
+<string>283793</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00131045
+
+EFTA01795696
+
+

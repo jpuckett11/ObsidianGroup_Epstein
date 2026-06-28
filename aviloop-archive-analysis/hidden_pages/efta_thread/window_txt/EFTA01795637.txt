@@ -1,0 +1,35 @@
+From:
+Sent:
+To:
+
+Thursday, January 20, 2011 9:55 PM
+Jeffrey Epstein
+
+on the 30th open skies has a 10:45am flight and a 1:40pm flight from Paris to newark..which one do you prefer?
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD NAST 1.0//EN" "http://www.apple.com/DTDs/Propertylist-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>1295560557</integer>
+<key>flags</key>
+<integer>8590195713</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>22</integer>
+<integer>2</integer>
+</array>
+<key>remote-id</key>
+<string>129624</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00130931
+
+EFTA01795637
+
+

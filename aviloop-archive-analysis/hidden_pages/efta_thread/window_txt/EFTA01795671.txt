@@ -1,0 +1,48 @@
+From:
+Sent:
+To:
+Subject:
+
+Thursday, December 23, 2010 10:43 PM
+Je vacation
+Re:
+
+Yes, we talked about that some time ago, the challange will be ramp access,.
+We'll need to discuss with Port Authority,.
+Thx,
+Larry
+Original Message
+From: Je vacation
+To: Larry
+Subject:
+Sent: Dec 23, 2010 5:23 PM
+Maybe we should just buy a jet fuel truck
+Sorry for all the typos .Sent from my iPhone
+Sent via BlackBerry by AT&T
+<?xml version="1.0" encoding="UTF-8"?>
+<IDOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/Propertylist-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>date-last-viewed</key>
+<integer>0</integer>
+<key>date-received</key>
+<integer>1293144223</integer>
+<key>flags</key>
+<integer>8623750145</integer>
+<key>gmail-label-ids</key>
+<array>
+<integer>22</integer>
+<integer>2</integer>
+</array>
+<key>remote-id</key>
+<string>124481</string>
+</dict>
+</plist>
+
+1
+
+EFTA_R1_00131000
+
+EFTA01795671
+
+
