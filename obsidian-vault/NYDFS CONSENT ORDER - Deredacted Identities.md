@@ -164,7 +164,7 @@ The consent order's anonymization was designed to protect individuals from perso
 
 **Deposition:** Morris was deposed under oath by Epstein victim lawyers in the JPMorgan and Deutsche Bank lawsuits. Bloomberg reported on this in May 2023.
 
-**Assessment:** Paul Morris is the single individual who physically moved Epstein's banking relationship across multiple institutions. He was at JPMorgan during the period when $1 billion+ in suspicious transactions occurred. He brought Epstein to Deutsche Bank knowing full well the man's criminal history, he wrote the onboarding memo that LISTED the conviction. He is now at Bank of America, the third largest Epstein-connected bank. He was deposed but never charged. He has 22,359 mentions across 876,000 DOJ documents, more mentions than almost anyone except Lesley Groff (Epstein's assistant).
+**Assessment:** Paul Morris is the single individual who physically moved Epstein's banking relationship across multiple institutions. He was at JPMorgan during the period when $1 billion+ in suspicious transactions occurred. He brought Epstein to Deutsche Bank knowing full well the man's criminal history, he wrote the onboarding memo that LISTED the conviction. He is now at Bank of America, the third largest Epstein-connected bank. He was deposed but never charged. He has 22,359 mentions across 876,000 DOJ documents, putting him in the top tier of named individuals, behind Lesley Groff (136,964), Richard Kahn (77,990), and his Deutsche Bank successor Stewart Oldfield (22,636), and roughly even with Karyna Shuliak (23,846).
 
 **The question:** Did Morris follow the money, or did the money follow Morris? Three banks. Same client. Each time, hundreds of millions in flows. Each time, compliance failures. Each time, no consequences for Morris personally.
 
@@ -174,7 +174,7 @@ The consent order's anonymization was designed to protect individuals from perso
 
 **Career:** Deutsche Bank Director, took over Epstein accounts April 2016 after Morris
 
-**22,636 mentions** in 876,000 DOJ documents, the MOST mentioned person after Lesley Groff (136,964). More than Richard Kahn (77,990), more than Karyna Shuliak (23,846).
+**22,636 mentions** in 876,000 DOJ documents, putting him roughly even with his predecessor Paul Morris (22,359) and behind Lesley Groff (136,964), Richard Kahn (77,990), and Karyna Shuliak (23,846), but still in the highest tier of named individuals, comparable to other Epstein bankers.
 
 **Pattern:** Replaced Morris but was NEVER TOLD about the ARRC conditions placed on the Epstein accounts. Continued business as usual. After Deutsche Bank terminated Epstein in Dec 2018, Oldfield drafted reference letters to TWO OTHER financial institutions on Deutsche Bank letterhead, stating he was "unaware of any problems relating to the operation or use of [the] accounts."
 

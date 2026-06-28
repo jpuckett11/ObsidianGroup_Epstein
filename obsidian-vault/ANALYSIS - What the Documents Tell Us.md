@@ -60,7 +60,7 @@ This is a U//FOUO classified FBI intelligence entry, not speculation.
 - Barak → Carbyne (Unit 8200 operatives monitoring US 911 calls)
 
 **Russian intelligence connections documented:**
-- Masha Drokova (1,627 mentions): Putin Youth → Epstein publicist → $450M US strategic tech fund
+- Masha Drokova (1,627 mentions): Putin Youth → Epstein publicist → Day One Ventures US strategic tech fund (~$600M publicly claimed, ~$91M EDGAR-disclosed)
 - Wire transfers to Sberbank Irkutsk (Buryatia) and Moscow
 - Travel logistics: Vladivostok → Moscow → Paris → NYC
 - FBI documented dual Russian AND Israeli influence through Chabad intermediary
@@ -174,7 +174,7 @@ INTELLIGENCE SERVICES (Israel primary, Russia secondary)
         ├── Victim recruitment (Interlochen, Mar-a-Lago, schools, spas)
         ├── Target access (politicians, billionaires, scientists, royals)
         ├── Financial management (Deutsche Bank, FirstBank PR, wire transfers)
-        ├── Russia connection (Drokova → $450M strategic tech fund)
+        ├── Russia connection (Drokova → Day One Ventures, ~$600M claimed / ~$91M disclosed strategic tech fund)
         └── Cover operations (Leon Black "tax advice," charitable donations)
 ```
 

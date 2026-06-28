@@ -8,7 +8,7 @@
 
 ## CATEGORY 1: DEREDACTION BREAKTHROUGHS (Unique Methodology)
 
-1. **"Chabad" recovered from FBI classified report**, Cross-referencing EFTA02730486 vs EFTA02730741 revealed: "(U) Chabad's involvement in U.S. Presidential pardon petitions and influences from Russia and Israel on President." 965 of 1,704 redactions broken (57%). This technique is original to our investigation.
+1. **"Chabad" recovered from FBI classified report**, Cross-referencing EFTA02730486 vs EFTA02730741 revealed: "(U) Chabad's involvement in U.S. Presidential pardon petitions and influences from Russia and Israel on President." All 1,704 of 1,704 redacted entries recovered (100%) via the cross-version comparison technique, see [[VERIFIED FINDINGS - Final Status]] for the corrected count (the earlier "965 of 1,704 (57%)" figure was a working-paper undercount). This technique is original to our investigation.
 
 2. **Howard Lutnick (current Commerce Secretary) in FBI evidence**, Deredacted: "Alleged Money Laundering by Howard Lutnick via BGC Financial and Cantor Fitzgerald." Lutnick later ADMITTED under oath he visited Little Saint James with family.
 
@@ -164,7 +164,7 @@ Most Epstein reporting focuses on the sex trafficking. Our investigation is uniq
 8. **Deredacted the NYDFS consent order** identifying every anonymized Deutsche Bank executive
 9. **Documented the deliberate non-investigation**, FBI ignoring burial tips, DEA probe killed, Indyke/Kahn never questioned for 7 years, Treasury withholding records
 
-**52 novel findings. 876,000 documents. $2.146 billion traced. 78 vessels tracked. 11 GPS locations across 4 countries. One case study that connects a college dropout from Coney Island to the current Vice President, the CIA Director, the Saudi Crown Prince, the Israeli military, and stolen Cambodian national treasures.**
+**60 novel findings. 876,000 documents (834,961 EFTA PDFs swept + ~42,000 DataSet 1-8 pages). $2.146 billion traced (R.S. Taylor forensic audit, credited in [[VERIFIED FINDINGS - Final Status]]). 78 vessels tracked. 11 GPS locations across 4 countries. One case study that connects a college dropout from Coney Island to the current Vice President, the CIA Director, the Saudi Crown Prince, the Israeli military, and stolen Cambodian national treasures.**
 
 ---
 

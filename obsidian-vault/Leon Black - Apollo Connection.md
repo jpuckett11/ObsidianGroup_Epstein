@@ -2,7 +2,7 @@
 
 ## Summary
 
-Leon Black, founder and former CEO of Apollo Global Management, paid Jeffrey Epstein **$158 million between 2012 and 2017**, ostensibly for "tax, estate planning, and philanthropic advice." This represents one of the largest documented financial relationships between Epstein and any single individual.
+Leon Black, founder and former CEO of Apollo Global Management, paid Jeffrey Epstein **$158 million (Dechert review, 2012-2017)**, with Senator Wyden's Senate Finance investigation subsequently finding an additional ~$12 million the Dechert review missed, a revised total of **~$170 million** (Wyden, March 2025; see [[APOLLO-BLACK FINANCIAL CHAIN]] for the full timeline). Stated purpose: "tax, estate planning, and philanthropic advice." This is one of the largest documented financial relationships between Epstein and any single individual.
 
 ---
 
@@ -10,18 +10,21 @@ Leon Black, founder and former CEO of Apollo Global Management, paid Jeffrey Eps
 
 | Detail | Amount/Info |
 |--------|------------|
-| Total paid to Epstein | **$158 million** (2012-2017) |
+| Total paid to Epstein | **$158M Dechert / ~$170M Wyden revised** (2012-2017) |
 | Epstein's Apollo IPO shares | 263,257 shares (via Financial Trust Company) |
 | Apollo AUM at time | $1-2 billion referenced |
 | Black's estimated wealth | Multiple billions |
 | Stated purpose of payments | Tax, estate planning, philanthropic advice |
 
 ### Dollar Amounts Referenced in Documents
-- $158 million (payments to Epstein)
+- $158 million (Dechert review payments to Epstein)
+- ~$170 million (Wyden revised total, 2025, adds ~$12M Dechert missed)
 - $1 billion, $2 billion (Apollo fund context)
-- $600 million (referenced)
+- $600 million (referenced, step-up basis tax savings Epstein structured for Black)
 - $70 million, $60 million, $50 million (various transactions)
 - $20 million, $30 million (other dealings)
+- $62.5 million (USVI entities, separate from the personal fee stream)
+- $30.5 million (BV70 LLC → Plan D LLC loans, $22.5M + $8M, additional to the Dechert figure)
 
 ---
 
@@ -183,5 +186,45 @@ Daily calendars recovered from scheduling communications show Black's regular ac
 
 ---
 
-*Source: 59 documents from VOL00012 (EFTA production)*
+## DS9 Evidence, FBI and DANY Had the Case 12-14 Months Before Acting
+
+The DS9 release adds the foundational evidence that prosecutors held but did not act on. The May 2021 "Maxwell spinoff" framing of the Black investigation is misleading, the underlying victim testimony was already in federal hands by April 2020.
+
+### April 2020, First FBI 302 from a Black victim
+
+[EFTA00079370](https://www.justice.gov/epstein/files/DataSet%209/EFTA00079370.pdf) (DS9). FBI case file 50D-NY-3027571. Victim met Black in 2008 while modeling. Described:
+- Being sexually abused by Black
+- Being flown to Epstein's Florida home
+- Being told Black *"ran a sex trafficking ring"*
+- Black transferring **$10 million to Epstein after she signed an NDA under duress**
+- Being introduced to Ghislaine Maxwell and Prince Andrew
+
+Multiple identical or near-identical copies of this 302 exist across DS9: [EFTA00087968](https://www.justice.gov/epstein/files/DataSet%209/EFTA00087968.pdf), [EFTA00090606](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090606.pdf), [EFTA00103694](https://www.justice.gov/epstein/files/DataSet%209/EFTA00103694.pdf), [EFTA00152747](https://www.justice.gov/epstein/files/DataSet%209/EFTA00152747.pdf), [EFTA00173803](https://www.justice.gov/epstein/files/DataSet%209/EFTA00173803.pdf). The repeated production confirms the document's internal circulation within FBI.
+
+### September 2020, ADA Saxtein DANY interview (6 pages)
+
+[EFTA01246230](https://www.justice.gov/epstein/files/DataSet%209/EFTA01246230.pdf) (DS9). ADA **Leah Saxtein** (Manhattan DA) 6-page interview notes documenting the same victim's detailed account to DANY:
+- Violent sexual assaults by Black
+- Forced NDA
+- Subsequent surveillance and harassment
+- Named additional alleged abusers in the same network: **Harry Dubin, Mort Zuckerman, Harvey Weinstein, Alex Von Furstenberg, Len Blavatnik**
+- The same $10M Black→Epstein transfer
+
+### May 2021, The "Maxwell spinoff" reframe
+
+By the time SDNY AUSA writes to FBI CEHT requesting an interview *"that would be a spin-off from the Maxwell case, in order to decide whether we should open an investigation"* ([EFTA02731604](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731604.pdf) / [EFTA02731578](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731578.pdf)), the underlying victim testimony has been in federal hands for **12 months** (FBI) and the parallel DANY interview has been in DA hands for **8 months**. Internal SDNY email reads: *"I'm not inclined to open based on the other victim, for a variety of reasons, but just want to make sure I'm doing my due diligence."*
+
+By this point the existing evidence already established **two prior Black victims** known to the Epstein investigation, *"Two victims from the Epstein investigation who were assaulted by Black and discussed it during their initial FBI interviews"*. The 2021 spinoff victim made three. A subsequent 2023 victim documented in [EFTA00156644](https://www.justice.gov/epstein/files/DataSet%209/EFTA00156644.pdf) (DS9), trafficked through a *"Mary"* intermediary and describing violent assault by Black at approximately age 17 in 2001, brings the documented Black-victim count to **at least four**.
+
+### Implication
+
+The pattern this rewrite establishes is not "Wigdor Law brought a case and prosecutors evaluated it on the merits." The pattern is: federal and state prosecutors held FBI 302 and DA-interview evidence of Black's conduct for 12-14 months before opening a file, then closed without charging despite ultimately holding evidence of four victims. Pair with the [[Money Trail - Where Is It Now]] thread on Indyke and Kahn ("DOJ never interviewed Epstein's core financial controllers in 7 years") for the broader pattern of deliberate non-investigation around the Epstein financial network.
+
+### Sources
+
+DS9 documents at justice.gov/epstein. Cross-references in [[CODENAME REGISTRY - Cross-Reference Deredactions]] (Andrew arrest, Feb 2026) and the Wigdor-Law evidence chain documented in DS12.
+
+---
+
+*Sources: 59 documents from VOL00012 (original analysis) + DS9 evidence chain documented above.*
 *Last updated: 2026-05-24*

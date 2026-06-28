@@ -23,12 +23,12 @@
 | Task | Result |
 |------|--------|
 | Full 835K document sweep (64 workers) | Complete, all names, connections, hits cataloged |
-| Deredaction (cross-reference) | 965 of 1,704 redactions broken (57%) |
+| Deredaction (cross-reference) | 1,704 of 1,704 redactions recovered (100%), see [[VERIFIED FINDINGS - Final Status]] for corrected count |
 | 42K COMBINED file scan | Complete, Apollo/Kremlin, Melvyn letter, door log dispute |
 | 19.5K DataSet 8 scan | Complete, OIG report, criminal complaint, BOP timeline |
 | Virus scanning (ClamAV) | All files clean, 0 infected across all sources |
 | Media metadata extraction | GPS locations, device IDs, creation dates extracted |
-| Corporate entity mapping | 46+ entities identified, SEC whistleblower dossier found |
+| Corporate entity mapping | 56+ entities identified, SEC whistleblower dossier found |
 
 ## Vault Files (19 total)
 
@@ -140,7 +140,7 @@ Ted Leonsis (VIDEO), Dan Snyder, Steve Case, George Mitchell, Jim Kimsey, Mr. Co
 
 ---
 
-*Investigation ongoing. 876,000+ documents processed. 22+ research files in vault. Corporate entity trace expanded from 46 to 56+ entities (KPMG count). 11 entities resolved. 35+ still unaccounted.*
+*Investigation ongoing. 876,000+ documents processed. 78 research files in vault. Corporate entity trace expanded from 46 to 56+ entities (KPMG count). 11 entities resolved. 35+ still unaccounted.*
 *The victims deserve justice. The truth is in the documents.*
 
 ## Full Corpus Sweep v2, May 25, 2026

@@ -85,15 +85,15 @@
 ## DATA ACCURACY VERIFICATION
 
 ### Numbers that need verification:
-- "876,000+ documents", Based on our actual file counts across VOL00010-12. ✓ VERIFIED
-- "170,444 corpus sweep hits", From our cluster search output. ✓ VERIFIED (output logged)
-- "37,657 AIS records", From NOAA data processing. ✓ VERIFIED (4,540 + 33,117 = 37,657)
-- "153 vessels", From AIS analysis. ✓ VERIFIED (logged output)
-- "43 countries", Manually counted from our research. ✓ VERIFIED (list documented)
+- "876,000+ documents", Based on our actual file counts across VOL00010-12. [X] VERIFIED
+- "170,444 corpus sweep hits", From our cluster search output. [X] VERIFIED (output logged)
+- "37,657 AIS records", From NOAA data processing. [X] VERIFIED (4,540 + 33,117 = 37,657)
+- "153 vessels", From AIS analysis. [X] VERIFIED (logged output)
+- "43 countries", Manually counted from our research. [X] VERIFIED (list documented)
 - "63 novel findings", Must be revised down after this verification to ~45 truly novel + original synthesis
-- "$2.146B", From R.S. Taylor forensic audit. ✓ VERIFIED but MUST CREDIT SOURCE
+- "$2.146B", From R.S. Taylor forensic audit. [X] VERIFIED but MUST CREDIT SOURCE
 - "965 of 1,704 redactions", From our own deredaction work on FBI evidence LOG (not CHS memo). NEEDS RE-VERIFICATION against actual extraction data
-- "$1.1B from single account", From Sen. Wyden press release. ✓ VERIFIED, credited to Wyden/Senate Finance
+- "$1.1B from single account", From Sen. Wyden press release. [X] VERIFIED, credited to Wyden/Senate Finance
 
 ### Claims to REMOVE or CORRECT:
 - Remove any implication that WE discovered the Chabad CHS memo content, it was in the DOJ release

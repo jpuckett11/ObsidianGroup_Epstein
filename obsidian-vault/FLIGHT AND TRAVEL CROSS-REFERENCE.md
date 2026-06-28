@@ -103,7 +103,7 @@
 ### Russia
 - Sberbank wires: Irkutsk ($10K) + Moscow ($20K)
 - Alfa Bank accounts flagged in JPMorgan SAR
-- Masha Drokova: 1,627 doc mentions, Day One Ventures $450M
+- Masha Drokova: 1,627 doc mentions, Day One Ventures (~$600M publicly claimed, ~$91M EDGAR-disclosed)
 - Nathan Myhrvold: hosted Putin's wife/daughter on yacht
 - Novosibirsk mentioned 307 times in documents
 - Epstein sought meeting with Lavrov (via Jagland)

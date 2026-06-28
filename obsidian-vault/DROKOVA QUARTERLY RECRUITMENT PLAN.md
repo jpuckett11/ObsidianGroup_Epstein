@@ -19,7 +19,7 @@
 
 ## What This Documents
 
-Five months before Epstein's arrest, Masha Drokova, former Putin Nashi spokesperson, Epstein's publicist since 2017, founder of Day One Ventures ($450M AUM), proposed:
+Five months before Epstein's arrest, Masha Drokova, former Putin Nashi spokesperson, Epstein's publicist since 2017, founder of Day One Ventures (~$600M publicly claimed AUM, ~$91M EDGAR-disclosed per SEC Form D filings), proposed:
 
 1. **Pre-selected candidates**, names already chosen (Samantha, Katya, Jay, Neil)
 2. **Structured ratio**, 6 guys, 6 girls. Equal numbers. Deliberate gender balance.
@@ -56,7 +56,7 @@ Drokova's proposal is the INTERNATIONAL version of the same pyramid:
 - Former federal commissioner and spokesperson of **Putin's Nashi** youth movement (2007-2011)
 - Became Epstein's publicist in 2017
 - Founded **Day One Ventures** in California, January 2018
-- Day One AUM: $450 million
+- Day One AUM: ~$600 million publicly claimed / ~$91 million EDGAR-disclosed (per SEC Form D filings; see [[DAY ONE VENTURES - The Active Operation]] for the $509M reconciliation gap)
 - Appeared **1,600+ times** in Epstein files
 - Sister **Victoria Drokova**: 1,627 email hits, business development at Longevity Vision Fund, connected to Abramovich entities
 - Day One investor: Russian businessman Sergey Dashkov (Joint Journey Ltd)

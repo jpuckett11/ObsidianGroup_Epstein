@@ -1,0 +1,8 @@
+# Regenerable intermediate text extracts (re-run reextract.py / extract_clean.py)
+extracted/
+aviatri/extracted/
+
+# Local run state
+*.log
+__pycache__/
+*.pyc

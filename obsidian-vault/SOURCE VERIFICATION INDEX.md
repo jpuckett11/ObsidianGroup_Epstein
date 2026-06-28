@@ -10,9 +10,9 @@ These are documents produced by the United States Department of Justice under th
 ### FBI Evidence Inventories
 | Claim | Document | Bates Number | Verification |
 |-------|----------|-------------|--------------|
-| "Chabad's involvement in Presidential pardon petitions and influences from Russia and Israel on President" | FBI evidence log | EFTA02730741 | Deredacted via cross-reference with EFTA02730486 |
+| "Chabad's involvement in Presidential pardon petitions and influences from Russia and Israel on President" | FBI evidence log | EFTA02730741 | Deredacted via cross-reference with EFTA02730486 (all 1,704 of 1,704 entries recovered, 100%; see [[VERIFIED FINDINGS - Final Status]]) |
 | "WEXNER FOUNDATION - financial connection to JEFFREY EPSTEIN" | FBI evidence log | EFTA02730741 | Direct text extraction |
-| "Alleged Money Laundering by Howard Lutnick via BGC Financial and Cantor Fitzgerald" | FBI evidence log | EFTA02730741 | Deredacted entry |
+| "Alleged Money Laundering by Howard Lutnick via BGC Financial and Cantor Fitzgerald" | FBI evidence log | EFTA02730741 | Deredacted entry; full unredacted NTOC intake at EFTA00020515 (DS8) backs this (see [[LAW ENFORCEMENT REFERRAL - Suspect Evidence Packages]]) |
 | "Anonymous threat against VIRGINIA ROBERTS GUIFFRE" | FBI evidence log | EFTA02730741 | Deredacted entry |
 | "Attempted Contact To Threat to Life Posting on Deep Paste" | FBI evidence log | EFTA02730741 | Deredacted entry |
 | MCC surveillance, 12+ hard drives from DVRs | FBI evidence log | EFTA02730486/741 | Direct inventory listing |
@@ -167,7 +167,7 @@ These are documents produced by the United States Department of Justice under th
 | Israeli govt installed security at 301 E 66th | Al Jazeera (Feb 2026) | NBC, Haaretz |
 | FBI document: Epstein "trained as spy" under Barak | The Week | Al Jazeera, Times of Israel |
 | Masha Drokova 1,627 mentions in files | Hannah Howell | Air Mail, WashPost, CNN, TechCrunch |
-| Drokova/Day One Ventures $450M fund | TechCrunch | Air Mail, WashPost |
+| Drokova/Day One Ventures (~$600M publicly claimed AUM, ~$91M EDGAR-disclosed per SEC Form D) | SEC EDGAR Form D filings (primary) | TechCrunch, Air Mail, WashPost (secondary, ~$600M claim) |
 | Kathy Ruemmler "Uncle Jeffrey," resigned Goldman | PBS | NPR, CNN, CNBC |
 | Zorro Ranch "buried bodies" tip + incinerator | Time | WSWS, CNN, ABC, PBS, NPR, Fox |
 | Grave-like plots photographed by intruder | Al Jazeera (Mar 2026) | Raw Story, IBTimes |
@@ -185,6 +185,58 @@ These are documents produced by the United States Department of Justice under th
 
 ---
 
+### Codename Deredactions (cross-version comparison)
+Full evidence chains in [[CODENAME REGISTRY - Cross-Reference Deredactions]]. All four meet the CONFIRMED bar.
+
+| Codename | Real Identity | Key EFTA Citations |
+|----------|---------------|--------------------|
+| "The Invisible Man" | Prince Andrew, Duke of York | EFTA00011437, EFTA00011438, EFTA00011440, EFTA00011441 (DS8); EFTA02332232, EFTA02332233, EFTA02332304, EFTA02335012 (DS11); EFTA00101065 (DS9, FBI search warrant target list) |
+| "Mr. Evil" (foreign-policy) | Shaher Abdulhak | EFTA01614978, EFTA01615037 (DS10) |
+| "Dr. Evil" / "Mr. Evil" (domestic) | Dr. Steven Victor, M.D. | EFTA01991050, EFTA01884983, EFTA01779967, EFTA01885451, EFTA01619940, EFTA01620096, EFTA01616196, EFTA01266403, EFTA01798499, EFTA01780682 (DS10) |
+| "MacGyver" (the lawyer) | Reid Weingarten (Steptoe & Johnson) | EFTA00637474, EFTA00819238, EFTA01004338 (DS9); EFTA02451579, EFTA02661816 (DS11). Corrects earlier misidentification as Brafman. |
+
+### Trump-Related FD-302 Quotes (verbatim from sworn interviews)
+Full file at [[Trump - Three Unreported FBI 302 Details]]. These document Epstein and Maxwell conduct (and are listed here for completeness), not conduct by Trump.
+
+| Verbatim quote | Document | Date |
+|----------------|----------|------|
+| "During one of the massages, EPSTEIN was on the phone with DONALD TRUMP." | EFTA01248567 (DS9, Serial 304) | 08/06/2019 |
+| "EPSTEIN was always on the phone with others including, BILL CLINTON and DONALD TRUMP." | EFTA00090339 (DS9), page 8 | 11/04/2020 |
+| "MAXWELL told [her] that DONALD TRUMP was their neighbor… 'My partner Jeffrey is a Ralph Lauren type…' 'Do whatever he likes and you'll be fine'." | EFTA01245656 (DS9, Serial 315) | 09/27/2019 |
+
+### Leon Black DS9 evidence chain
+Full file additions at [[Leon Black - Apollo Connection]].
+
+| Claim | Document |
+|-------|----------|
+| FBI 302 victim interview (April 2020), Black sexual abuse + $10M to Epstein under duress | EFTA00079370 (DS9) + duplicate copies at EFTA00087968, EFTA00090606, EFTA00103694, EFTA00152747, EFTA00173803 (all DS9) |
+| ADA Leah Saxtein (Manhattan DA) 6-page interview, names Harry Dubin, Mort Zuckerman, Harvey Weinstein, Alex Von Furstenberg, Len Blavatnik | EFTA01246230 (DS9) |
+| Maxwell-spinoff SDNY AUSA email | EFTA02731604, EFTA02731578 (DS12) |
+| Fourth Black victim (2023, "Mary" intermediary, age ~17 in 2001) | EFTA00156644 (DS9) |
+
+### Barak DS9 Calendar additions (Groff records, EFTA00284xxx-EFTA00287xxx)
+Full additions at [[Ehud Barak - Israel Connection]].
+
+| Claim | Document |
+|-------|----------|
+| Dec 4 2013 appointment | EFTA00284747 (DS9) |
+| Sept 2013 dinner with Terje, Ehud, Nili | EFTA00284799 (DS9) |
+| 2014 dinner-party guest list (Barak alongside Black, Staley, Blankfein, Kissinger, Summers, Woody Allen) | EFTA00284908 (DS9) |
+| Jan 23 2014 island invitation | EFTA00284942 (DS9) |
+| June 9 2014 Thiel + Barak dinner | EFTA00284949 (DS9) |
+| Jan 26 2014 Barak on Epstein's aircraft (PB to Tampa, Galaxy Aviation) | EFTA00285006 (DS9) |
+| Aug 28 2016 lunch with Barak, Tom Barrack, Vital Churkin | EFTA00285196 (DS9) |
+| Feb 25 2019 same-day breakfast + lunch with Barak (5 months pre-arrest) | EFTA00285740 (DS9) |
+
+### Foreign-president identification (Jane Doe #3 trafficking allegation list)
+| Claim | Document |
+|-------|----------|
+| Accusation compilation lists unnamed "prince," "foreign president," "owner of a French hotel chain" | EFTA00022133 (DS8) |
+| Jane Doe #3 broader filing context | EFTA00021553 (DS8), Case 9:08-cv-80736-KAM (01/02/2015) |
+| Barak as STRONG candidate for the "foreign president" entry | DS9 calendar series above + 19-document scheduling extraction in [[Ehud Barak - Israel Connection]] |
+
+---
+
 ## CLAIMS WE DO NOT MAKE (insufficient sourcing)
 - We do NOT claim Epstein was definitely murdered (evidence is circumstantial, labeled ANALYSIS)
 - We do NOT claim specific intelligence services "ran" Epstein (we say "intelligence-linked" with FBI documents as basis)
@@ -192,8 +244,10 @@ These are documents produced by the United States Department of Justice under th
 - We do NOT reproduce victim diary raw text (names of accused only, victim's words protected)
 - We do NOT publish residential addresses of suspects
 - We do NOT attribute criminal conduct without labeling allegations as such
+- We do NOT extend the Trump FD-302 quotes beyond what the documents say verbatim (the quotes document Epstein and Maxwell conduct, not Trump conduct)
+- We do NOT publish hypothesis-stage codename identifications; only CONFIRMED identifications with multi-source evidence chains appear in [[CODENAME REGISTRY - Cross-Reference Deredactions]]
 
 ---
 
 *Every claim in our case study traces to this index. If it's not here, it's not in the document.*
-*Last updated: 2026-05-25*
+*Last updated: 2026-06-12*

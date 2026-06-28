@@ -121,4 +121,39 @@ Barak ←→ Epstein (adviser/fixer relationship)
 
 ---
 
+## Barak as the strongest candidate for the "foreign president" in the Jane Doe #3 filing
+
+The accusation compilation [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) (DS8) lists trafficking allegations from Virginia Giuffre that include, alongside named individuals Bill Richardson, George Mitchell, Marvin Minsky, Jean-Luc Brunel, Dershowitz, and Prince Andrew, an unnamed *"prince,"* an unnamed *"foreign president,"* and the unnamed owner of *"a French hotel chain."* The Jane Doe #3 filing [EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf) (Case 9:08-cv-80736-KAM, filed 01/02/2015) provides the framing: *"numerous prominent American politicians, powerful business executives, foreign presidents, a well-known Prime Minister, and other world leaders. Epstein required Jane Doe #3 to describe the events that she had with these men so that he could potentially blackmail them."*
+
+Of the documented foreign-leader contacts in the Epstein corpus, Ehud Barak is the strongest candidate for either the "foreign president" entry (the Jane Doe #3 filing uses "president" and "prime minister" as separate categories, but informal contemporaneous usage frequently conflates the two for a former PM). DS9 Lesley Groff calendar evidence makes the case independently of the trafficking-allegation text.
+
+### DS9 scheduling-record additions (Lesley Groff records, EFTA00284xxx-EFTA00287xxx series)
+
+DS9 contains 15+ Barak scheduling entries beyond what the original 19-document extraction surfaced:
+
+- [EFTA00284747](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284747.pdf), Dec 4 2013, *"3:00pm Appt w/Ehud Barak"*
+- [EFTA00284799](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284799.pdf), Sept 2013, *"7:45pm Casual Dinner w/Terje, Ehud and Nili"* (Barak and wife)
+- [EFTA00284908](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284908.pdf), 2014 dinner-party guest list: Barak alongside Black, Staley, Blankfein, Kissinger, Summers, Woody Allen
+- [EFTA00284942](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284942.pdf), Jan 23 2014, *"Possibly Ehud Barak to go to JE's island today"*
+- [EFTA00284949](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284949.pdf), June 9 2014, *"DINNER w/Peter Thiel and Ehud Barak"*
+- [EFTA00285006](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285006.pdf), Jan 26 2014, *"Fly Ehud Barak from PB, Galaxy Aviation, to Tampa"* (Barak on Epstein's aircraft)
+- [EFTA00285196](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285196.pdf), Aug 28 2016, *"LUNCH w/Ehud Barak, Tom Barrack and Vital Churkin"*
+- [EFTA00285740](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285740.pdf), Feb 25 2019, two meals same day (BREAKFAST + LUNCH w/Barak). **Five months before Epstein's arrest.**
+
+### What DS9 elevates the identification to
+
+The DS9 additions establish four points the original 19-document extraction could only suggest:
+1. Barak used Epstein's private aircraft.
+2. Barak was invited to Epstein's island.
+3. The relationship continued through February 2019.
+4. Nili Priell Barak (his wife) traveled with him in the Epstein orbit.
+
+Combined with the documented apartment 11J residency, the Israeli-government security installation, and the Carbyne / Unit 8200 pipeline thread, the DS9 evidence elevates Barak from documented social contact to documented operational integration. The "foreign president" identification in the Jane Doe #3 accusation compilation moves from PROBABLE to **STRONG** with the DS9 calendar data.
+
+### Important separation
+
+The accusation compilation [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) lists Barak as a candidate for one entry in the *list of trafficking allegations*. This is not the same evidentiary standard as the documented social and operational contacts above. The two threads should not be merged in published material, they live at different evidence tiers. The social / operational contact is heavily documented. The trafficking-allegation identification is candidate-strength, even after the DS9 calendar evidence.
+
+---
+
 *Nili Priell in document extraction CONFIRMED as Nili Priel (Barak's wife) via public reporting*

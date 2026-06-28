@@ -16,7 +16,7 @@
 **Ring 2, Recruitment:**
 - Maxwell (1,040 flights, "Shall I bring her to temple")
 - Brunel/MC2 (dead in Paris jail Feb 2022)
-- Drokova sisters: Victoria (recruiter, 1,627 emails) + Masha/Bucher (Putin Nashi → Epstein PR → Day One Ventures $450M)
+- Drokova sisters: Victoria (recruiter, 1,627 emails) + Masha/Bucher (Putin Nashi → Epstein PR → Day One Ventures, ~$600M claimed / ~$91M EDGAR-disclosed)
 - Pozhidaeva (FSB officer's daughter, MGIMO grad, recruited from former USSR)
 - Pierce (scouted Moscow/Kiev/Odessa for "presents," "great time with the girls," $3M Coinbase)
 - Demarchelier (fashion photographer, died 2022, named by Kellen)

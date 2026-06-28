@@ -62,7 +62,7 @@
 | **Carbyne / Reporty** | Barak/Elichai/Buchris | Unit 8200, Epstein funded, 23 US states, Axon $625M | YES |
 | **FST Biometrics** | Farkash (fmr IDF MI Dir) | Gaza-tested, Barak on board, $15M investment | YES |
 | **Palantir Technologies** | Peter Thiel | Israel military partnership began at Epstein dinner | YES |
-| **Day One Ventures** | Masha Drokova | $450M, quantum/nuclear/AI/BCI, Putin Youth | YES |
+| **Day One Ventures** | Masha Drokova | ~$600M publicly claimed / ~$91M EDGAR-disclosed, quantum/nuclear/AI/BCI, Putin Youth | YES |
 | **Valar Ventures** | Peter Thiel | $40M from Epstein → $170M, largest estate asset | YES |
 | **MC2 Model Management** | Brunel/Raphaeli | Trafficking pipeline, Tel Aviv/NYC/Miami offices | YES |
 | **DEKA Research** | Dean Kamen | Marcinkova placed as flight instructor | YES |
