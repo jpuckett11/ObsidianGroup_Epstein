@@ -317,7 +317,118 @@ Direct CDN fetch of the page JSON returns HTTP 403 (Wix forbids
 unauthenticated access to internal page JSONs). The content of the
 "Scrap page (invisible)" remains unrecovered through passive means.
 
-## 12. Standing investigative questions
+## 12. EFTA01795680: Epstein forwarded the Negroni article himself
+
+The bates EFTA01795680.pdf is recovered. It is a **one-page email** with
+"Sent from my iPhone" in the signature line. The email body reads:
+
+```
+From: Jeffrey Epstein
+Sent: Thursday, January [year], [time] PM
+To: [redacted in recovered copy]
+Subject: Flying Lessons: Did Popular Aviatrix Right-Seat for Epstein
+         in Royal Sex Scandal?
+
+you were right
+
+[link to Nadia photo on blogspot CDN]
+[link to article on christinenegroni.blogspot.com]
+
+Sent from my iPhone
+
+EFTA_R1_00131018
+EFTA01795680
+```
+
+Two things make this email operationally significant:
+
+1. **Epstein sent it himself**, from his iPhone, forwarding Christine
+   Negroni's January 22, 2015 article that publicly documents Marcinkova
+   as the "aviatrix" allegedly involved in the Andrew matter and
+   sourced to Philip Weiss's 2007 NY Magazine reporting that Epstein
+   trafficked Marcinkova at 14 from the Balkans.
+2. **The body reads "you were right"** — meaning the recipient had
+   previously warned Epstein that this story was coming or that
+   Marcinkova was an exposure point. The recipient was close enough to
+   receive this confirmation.
+
+The email was preserved in the EFTA corpus and is now accessible at the
+public DOJ Epstein release portal (DataSet 10). A Wayback Machine copy
+is also archived from 2026-02-20.
+
+## 13. Negroni's 2015 article: the FAA credentials that aren't there
+
+Negroni's reporting documents Marcinkova's FAA licenses as of January
+2015 as:
+
+> "FAA licenses as a single and multi engine, instrument-rated pilot
+> and ground and flight instructor"
+
+**What is conspicuously absent from the 2015 FAA record per Negroni:**
+
+- ATP (Airline Transport Pilot)
+- Any Gulfstream type rating
+- Any Boeing type rating
+
+**Compare against the aviloop.com claims:**
+
+| Year | Aviloop claim about Marcinkova's ratings |
+|------|------|
+| 2015 (Negroni, sourced to FAA) | single + multi engine + instrument + flight instructor |
+| 2019 (Aviloop website) | ATP + Gulfstream II/III/IV + Boeing 737/47/57/67 |
+| 2026 (Aviloop website) | ATP + "multiple Gulfstream and Boeing" + aerobatic |
+
+To get from the 2015 FAA record to the 2019 Aviloop claim, Marcinkova
+would have had to earn:
+- ATP certificate
+- Type ratings on 4 distinct Gulfstream models (II, III, IV)
+- Type ratings on 4 distinct Boeing models (737, 747, 757, 767)
+
+In **four years**, while running a marketing business named Aviloop.
+
+This is verifiable through the FAA Airmen Inquiry. The system is
+publicly searchable at https://amsrvs.registry.faa.gov/airmeninquiry/.
+The current record will either confirm or refute the 2019 claim.
+
+If the current FAA record does not show the type ratings, the 2019
+website claim was false on its face, and the 2026 walkback to "multiple
+Gulfstream and Boeing" is consistent with quietly hiding that the
+specifics never existed.
+
+This is also the explanation for why the website has retained the
+copyright `©2019 by Aviloop` for seven years: the page's content was
+last meaningfully changed when the bio walkback happened, not when the
+site was edited. The copyright stamp is a fossil of the last
+substantive content revision.
+
+## 14. Marcinkova's response on the record
+
+Negroni asked Marcinkova directly. Her quote:
+
+> "Accusations are obviously bizarre, untrue and clearly motivated by
+> money."
+
+That language pattern — "obviously bizarre, untrue and clearly motivated
+by money" — is consistent with the public denial language Epstein
+associates used through the 2007-2019 period. It is denial without
+specific factual rebuttal. The on-the-record statement is preserved
+in the case file via Negroni's blog.
+
+## 15. Sarah Kensington / Sarah Kellen cross-reference
+
+Negroni names **Sarah Kensington** as an associate of Epstein and "NASCAR
+driver's wife." This is Sarah Kellen (later Sarah Kellen-Kensington),
+who married NASCAR driver Brian Vickers. She is independently named in
+the case file's documented payouts via the 1953 Trust and in multiple
+victim depositions.
+
+Negroni's 2015 article is therefore a contemporary public record that
+ties three named individuals — Marcinkova, Kellen-Kensington, and
+Epstein — together in published reporting fifteen months before the
+Acosta Pulitzer-winning Herald series and four years before the
+Epstein arrest.
+
+## 16. Standing investigative questions
 
 1. **What is on the hidden "About (hidden)" page** at
    `aviloop.com/about-hidden`? Page JSON file is
