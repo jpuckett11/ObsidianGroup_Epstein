@@ -439,7 +439,118 @@ The site remains continuously maintained through the entire period.
 
 ---
 
-## 10. Standing investigative questions
+## 10. Corporate registration and aircraft ownership
+
+### Aviloop LLC — NY Department of State record
+
+- **Name:** Aviloop LLC
+- **NY DOS ID:** 4103023
+- **Filing date:** June 6, 2011
+- **Status:** Active
+- **Entity type:** Foreign Limited Liability Company
+- **Jurisdiction of origin:** Delaware
+- **Registered agent / DOS process contact:** C/O Nadia Marcinko
+- **Registered and principal address:** 301 East 66th Street, New York, NY 10065
+- **Officers / directors / members:** none disclosed (single-member LLC)
+
+The 301 East 66th Street address matches the documented Mark Epstein
+building in the existing case file (`EPSTEIN_MAP_v2_links.csv`,
+`INTERNATIONAL REGISTRIES - Wave 2.md`). Aviloop LLC has operated from
+Mark Epstein's property continuously since 2011, with Marcinko as the
+sole publicly-disclosed principal.
+
+### Aviatri LLC — no NY registration record found
+
+A query for "Aviatri" in NY State public corporate records returned no
+matches. Aviatri appears not to be separately registered in New York.
+Possible explanations:
+
+1. Aviatri operates as a DBA (assumed name) under Aviloop LLC
+2. Aviatri is registered only in Delaware without NY foreign qualification
+3. Aviatri exists only as a brand and a domain, with no corporate vehicle
+4. Aviatri is registered under a different LLC name we have not yet
+   identified
+
+The absence is notable. The aviatri.com site has been continuously
+maintained for years with a real callable phone number and email
+intake, suggesting active operations. If there is no corresponding NY
+LLC and no Delaware foreign qualification visible, the operating
+entity behind Aviatri is concealed at the public-records layer.
+
+### Marcinko Holdings LLC — Montana asset-protection entity
+
+The FAA aircraft registry (June 2026 monthly release) lists two
+aircraft owned by **MARCINKO HOLDINGS LLC**:
+
+| Tail # | Aircraft | Year built | Listed address |
+|---|---|---|---|
+| N102ZW | KITFOX IV (kit-built experimental) | 2024 | 1001 S Main St Ste 49, Kalispell, MT 59901 |
+| N7143A | Kit-built experimental (serial 027) | 2014 | 121 Wisconsin Ave Ste 101, Whitefish, MT 59937 |
+
+Kalispell and Whitefish are in Flathead County, Montana — a recognized
+asset-protection LLC jurisdiction with favorable privacy and tax
+treatment. Both listed addresses are virtual-office / mail-forwarding
+suites. The two distinct addresses (changed between 2014 and 2024)
+indicate active maintenance of the Montana corporate vehicle.
+
+The KITFOX IV is a two-seat homebuilt experimental aircraft with
+aerobatic capability. The 2026 Aviloop bio claim of "aerobatic pilot"
+is partially supported by ownership of this airframe, since experimental
+aircraft do not require formal FAA aerobatic ratings when flown by the
+owner-pilot.
+
+Marcinko Holdings appears to be Nadia Marcinko's personal asset-holding
+entity, structurally separate from the operating entities Aviloop LLC
+and (whatever vehicle backs) Aviatri.
+
+### Old Epstein-network airframes
+
+For completeness:
+
+| Tail # | Original era | Current owner per FAA registry |
+|---|---|---|
+| N908JE | Epstein "Lolita Express" Boeing 727 | Jet Assets Inc |
+| N222JE | Epstein Gulfstream | Higher Cause LLC |
+| N474AW | Epstein Gulfstream era | Centurion Aviation LLC (US State Department 1997-2010) |
+
+None of these tail numbers are currently registered to Aviloop,
+Aviatri, Marcinko Holdings, or any entity with a publicly visible
+Marcinko connection. The post-Epstein disposition of the airframes
+removed them from this trace.
+
+## 11. What can and cannot be verified from public records
+
+**Verifiable today from public sources:**
+
+- Aviloop LLC exists, is active, is in Delaware-origin foreign
+  qualification in NY, is operated by Nadia Marcinko at 301 East 66th
+  Street (Mark Epstein's building)
+- Aviloop has run continuously since 2011 with zero named clients
+  across any source (own website, aviation press, case file)
+- Aviatri has no separately-findable NY corporate registration
+- Marcinko Holdings LLC owns aerobatic-capable homebuilt aircraft in
+  Montana
+- Nadia Marcinko's FAA airmen record is as documented in section 7
+- The principal's biographical pattern is documented per Weiss 2007
+  and Negroni 2015
+
+**Not verifiable from public records without different access:**
+
+- Aviloop's revenue (would require IRS tax filings or NY DTF records)
+- Aviloop's clients (would require 1099 distributions, contract
+  filings, or insider testimony)
+- Aviatri's corporate vehicle and ownership chain (would require
+  Delaware certificate of formation purchase or FOIL request)
+- Whether Aviloop is a federal contractor (SAM.gov requires
+  authenticated access)
+- Any active litigation against Aviloop or its principal (would
+  require PACER or state court searches)
+- Flight history of N102ZW or N7143A (would require ADS-B Exchange or
+  FlightAware historical query — both possible if needed)
+- The original full email header on EFTA01795680 (would require
+  unredacted source data via FOIA or subpoena)
+
+## 12. Standing investigative questions
 
 1. **Identify the EFTA01795680 sender** — Yahoo Mail user in Epstein's
    close correspondence circle who warned him about Marcinkova-related
